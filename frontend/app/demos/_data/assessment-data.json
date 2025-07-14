@@ -1,0 +1,96 @@
+{
+  "id": "assessment-456",
+  "title": "Essay Analysis: Impact of Technology on Education",
+  "subject": "Educational Technology",
+  "studentLevel": "High School",
+  "submissionDate": "2025-05-15",
+  "overallScore": 85,
+  "passingScore": 70,
+  "learningObjectives": [
+    "Analyze the effects of technology integration in educational settings",
+    "Evaluate evidence supporting technology benefits in learning",
+    "Articulate challenges in implementing educational technology",
+    "Propose solutions to common technology adoption issues"
+  ],
+  "rubric": [
+    {
+      "criterionId": "c1",
+      "name": "Content Knowledge",
+      "description": "Demonstrates understanding of the subject matter",
+      "maxScore": 25,
+      "score": 22,
+      "feedback": "Shows strong understanding of educational technology concepts and their applications in learning environments."
+    },
+    {
+      "criterionId": "c2",
+      "name": "Analysis & Critical Thinking",
+      "description": "Analyzes information and forms reasoned conclusions",
+      "maxScore": 25,
+      "score": 20,
+      "feedback": "Good analysis of technology's impact, but could develop counterarguments more thoroughly."
+    },
+    {
+      "criterionId": "c3",
+      "name": "Evidence & Support",
+      "description": "Uses appropriate evidence to support claims",
+      "maxScore": 20,
+      "score": 17,
+      "feedback": "Provides relevant examples, but could use more diverse sources to strengthen arguments."
+    },
+    {
+      "criterionId": "c4",
+      "name": "Organization & Structure",
+      "description": "Presents ideas in a logical, coherent manner",
+      "maxScore": 15,
+      "score": 13,
+      "feedback": "Well-organized with clear introduction and conclusion. Transitions between paragraphs could be smoother."
+    },
+    {
+      "criterionId": "c5",
+      "name": "Language & Communication",
+      "description": "Uses clear, precise language appropriate to the audience",
+      "maxScore": 15,
+      "score": 13,
+      "feedback": "Writing is generally clear and appropriate. Some technical terms could be better explained for the audience."
+    }
+  ],
+  "feedback": {
+    "strengths": [
+      "Comprehensive overview of current educational technology trends",
+      "Effective use of case studies to illustrate key points",
+      "Strong conclusion with thoughtful recommendations",
+      "Good balance between benefits and challenges of technology integration"
+    ],
+    "areasForImprovement": [
+      "Consider addressing equity issues in technology access more thoroughly",
+      "Include more data-driven evidence to support your claims about improved learning outcomes",
+      "Explore the perspective of resistant educators in more depth",
+      "Provide more specific examples of successful technology implementation strategies"
+    ],
+    "summary": "This assessment demonstrates a solid understanding of educational technology and its impact on learning environments. The analysis is thoughtful and considers multiple perspectives, though it could be strengthened with more diverse evidence. The organization is effective, making the essay easy to follow. Overall, this is a strong submission that meets the key learning objectives."
+  },
+  "nextSteps": {
+    "recommendedResources": [
+      {
+        "title": "Digital Equity in Education: Addressing the Divide",
+        "type": "Article",
+        "link": "https://example.com/digital-equity"
+      },
+      {
+        "title": "Evidence-Based Technology Integration",
+        "type": "Online Course",
+        "link": "https://example.com/tech-integration-course"
+      },
+      {
+        "title": "Measuring Educational Technology Outcomes",
+        "type": "Research Paper",
+        "link": "https://example.com/measuring-edtech"
+      }
+    ],
+    "practiceActivities": [
+      "Develop a mini case study of a successful technology implementation",
+      "Create a data collection plan to measure technology impact in a classroom",
+      "Design a professional development session for technology-resistant educators"
+    ]
+  }
+}

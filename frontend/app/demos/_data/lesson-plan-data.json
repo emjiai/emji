@@ -1,0 +1,598 @@
+{
+  "id": "lesson-plan-789",
+  "title": "Generative AI in the Workplace - Professional Development",
+  "subject": "Technology & Professional Development",
+  "gradeLevel": "Professional",
+  "teacher": "AI Training Specialist",
+  "academicYear": "2025-2026",
+  "month": "July",
+  "year": 2025,
+  "standards": [
+    "AI-PROF-1: Demonstrate understanding of generative AI fundamentals and capabilities in workplace contexts.",
+    "AI-PROF-2: Develop and implement effective prompt engineering techniques for professional tasks.",
+    "AI-PROF-3: Apply ethical frameworks and best practices for responsible AI use in professional environments."
+  ],
+  "unitTheme": "AI Integration and Workplace Excellence",
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "weeklyObjective": "Understand the basic fundamentals and capabilities of generative AI",
+      "days": [
+        {
+          "dayOfMonth": 1,
+          "dayOfWeek": "Monday",
+          "todaysLearning": "Today, participants will be introduced to the transformative world of generative AI and its impact on modern workplaces. We'll explore what generative AI is, its core capabilities, and why it's becoming essential for professional success. Through engaging demonstrations and real-world examples, participants will develop a foundational understanding of AI technologies that will be built upon in subsequent lessons.",
+          "lessons": [
+            {
+              "id": "l1",
+              "title": "Introduction to Generative AI",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Define what generative AI is", "Identify the basic capabilities of AI tools"],
+              "activities": [
+                "Welcome activity: AI myths vs reality discussion",
+                "Lecture: Basic generative AI concepts",
+                "Video: 'AI: The New Workplace Assistant'"
+              ],
+              "materials": ["AI platforms", "Demo accounts", "Prepared examples", "Handouts"],
+              "assessment": "Exit ticket: Three things learned about AI",
+              "homework": "Explore one AI tool and document first impressions",
+              "category": "Introduction",
+              "color": "#4CAF50"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 2,
+          "dayOfWeek": "Tuesday",
+          "todaysLearning": "Today, participants will get hands-on experience using various AI tools under guided instruction. They will learn proper prompting techniques and compare different AI platforms, noting their unique strengths and applications. This practical workshop experience will reinforce theoretical knowledge and develop essential AI communication skills.",
+          "lessons": [
+            {
+              "id": "l2",
+              "title": "AI Tools Hands-On Workshop",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Use AI tools effectively for basic tasks", "Compare different AI platforms and their strengths"],
+              "activities": [
+                "Workshop setup and account access",
+                "Prompt engineering demonstration",
+                "Guided practice: Using ChatGPT, Claude, and Copilot",
+                "Workshop activity: Comparing AI platform outputs"
+              ],
+              "materials": ["AI platform access", "Prompt templates", "Comparison worksheets"],
+              "assessment": "Completed workshop activities with AI outputs and comparisons",
+              "homework": "Complete practice prompts from workshop",
+              "category": "Lab",
+              "color": "#2196F3"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 3,
+          "dayOfWeek": "Wednesday",
+          "todaysLearning": "Today's focus will be on AI applications for content creation and professional communication. Participants will learn about various AI writing tools and their specific functions, developing an understanding of how these tools work together as a professional 'toolkit'. Interactive activities and practical exercises will help participants visualize AI capabilities and their professional applications.",
+          "lessons": [
+            {
+              "id": "l3",
+              "title": "AI for Content Creation",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Identify major AI content creation tools", "Explain the function of each AI application"],
+              "activities": [
+                "Review of previous day's tool exploration",
+                "Interactive presentation: AI content creation tools",
+                "Group activity: Content creation function cards",
+                "Digital exploration: AI writing assistant simulation"
+              ],
+              "materials": ["AI tool overviews", "Function cards", "Computers for practice"],
+              "assessment": "AI tool matching quiz",
+              "homework": "Create AI tool reference guide",
+              "category": "Lecture",
+              "color": "#FF9800"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 4,
+          "dayOfWeek": "Thursday",
+          "todaysLearning": "Today, participants will begin their AI implementation strategy projects. They will apply their knowledge of AI capabilities to design and plan effective workplace integration approaches. This project-based learning activity will help consolidate their understanding of AI tools while allowing for personalized application and strategic planning.",
+          "lessons": [
+            {
+              "id": "l4",
+              "title": "AI Strategy Planning Project",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Design an AI implementation strategy for your role", "Identify specific tools for workplace integration"],
+              "activities": [
+                "Project introduction and requirements",
+                "Brainstorming session: AI opportunities in your work",
+                "Individual planning time",
+                "Tool selection and strategy outline"
+              ],
+              "materials": ["Project rubric", "Sample AI strategies", "Planning worksheets"],
+              "assessment": "Approved strategy plan",
+              "homework": "Research AI tools specific to your industry",
+              "category": "Project",
+              "color": "#9C27B0"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 5,
+          "dayOfWeek": "Friday",
+          "todaysLearning": "Today, participants will explore AI ethics and responsible AI use foundations. They will learn about the importance of ethical considerations in AI implementation and begin developing frameworks for responsible AI adoption in their workplace contexts. This foundational ethics session prepares participants for more advanced ethical discussions later in the course.",
+          "lessons": [
+            {
+              "id": "l5",
+              "title": "AI Ethics Foundations",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Understand basic AI ethics principles", "Identify ethical considerations in workplace AI use"],
+              "activities": [
+                "Ethics scenario discussion starter",
+                "Introduction: Why AI ethics matter",
+                "Group exploration: Ethical dilemmas in AI use",
+                "Framework building: Basic ethical guidelines"
+              ],
+              "materials": ["Ethics scenarios", "Framework templates", "Discussion guides"],
+              "assessment": "Ethics awareness self-assessment",
+              "homework": "Reflect on ethical considerations in your planned AI use",
+              "category": "Ethics",
+              "color": "#E91E63"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 2,
+      "weeklyObjective": "Master advanced AI techniques and explore specialized applications",
+      "days": [
+        {
+          "dayOfMonth": 8,
+          "dayOfWeek": "Monday",
+          "todaysLearning": "Today, participants will explore advanced AI prompting techniques and their specialized applications for complex workplace tasks. Through lectures, videos, and group activities, they will learn to craft sophisticated prompts and identify different approaches for various professional scenarios.",
+          "lessons": [
+            {
+              "id": "l5",
+              "title": "Advanced Prompting Techniques",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Master chain-of-thought and complex prompting", "Identify specialized prompting approaches"],
+              "activities": [
+                "Review quiz: Basic AI concepts",
+                "Lecture: Advanced prompting strategies",
+                "Video: 'Prompt Engineering for Professionals'",
+                "Group activity: Complex prompting scenarios"
+              ],
+              "materials": ["Prompting frameworks", "Video worksheet", "Scenario cards"],
+              "assessment": "Completed advanced prompting examples",
+              "homework": "Practice advanced prompts in your work context",
+              "category": "Lecture",
+              "color": "#FF9800"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 9,
+          "dayOfWeek": "Tuesday",
+          "todaysLearning": "Today, participants will conduct experiments with AI for data analysis and research tasks, understanding how AI processes and interprets information. This hands-on activity will help them visualize AI capabilities for complex analytical work and appreciate the importance of prompt structure for research applications.",
+          "lessons": [
+            {
+              "id": "l6",
+              "title": "AI for Data Analysis Workshop",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Use AI for data interpretation and analysis", "Apply AI for research and information synthesis"],
+              "activities": [
+                "Pre-workshop discussion: AI analytical capabilities",
+                "Demo: AI data analysis techniques",
+                "Workshop: AI-assisted research project",
+                "Data interpretation and insight generation"
+              ],
+              "materials": ["Sample datasets", "Research templates", "Analysis frameworks", "Workshop guides"],
+              "assessment": "Research analysis report draft",
+              "homework": "Complete AI research analysis project",
+              "category": "Lab",
+              "color": "#2196F3"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 10,
+          "dayOfWeek": "Wednesday",
+          "todaysLearning": "Today, participants will work on developing their AI implementation strategies, applying their knowledge of advanced AI techniques and specialized applications. They will receive feedback from peers and the instructor, refining their strategies to ensure practicality and effectiveness.",
+          "lessons": [
+            {
+              "id": "l7",
+              "title": "AI Strategy Development Workshop",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Develop comprehensive AI implementation strategies", "Incorporate advanced techniques into workplace plans"],
+              "activities": [
+                "Strategy development time",
+                "Peer feedback sessions",
+                "Instructor consultations",
+                "Strategy refinement"
+              ],
+              "materials": ["Development templates", "Feedback forms", "Strategy guides", "Planning tools"],
+              "assessment": "Progress check on strategy development",
+              "homework": "Continue refining AI implementation strategy",
+              "category": "Project",
+              "color": "#9C27B0"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 11,
+          "dayOfWeek": "Thursday",
+          "todaysLearning": "Today, participants will learn how AI tools integrate into existing workflows and how individual AI applications form comprehensive workplace solutions. Through interactive activities and digital explorations, they will visualize the relationships between different AI tools and their combined impact on productivity.",
+          "lessons": [
+            {
+              "id": "l8",
+              "title": "AI Workflow Integration",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Explain how AI tools integrate into workflows", "Describe how individual tools create comprehensive solutions"],
+              "activities": [
+                "Review of AI tool capabilities",
+                "Lecture: From individual tools to integrated workflows",
+                "Interactive activity: Building AI-enhanced workflows",
+                "Digital exploration: Mapping workflow transformations"
+              ],
+              "materials": ["Workflow diagrams", "Digital mapping tools", "Integration examples"],
+              "assessment": "Workflow integration plan",
+              "homework": "Create workflow map: Current to AI-enhanced",
+              "category": "Lecture",
+              "color": "#FF9800"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 12,
+          "dayOfWeek": "Friday",
+          "todaysLearning": "Today, participants will present their AI implementation strategies, demonstrating their understanding of AI integration and workflow enhancement. They will receive feedback from peers and the instructor, reflecting on their learning journey throughout the strategy development process.",
+          "lessons": [
+            {
+              "id": "l9",
+              "title": "AI Strategy Presentations",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Present AI implementation strategies", "Demonstrate understanding of AI workflow integration"],
+              "activities": [
+                "Presentation setup",
+                "5-minute strategy presentations per participant",
+                "Peer feedback forms",
+                "Strategy discussion and Q&A"
+              ],
+              "materials": ["Completed strategies", "Feedback forms", "Presentation technology"],
+              "assessment": "Strategy presentation and peer evaluation",
+              "homework": "Write reflection on strategy development learning",
+              "category": "Assessment",
+              "color": "#F44336"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 3,
+      "weeklyObjective": "Understand AI ethics and responsible implementation",
+      "days": [
+        {
+          "dayOfMonth": 15,
+          "dayOfWeek": "Monday",
+          "todaysLearning": "Today, participants will be introduced to the concept of AI ethics and responsible implementation, understanding why ethical considerations are crucial and the principles of responsible AI use. They will engage in activities that help them identify ethical challenges and develop frameworks for responsible AI adoption.",
+          "lessons": [
+            {
+              "id": "l10",
+              "title": "AI Ethics Introduction",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Explain why AI ethics matter in the workplace", "Describe key principles of responsible AI use"],
+              "activities": [
+                "Hook: AI ethics scenario analysis",
+                "Lecture: The importance of AI ethics",
+                "Video: 'Responsible AI in Practice'",
+                "Group work: Ethics framework development"
+              ],
+              "materials": ["Ethics frameworks", "Video worksheet", "Scenario cards"],
+              "assessment": "Ethics framework accuracy",
+              "homework": "Read AI ethics guidelines pp. 28-32",
+              "category": "Introduction",
+              "color": "#4CAF50"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 16,
+          "dayOfWeek": "Tuesday",
+          "todaysLearning": "Today, participants will delve into specific ethical challenges in AI implementation, learning about bias, fairness, and transparency issues. They will engage in case study analysis to examine real-world ethical dilemmas and develop skills for identifying and addressing ethical concerns.",
+          "lessons": [
+            {
+              "id": "l11",
+              "title": "AI Bias and Fairness Exploration",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Identify types of AI bias and fairness issues", "Explain strategies for addressing ethical concerns"],
+              "activities": [
+                "Review: AI ethics principles",
+                "Interactive demonstration: Bias in AI systems",
+                "Case study analysis: Real-world AI bias examples",
+                "Solution development: Bias mitigation strategies"
+              ],
+              "materials": ["Case studies", "Bias examples", "Solution templates"],
+              "assessment": "Bias identification and mitigation quiz",
+              "homework": "Complete AI ethics case study worksheet",
+              "category": "Lab",
+              "color": "#2196F3"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 17,
+          "dayOfWeek": "Wednesday",
+          "todaysLearning": "Today, participants will compare and contrast different approaches to AI governance and policy, understanding the significance of various regulatory frameworks in the context of workplace AI implementation. They will engage in activities that help them visualize the differences between governance approaches.",
+          "lessons": [
+            {
+              "id": "l12",
+              "title": "AI Governance vs. Self-Regulation",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Compare different AI governance approaches", "Explain why organizations need AI policies"],
+              "activities": [
+                "Think-Pair-Share: Why do we need AI governance?",
+                "Lecture: Introduction to AI policy frameworks",
+                "Comparison activity: Governance vs. Self-regulation chart",
+                "Video: 'AI Regulation Around the World'"
+              ],
+              "materials": ["Comparison charts", "Policy examples", "Governance frameworks"],
+              "assessment": "Venn diagram: Governance approaches",
+              "homework": "Practice problems on AI policy development",
+              "category": "Lecture",
+              "color": "#FF9800"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 18,
+          "dayOfWeek": "Thursday",
+          "todaysLearning": "Today, participants will model the process of implementing ethical AI policies, using frameworks and guidelines to demonstrate their understanding of responsible AI deployment. They will also engage in simulations to explore the factors that affect ethical AI implementation.",
+          "lessons": [
+            {
+              "id": "l13",
+              "title": "AI Ethics Implementation Models",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Model the process of ethical AI implementation", "Demonstrate understanding of responsible AI deployment"],
+              "activities": [
+                "Modeling activity: Ethics policy development exercise",
+                "Group challenge: Implementation sequence planning",
+                "Digital simulation: Ethical decision-making scenarios",
+                "Exit activity: Implementation reflection"
+              ],
+              "materials": ["Policy templates", "Implementation guides", "Simulation software"],
+              "assessment": "Model accuracy and ethical reasoning",
+              "homework": "Prepare for unit assessment",
+              "category": "Project",
+              "color": "#9C27B0"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 19,
+          "dayOfWeek": "Friday",
+          "todaysLearning": "Today, participants will take a unit assessment to demonstrate their understanding of AI fundamentals, applications, and ethics. They will also reflect on their learning journey throughout the unit, mapping their progress and identifying areas for continued development.",
+          "lessons": [
+            {
+              "id": "l14",
+              "title": "AI Fundamentals Unit Assessment",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Demonstrate understanding of AI tools, techniques, and ethics"],
+              "activities": [
+                "Review game: AI Knowledge Jeopardy",
+                "Unit assessment: Multiple choice and scenario analysis",
+                "Reflection: Learning journey mapping"
+              ],
+              "materials": ["Assessment papers", "Answer sheets", "Reflection prompts"],
+              "assessment": "Unit assessment score",
+              "homework": "None - prepare for advanced applications!",
+              "category": "Assessment",
+              "color": "#F44336"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 4,
+      "weeklyObjective": "Explore advanced AI applications and workplace transformation",
+      "days": [
+        {
+          "dayOfMonth": 22,
+          "dayOfWeek": "Monday",
+          "todaysLearning": "Today, participants will be introduced to advanced AI applications and workplace transformation strategies, understanding how AI can fundamentally change work processes and organizational capabilities. They will engage in activities that help them visualize comprehensive AI transformation and identify advanced AI implementation approaches.",
+          "lessons": [
+            {
+              "id": "l15",
+              "title": "Advanced AI Applications Introduction",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Identify advanced AI workplace applications", "Explain how AI transforms organizational capabilities"],
+              "activities": [
+                "Assessment return and review",
+                "Introduction to advanced applications: AI Transformation",
+                "Video: 'AI: Transforming the Future of Work'",
+                "Application mapping activity: Creating transformation charts"
+              ],
+              "materials": ["Transformation case studies", "Video worksheet", "Mapping templates"],
+              "assessment": "Advanced application identification quiz",
+              "homework": "Read advanced AI applications pp. 40-45",
+              "category": "Introduction",
+              "color": "#4CAF50"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 23,
+          "dayOfWeek": "Tuesday",
+          "todaysLearning": "Today, participants will focus on AI for decision-making and strategic planning, learning about AI's role in analysis and planning processes. They will engage in activities that help them understand how AI can enhance decision-making and support strategic business functions.",
+          "lessons": [
+            {
+              "id": "l16",
+              "title": "AI for Decision-Making Focus",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Describe AI's role in decision-making processes", "Explain how AI supports strategic planning"],
+              "activities": [
+                "Decision-making framework demonstration",
+                "Lecture: AI in strategic planning and analysis",
+                "Workshop: AI-assisted decision simulation",
+                "Case study: Strategic AI implementation"
+              ],
+              "materials": ["Decision frameworks", "Planning tools", "Simulation software"],
+              "assessment": "Decision-making process diagram",
+              "homework": "Create AI decision-support plan",
+              "category": "Lecture",
+              "color": "#FF9800"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 24,
+          "dayOfWeek": "Wednesday",
+          "todaysLearning": "Today, participants will analyze how AI applications work together in complex organizational systems, exploring the concept of AI ecosystem integration and comprehensive transformation strategies. They will engage in activities that help them visualize AI relationships and understand system-wide AI implementation.",
+          "lessons": [
+            {
+              "id": "l17",
+              "title": "AI Ecosystem Integration",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Analyze how AI applications integrate across organizations", "Describe comprehensive AI transformation approaches"],
+              "activities": [
+                "Case study: Enterprise AI transformation",
+                "Group exploration: AI ecosystem mapping stations",
+                "Discussion: Integration challenges and solutions",
+                "Concept mapping: Organizational AI systems"
+              ],
+              "materials": ["Case study handouts", "Mapping materials", "Integration templates"],
+              "assessment": "Completed ecosystem integration maps",
+              "homework": "Research question: Choose an AI transformation to explore",
+              "category": "Project",
+              "color": "#9C27B0"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 25,
+          "dayOfWeek": "Thursday",
+          "todaysLearning": "Today, participants will explore how to measure AI impact and ROI, analyzing the metrics and evaluation approaches for AI implementations. They will engage in activities that help them understand the quantitative and qualitative aspects of AI success measurement.",
+          "lessons": [
+            {
+              "id": "l18",
+              "title": "AI Impact Measurement and ROI",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Explain how to measure AI implementation success", "Analyze ROI calculation methods for AI projects"],
+              "activities": [
+                "Gallery walk: AI success metrics examples",
+                "Discussion: Quantitative vs. qualitative AI impact",
+                "Case study analysis: ROI measurement approaches",
+                "Research time: Impact measurement project"
+              ],
+              "materials": ["ROI calculators", "Metrics frameworks", "Research guides"],
+              "assessment": "ROI analysis case study questions",
+              "homework": "Continue research for impact measurement project",
+              "category": "Lecture",
+              "color": "#FF9800"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 26,
+          "dayOfWeek": "Friday",
+          "todaysLearning": "Today, participants will work on their comprehensive AI transformation research projects, exploring advanced AI implementation strategies and preparing to present their findings. They will receive feedback from peers and the instructor, refining their presentations to ensure depth and practical applicability.",
+          "lessons": [
+            {
+              "id": "l19",
+              "title": "AI Transformation Research Project",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Research comprehensive AI transformation strategies", "Present findings using advanced AI concepts"],
+              "activities": [
+                "Project work time",
+                "Instructor conferences",
+                "Peer feedback sessions",
+                "Presentation preparation"
+              ],
+              "materials": ["Research materials", "Presentation templates", "Feedback forms"],
+              "assessment": "Project progress check",
+              "homework": "Complete draft of transformation project for Monday",
+              "category": "Project",
+              "color": "#9C27B0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "weekNumber": 5,
+      "weeklyObjective": "Synthesize understanding of AI fundamentals and workplace transformation",
+      "days": [
+        {
+          "dayOfMonth": 29,
+          "dayOfWeek": "Monday",
+          "todaysLearning": "Today, participants will present their AI transformation research projects, demonstrating their understanding of comprehensive AI implementation and strategic transformation approaches. They will receive feedback from peers and the instructor, reflecting on their learning journey throughout the project.",
+          "lessons": [
+            {
+              "id": "l20",
+              "title": "AI Transformation Presentations",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Present research on comprehensive AI transformation", "Evaluate peer transformation strategies"],
+              "activities": [
+                "Final presentation preparation (15 min)",
+                "Participant presentations (group 1)",
+                "Peer evaluation",
+                "Discussion and questions"
+              ],
+              "materials": ["Presentation technology", "Evaluation forms", "Presentation schedule"],
+              "assessment": "Presentation rubric scores",
+              "homework": "Prepare for final presentations (if not presented today)",
+              "category": "Assessment",
+              "color": "#F44336"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 30,
+          "dayOfWeek": "Tuesday",
+          "todaysLearning": "Today, participants will continue presenting their AI transformation research projects, synthesizing their learning from all presentations. They will engage in a class discussion to identify common themes and insights, creating a knowledge repository to visualize comprehensive AI implementation strategies.",
+          "lessons": [
+            {
+              "id": "l21",
+              "title": "AI Transformation Presentations (cont.)",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Present research on AI transformation strategies", "Synthesize learning from all transformation presentations"],
+              "activities": [
+                "Participant presentations (group 2)",
+                "Peer evaluation",
+                "Class discussion: Common themes and insights",
+                "Knowledge repository creation: AI transformation map"
+              ],
+              "materials": ["Presentation technology", "Evaluation forms", "Large paper for knowledge repository"],
+              "assessment": "Presentation rubric scores",
+              "homework": "Reflection: What was most valuable about AI workplace applications?",
+              "category": "Assessment",
+              "color": "#F44336"
+            }
+          ]
+        },
+        {
+          "dayOfMonth": 31,
+          "dayOfWeek": "Wednesday",
+          "todaysLearning": "Today marks the completion of our comprehensive AI workplace transformation journey. Participants will engage in final course reflection, receive their completion certificates, and establish ongoing learning commitments. This capstone session celebrates achievements while setting the foundation for continued AI development and implementation in their professional contexts.",
+          "lessons": [
+            {
+              "id": "l22",
+              "title": "Course Completion & Future AI Leadership",
+              "timeBlock": "9:00 AM - 10:30 AM",
+              "objectives": ["Reflect on complete AI learning journey", "Commit to ongoing AI leadership and development"],
+              "activities": [
+                "Comprehensive learning reflection and sharing",
+                "AI leadership commitment ceremony",
+                "Course evaluation and improvement feedback",
+                "Certificate presentation and networking celebration"
+              ],
+              "materials": ["Reflection templates", "Commitment documents", "Evaluation forms", "Completion certificates"],
+              "assessment": "Final comprehensive reflection and leadership commitment",
+              "homework": "Begin your AI transformation journey - implement your strategy!",
+              "category": "Graduation",
+              "color": "#4CAF50"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

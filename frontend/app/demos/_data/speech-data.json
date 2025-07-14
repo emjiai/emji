@@ -1,0 +1,265 @@
+{
+  "id": "speech-dev-321",
+  "title": "Speech Development Program: Early Phonological Skills",
+  "targetAge": "4-6 years",
+  "focusAreas": [
+    "Articulation of challenging sounds",
+    "Phonemic awareness",
+    "Vocabulary development",
+    "Narrative skills"
+  ],
+  "studentProfile": {
+    "currentSkills": {
+      "articulation": 3,
+      "phonemicAwareness": 2,
+      "vocabulary": 4,
+      "narrativeAbility": 3
+    },
+    "challengeAreas": [
+      "Difficulty with 'r' and 'l' sounds",
+      "Challenges with sound blending",
+      "Limited complex sentence structures"
+    ],
+    "strengths": [
+      "Strong receptive vocabulary",
+      "Good attention during activities",
+      "Enthusiastic about storytelling"
+    ]
+  },
+  "activities": [
+    {
+      "id": "act1",
+      "title": "Animal Sound Safari",
+      "focusArea": "Articulation",
+      "targetSounds": ["r", "l", "s"],
+      "duration": "15 minutes",
+      "materials": ["Animal picture cards", "Sound cards", "Mirror"],
+      "description": "A fun game where children identify animals and practice their sounds, focusing on challenging phonemes.",
+      "instructions": [
+        "Display animal pictures one at a time",
+        "Child names the animal and makes its sound",
+        "For animals with target sounds (like 'lion' for 'l'), practice the sound in isolation",
+        "Use the mirror to show proper tongue position",
+        "Have child create sentences about the animal using the target sound"
+      ],
+      "adaptations": [
+        "Simplify: Focus only on identifying sounds, not producing them",
+        "Challenge: Create short stories using multiple animals with target sounds"
+      ],
+      "homeActivity": "Create a simple animal sound book with pictures from magazines",
+      "progress": {
+        "baseline": "Can identify but struggles to produce 'r' and 'l' sounds",
+        "goal": "Correctly produce target sounds in isolation and in simple words"
+      }
+    },
+    {
+      "id": "act2",
+      "title": "Sound Detective",
+      "focusArea": "Phonemic Awareness",
+      "targetSkills": ["Sound identification", "Sound blending", "Initial sounds"],
+      "duration": "20 minutes",
+      "materials": ["Letter cards", "Picture cards", "Magnifying glass (prop)"],
+      "description": "Children become sound detectives, finding and identifying sounds in words.",
+      "instructions": [
+        "Give child a 'detective kit' with a magnifying glass and letter cards",
+        "Present a picture and ask the child to find the first sound",
+        "Child uses the magnifying glass to 'search' for the sound",
+        "Once identified, child finds the matching letter card",
+        "Progress to finding ending sounds and middle sounds",
+        "Create a 'sound map' showing the sequence of sounds in words"
+      ],
+      "adaptations": [
+        "Simplify: Focus only on initial sounds with obvious phonemes",
+        "Challenge: Break words into all component sounds and blend them together"
+      ],
+      "homeActivity": "Sound scavenger hunt - find objects at home that start with target sounds",
+      "progress": {
+        "baseline": "Can identify initial sounds in simple words",
+        "goal": "Isolate and identify all sounds in CVC words (consonant-vowel-consonant)"
+      }
+    },
+    {
+      "id": "act3",
+      "title": "Word Builder Workshop",
+      "focusArea": "Vocabulary",
+      "targetSkills": ["Word categories", "Synonyms", "Descriptive language"],
+      "duration": "25 minutes",
+      "materials": ["Word cards", "Category boxes", "Pictures of scenes"],
+      "description": "Building vocabulary through categorization, description, and word relationships.",
+      "instructions": [
+        "Present category boxes labeled with themes (animals, food, actions)",
+        "Give child word cards to sort into categories",
+        "For each word, encourage child to provide a synonym or related word",
+        "Show scene pictures and encourage descriptive sentences",
+        "Create a 'word web' connecting related concepts"
+      ],
+      "adaptations": [
+        "Simplify: Use fewer categories with more concrete distinctions",
+        "Challenge: Add abstract categories and ask for multiple associations"
+      ],
+      "homeActivity": "Category hunt - find items around the house that fit various categories",
+      "progress": {
+        "baseline": "Uses basic vocabulary with limited descriptive words",
+        "goal": "Employ varied vocabulary including descriptive adjectives and specific nouns"
+      }
+    },
+    {
+      "id": "act4",
+      "title": "Story Sequence Blocks",
+      "focusArea": "Narrative Skills",
+      "targetSkills": ["Sequencing", "Story structure", "Cohesive narratives"],
+      "duration": "30 minutes",
+      "materials": ["Story sequence cards", "Story blocks", "Puppet characters"],
+      "description": "Developing narrative skills through visual sequencing and storytelling.",
+      "instructions": [
+        "Present a series of picture cards showing a simple story sequence",
+        "Ask child to arrange them in correct order",
+        "Use story blocks labeled with 'beginning,' 'middle,' and 'end'",
+        "Guide child to tell what happens in each part of the story",
+        "Introduce puppets to act out the story",
+        "Help child expand the story with more details and dialogue"
+      ],
+      "adaptations": [
+        "Simplify: Use fewer sequence cards with clear actions",
+        "Challenge: Have child create original stories with a clear structure"
+      ],
+      "homeActivity": "Create a 'day in the life' picture sequence of the child's daily routine",
+      "progress": {
+        "baseline": "Tells simple stories without clear sequence or details",
+        "goal": "Creates cohesive narratives with beginning, middle, end, and descriptive elements"
+      }
+    },
+    {
+      "id": "act5",
+      "title": "Rhyme Time",
+      "focusArea": "Phonemic Awareness",
+      "targetSkills": ["Rhyming", "Word families", "Sound patterns"],
+      "duration": "15 minutes",
+      "materials": ["Rhyming picture cards", "Word family charts", "Small ball"],
+      "description": "Engaging with rhyming words through active games and visual supports.",
+      "instructions": [
+        "Start with a rhyming song or nursery rhyme",
+        "Show picture pairs that rhyme and have child identify the matching sound",
+        "Play 'rhyme catch' - say a word and toss ball to child who must respond with a rhyme",
+        "Create word family charts (-at, -op, -ing) and find pictures that match",
+        "Encourage child to generate their own rhymes"
+      ],
+      "adaptations": [
+        "Simplify: Focus on identification of rhymes rather than production",
+        "Challenge: Create silly rhyming stories together"
+      ],
+      "homeActivity": "Rhyming scavenger hunt with common household items",
+      "progress": {
+        "baseline": "Can identify obvious rhymes but struggles to generate them",
+        "goal": "Independently produce rhyming words and identify word families"
+      }
+    }
+  ],
+  "progressTracker": {
+    "startDate": "2025-01-15",
+    "currentDate": "2025-05-19",
+    "skillAreas": [
+      {
+        "name": "Articulation",
+        "baseline": 3,
+        "current": 4,
+        "target": 5,
+        "milestones": [
+          { "date": "2025-02-15", "score": 3, "notes": "Consistent with initial assessment" },
+          { "date": "2025-03-30", "score": 3.5, "notes": "Improvement with 'l' sounds in isolation" },
+          { "date": "2025-05-01", "score": 4, "notes": "Can produce 'r' and 'l' in simple words with support" }
+        ]
+      },
+      {
+        "name": "Phonemic Awareness",
+        "baseline": 2,
+        "current": 3.5,
+        "target": 5,
+        "milestones": [
+          { "date": "2025-02-15", "score": 2.5, "notes": "Beginning to identify initial sounds consistently" },
+          { "date": "2025-03-30", "score": 3, "notes": "Improved sound isolation in simple words" },
+          { "date": "2025-05-01", "score": 3.5, "notes": "Can blend CVC words with visual support" }
+        ]
+      },
+      {
+        "name": "Vocabulary",
+        "baseline": 4,
+        "current": 4.5,
+        "target": 5,
+        "milestones": [
+          { "date": "2025-02-15", "score": 4, "notes": "Strong baseline vocabulary" },
+          { "date": "2025-03-30", "score": 4.2, "notes": "Increasing use of specific nouns" },
+          { "date": "2025-05-01", "score": 4.5, "notes": "Beginning to use more descriptive adjectives" }
+        ]
+      },
+      {
+        "name": "Narrative Skills",
+        "baseline": 3,
+        "current": 4,
+        "target": 5,
+        "milestones": [
+          { "date": "2025-02-15", "score": 3, "notes": "Uses simple sentence structure in stories" },
+          { "date": "2025-03-30", "score": 3.5, "notes": "Beginning to include clear beginning and end" },
+          { "date": "2025-05-01", "score": 4, "notes": "Stories now include characters, setting, and basic plot" }
+        ]
+      }
+    ]
+  },
+  "resources": [
+    {
+      "id": "res1",
+      "title": "Sound Production Cards",
+      "type": "Printable",
+      "description": "Visual cards showing mouth positioning for challenging sounds",
+      "url": "https://example.com/sound-cards"
+    },
+    {
+      "id": "res2",
+      "title": "Phonemic Awareness Games",
+      "type": "Interactive",
+      "description": "Digital games focusing on sound manipulation and blending",
+      "url": "https://example.com/phonemic-games"
+    },
+    {
+      "id": "res3",
+      "title": "Parent's Guide to Supporting Speech at Home",
+      "type": "Guide",
+      "description": "Practical strategies for reinforcing speech skills in daily activities",
+      "url": "https://example.com/parent-guide"
+    },
+    {
+      "id": "res4",
+      "title": "Story Structure Visual Aids",
+      "type": "Printable",
+      "description": "Visual supports for narrative development",
+      "url": "https://example.com/story-aids"
+    },
+    {
+      "id": "res5",
+      "title": "Vocabulary Building Picture Dictionary",
+      "type": "Reference",
+      "description": "Age-appropriate picture dictionary with key vocabulary",
+      "url": "https://example.com/picture-dictionary"
+    }
+  ],
+  "parentGuidance": {
+    "dailyPractice": [
+      "Incorporate 5-10 minutes of sound practice during bath time or driving",
+      "Play 'I Spy' games focusing on sounds and vocabulary",
+      "Read stories with rhyming patterns and encourage prediction",
+      "Narrate daily activities to model complete sentences and vocabulary"
+    ],
+    "supportStrategies": [
+      "Model correct pronunciation without requiring repetition",
+      "Expand child's utterances into complete sentences",
+      "Provide positive reinforcement for communication attempts",
+      "Create a language-rich environment with varied vocabulary"
+    ],
+    "redFlags": [
+      "Regression in previously mastered sounds",
+      "Frustration or avoidance during communication attempts",
+      "Lack of progress after consistent practice",
+      "Difficulty following multi-step verbal instructions"
+    ]
+  }
+}

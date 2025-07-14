@@ -1,0 +1,609 @@
+{
+  "title": "Generative AI in the Workplace Mind Map",
+  "description": "A comprehensive visual map outlining the key components, applications, and considerations for implementing generative AI in workplace environments.",
+  "nodes": [
+    {
+      "id": "root",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Generative AI in Workplace",
+        "description": "AI-powered transformation of business operations and productivity.",
+        "nodeType": "root"
+      }
+    },
+    {
+      "id": "applications",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "AI Applications",
+        "description": "Core use cases and implementations.",
+        "nodeType": "level2"
+      }
+    },
+    {
+      "id": "benefits",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Business Benefits",
+        "description": "Value and advantages of AI adoption.",
+        "nodeType": "level2"
+      }
+    },
+    {
+      "id": "implementation",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Implementation Strategy",
+        "description": "Planning and deployment approaches.",
+        "nodeType": "level2"
+      }
+    },
+    {
+      "id": "challenges",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Challenges & Risks",
+        "description": "Obstacles and mitigation strategies.",
+        "nodeType": "level2"
+      }
+    },
+    {
+      "id": "governance",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "AI Governance",
+        "description": "Policies, ethics, and compliance.",
+        "nodeType": "level2"
+      }
+    },
+    {
+      "id": "content_creation",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Content Creation",
+        "description": "Automated writing, design, and media generation.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "customer_service",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Customer Service",
+        "description": "AI chatbots and support automation.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "code_development",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Code Development",
+        "description": "Programming assistance and automation.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "data_analysis",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Data Analysis",
+        "description": "Insights generation and reporting.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "productivity_gains",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Productivity Gains",
+        "description": "40-60% efficiency improvements.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "cost_reduction",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Cost Reduction",
+        "description": "Operational savings and resource optimization.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "innovation_acceleration",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Innovation Acceleration",
+        "description": "Faster ideation and product development.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "pilot_programs",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Pilot Programs",
+        "description": "Start small and scale gradually.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "employee_training",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Employee Training",
+        "description": "Skill development and adaptation.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "system_integration",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "System Integration",
+        "description": "Connecting AI with existing workflows.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "data_privacy",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Data Privacy",
+        "description": "Protecting sensitive information.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "workforce_displacement",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Workforce Concerns",
+        "description": "Job displacement and adaptation challenges.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "ai_bias",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "AI Bias & Fairness",
+        "description": "Ensuring equitable AI outcomes.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "ethical_guidelines",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Ethical Guidelines",
+        "description": "Responsible AI usage policies.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "compliance_frameworks",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Compliance Frameworks",
+        "description": "Regulatory and industry standards.",
+        "nodeType": "level3"
+      }
+    },
+    {
+      "id": "human_oversight",
+      "type": "custom",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "data": {
+        "label": "Human Oversight",
+        "description": "Maintaining human control and accountability.",
+        "nodeType": "level3"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e1-2",
+      "source": "root",
+      "target": "applications",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#6B7280",
+        "strokeWidth": 2.5
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e1-3",
+      "source": "root",
+      "target": "benefits",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#6B7280",
+        "strokeWidth": 2.5
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e1-4",
+      "source": "root",
+      "target": "implementation",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#6B7280",
+        "strokeWidth": 2.5
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e1-5",
+      "source": "root",
+      "target": "challenges",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#6B7280",
+        "strokeWidth": 2.5
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e1-6",
+      "source": "root",
+      "target": "governance",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#6B7280",
+        "strokeWidth": 2.5
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e2-7",
+      "source": "applications",
+      "target": "content_creation",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e2-8",
+      "source": "applications",
+      "target": "customer_service",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e2-9",
+      "source": "applications",
+      "target": "code_development",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e2-10",
+      "source": "applications",
+      "target": "data_analysis",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e3-11",
+      "source": "benefits",
+      "target": "productivity_gains",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e3-12",
+      "source": "benefits",
+      "target": "cost_reduction",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e3-13",
+      "source": "benefits",
+      "target": "innovation_acceleration",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e4-14",
+      "source": "implementation",
+      "target": "pilot_programs",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e4-15",
+      "source": "implementation",
+      "target": "employee_training",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e4-16",
+      "source": "implementation",
+      "target": "system_integration",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e5-17",
+      "source": "challenges",
+      "target": "data_privacy",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e5-18",
+      "source": "challenges",
+      "target": "workforce_displacement",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e5-19",
+      "source": "challenges",
+      "target": "ai_bias",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e6-20",
+      "source": "governance",
+      "target": "ethical_guidelines",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e6-21",
+      "source": "governance",
+      "target": "compliance_frameworks",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    },
+    {
+      "id": "e6-22",
+      "source": "governance",
+      "target": "human_oversight",
+      "type": "step",
+      "animated": true,
+      "style": {
+        "stroke": "#9CA3AF",
+        "strokeWidth": 2
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "orient": "auto"
+      }
+    }
+  ]
+}

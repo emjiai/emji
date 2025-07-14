@@ -1,0 +1,127 @@
+{ "user_id": "test001",
+  "main_topic": "decision making and task performance in predictive policing",
+  "searchOption": "openai",
+  "custom_sources": [
+    {
+      "s_no": 1,
+      "url": "https://arxiv.org/abs/1812.05224",
+      "type": "academic_paper",
+      "title": "Next Hit Predictor - Self-exciting Risk Modeling for Predicting Next Locations of Serial Crimes",
+      "importance": 3,
+      "peer_reviewed": true,
+      "authors": [
+        "Yunyi Li",
+        "Tong Wang"
+      ],
+      "publication_year": 2018,
+      "journal_name": "arXiv",
+      "volume": "",
+      "publisher": "arXiv",
+      "location": "USA",
+      "country": "USA",
+      "citation_count": 0,
+      "abstract": "Our goal is to predict the location of the next crime in a crime series, based on the identified previous offenses in the series. We build a predictive model called Next Hit Predictor (NHP) that finds the most likely location of the next serial crime via a carefully designed risk model. The risk model follows the paradigm of a self-exciting point process which consists of a background crime risk and triggered risks stimulated by previous offenses in the series. Thus, NHP creates a risk map for a crime series at hand. To train the risk model, we formulate a convex learning objective that considers pairwise rankings of locations and use stochastic gradient descent to learn the optimal parameters. Next Hit Predictor incorporates both spatial-temporal features and geographical characteristics of prior crime locations in the series. Next Hit Predictor has demonstrated promising results on decades' worth of serial crime data collected by the Crime Analysis Unit of the Cambridge Police Department in Massachusetts, USA.",
+      "summary_text": {
+        "full_reference": "Li, Y., & Wang, T. (2018). Next Hit Predictor - Self-exciting Risk Modeling for Predicting Next Locations of Serial Crimes. arXiv.",
+        "focus_summary": "Development of a predictive model to forecast the next location in a series of crimes using self-exciting point processes.",
+        "methodology": "Formulated a convex learning objective considering pairwise rankings of locations; employed stochastic gradient descent for parameter optimization.",
+        "findings": "The Next Hit Predictor effectively created risk maps for crime series, demonstrating promising results on extensive crime data from Cambridge, Massachusetts.",
+        "themes": "Predictive policing, self-exciting point processes, crime series analysis.",
+        "critical_appraisal": "Strengths include the integration of spatial-temporal features and geographical characteristics; however, real-world applicability may require further validation.",
+        "notes": "The model's reliance on historical data necessitates continuous updates to maintain accuracy."
+      },
+      "source_fulltext_urls": []
+    },
+    {
+      "s_no": 2,
+      "url": "https://arxiv.org/abs/1708.03579",
+      "type": "academic_paper",
+      "title": "Self-exciting point processes with spatial covariates: modeling the dynamics of crime",
+      "importance": 3,
+      "peer_reviewed": true,
+      "authors": [
+        "Alex Reinhart",
+        "Joel Greenhouse"
+      ],
+      "publication_year": 2017,
+      "journal_name": "arXiv",
+      "volume": "",
+      "publisher": "arXiv",
+      "location": "USA",
+      "country": "USA",
+      "citation_count": 0,
+      "abstract": "Crime has both varying patterns in space, related to features of the environment, economy, and policing, and patterns in time arising from criminal behavior, such as retaliation. Serious crimes may also be presaged by minor crimes of disorder. We demonstrate that these spatial and temporal patterns are generally confounded, requiring analyses to take both into account, and propose a spatio-temporal self-exciting point process model which incorporates spatial features, near-repeat and retaliation effects, and triggering. We develop inference methods and diagnostic tools, such as residual maps, for this model, and through extensive simulation and crime data obtained from Pittsburgh, Pennsylvania, demonstrate its properties and usefulness.",
+      "summary_text": {
+        "full_reference": "Reinhart, A., & Greenhouse, J. (2017). Self-exciting point processes with spatial covariates: modeling the dynamics of crime. arXiv.",
+        "focus_summary": "Introduction of a spatio-temporal self-exciting point process model to analyze crime dynamics considering spatial features and temporal patterns.",
+        "methodology": "Developed inference methods and diagnostic tools, including residual maps; validated the model through simulations and crime data from Pittsburgh.",
+        "findings": "The model effectively captured the interplay between spatial and temporal crime patterns, highlighting the importance of considering both in analyses.",
+        "themes": "Crime modeling, spatio-temporal analysis, self-exciting point processes.",
+        "critical_appraisal": "The model's comprehensive approach is a strength; however, its complexity may pose challenges for practical implementation.",
+        "notes": "Further research could explore the model's applicability to different types of crimes and urban settings."
+      },
+      "source_fulltext_urls": []
+    },
+    {
+      "s_no": 3,
+      "url": "https://arxiv.org/abs/2505.19612",
+      "type": "academic_paper",
+      "title": "Optimal Intervention for Self-triggering Spatial Networks with Application to Urban Crime Analytics",
+      "importance": 3,
+      "peer_reviewed": true,
+      "authors": [
+        "Pramit Das",
+        "Moulinath Banerjee",
+        "Yuekai Sun"
+      ],
+      "publication_year": 2025,
+      "journal_name": "arXiv",
+      "volume": "",
+      "publisher": "arXiv",
+      "location": "USA",
+      "country": "USA",
+      "citation_count": 0,
+      "abstract": "In many network systems, events at one node trigger further activity at other nodes, e.g., social media users reacting to each other's posts or the clustering of criminal activity in urban environments. These systems are typically referred to as self-exciting networks. In such systems, targeted intervention at critical nodes can be an effective strategy for mitigating undesirable consequences such as further propagation of criminal activity or the spreading of misinformation on social media. In our work, we develop an optimal network intervention model to explore how targeted interventions at critical nodes can mitigate cascading effects throughout a Spatiotemporal Hawkes network. Similar models have been studied previously in the literature in purely temporal Hawkes networks, but in our work, we extend them to a spatiotemporal setup and demonstrate the efficacy of our methods by comparing the post-intervention reduction in intensity to other heuristic strategies in simulated networks. Subsequently, we use our method on crime data from the LA police department database to find neighborhoods for strategic intervention to demonstrate an application in predictive policing.",
+      "summary_text": {
+        "full_reference": "Das, P., Banerjee, M., & Sun, Y. (2025). Optimal Intervention for Self-triggering Spatial Networks with Application to Urban Crime Analytics. arXiv.",
+        "focus_summary": "Development of an optimal intervention model for self-exciting spatial networks, applied to urban crime analytics.",
+        "methodology": "Extended temporal Hawkes network models to a spatiotemporal framework; validated the model using crime data from the LA police department.",
+        "findings": "Targeted interventions at critical nodes effectively mitigated cascading effects in crime networks, outperforming heuristic strategies.",
+        "themes": "Predictive policing, self-exciting networks, optimal intervention strategies.",
+        "critical_appraisal": "The model's extension to spatiotemporal networks is innovative; however, real-world implementation may require addressing data limitations and operational constraints.",
+        "notes": "Future work could explore the model's adaptability to other types of self-exciting networks beyond crime analytics."
+      },
+      "source_fulltext_urls": []
+    },
+    {
+      "s_no": 4,
+      "url": "https://link.springer.com/article/10.1007/s12061-016-9198-y",
+      "type": "academic_paper",
+      "title": "Improving the Robustness and Accuracy of Crime Prediction with the Self-Exciting Point Process Through Isotropic Triggering",
+      "importance": 3,
+      "peer_reviewed": true,
+      "authors": [
+        "G. Rosser",
+        "T. Cheng"
+      ],
+      "publication_year": 2016,
+      "journal_name": "Applied Spatial Analysis and Policy",
+      "volume": "12",
+      "publisher": "Springer",
+      "location": "UK",
+      "country": "UK",
+      "citation_count": 0,
+      "abstract": "The importance of early prediction in reducing the impact of crime cannot be overstated. Machine learning algorithms have proven to be effective in this regard, but their inability to capture key features automatically can be a hindrance. To overcome this challenge, we propose a deep neural network model that is capable of extracting salient features automatically for predicting crime categories using real-world crime data sourced from the Chicago open data portal. To ensure the robustness of our proposed model, we carried out an extensive exploratory data analysis to determine the impact of socioeconomic indicators on crime occurrences. Additionally, we implemented a data upsampling technique to handle class imbalance issues, and we leveraged hyperparameter optimization algorithms to fine-tune the model.",
+      "summary_text": {
+        "full_reference": "Rosser, G., & Cheng, T. (2016). Improving the Robustness and Accuracy of Crime Prediction with the Self-Exciting Point Process Through Isotropic Triggering. Applied Spatial Analysis and Policy, 12.",
+        "focus_summary": "Enhancement of crime prediction accuracy using self-exciting point processes with isotropic triggering.",
+        "methodology": "Developed a deep neural network model; conducted exploratory data analysis; implemented data upsampling and hyperparameter optimization.",
+        "findings": "The proposed model effectively predicted crime categories, demonstrating improved robustness and accuracy over traditional methods.",
+        "themes": "Crime prediction, machine learning, self-exciting point processes.",
+        "critical_appraisal": "The model's ability to automatically extract salient features is a strength; however, its reliance on deep learning may require substantial computational resources.",
+        "notes": "Further research could explore the model's performance across different urban contexts and crime types."
+      },
+      "source_fulltext_urls": []
+    }
+  ]
+}

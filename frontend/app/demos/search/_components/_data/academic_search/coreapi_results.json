@@ -1,0 +1,921 @@
+{
+  "custom_sources": [
+    {
+      "s_no": 1,
+      "url": "",
+      "type": "",
+      "title": "",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [],
+      "publication_year": "",
+      "journal_name": "",
+      "volume": "",
+      "publisher": "",
+      "location": "",
+      "country": "",
+      "citation_count": "",
+      "abstract": "",
+      "summary_text": {
+        "full_reference": "",
+        "focus_summary": "",
+        "methodology": "",
+        "findings": "",
+        "themes": "",
+        "critical_appraisal": "",
+        "notes": ""
+      },
+      "source_fulltext_urls": [],
+      "doi": ""
+    },
+    {
+      "s_no": 2,
+      "url": "https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=5373&context=gc_etds",
+      "type": "academic_paper",
+      "title": "Exploring the Overlap, Saliency, and Consistency of Environmental Predictors in Crime Hot Spots: A Remote Systematic Social Observation and Case-Control Examination",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Connealy, Nathan T."
+      ],
+      "publication_year": 2021,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Despite the common finding that crime is highly concentrated in space, the specific locations, characteristics, and contexts of crime hot spots are not consistently the same or generalizable across unique units of analysis and crime types. This dissertation will simultaneously integrate different types of environmental criminology predictors, including crime generators and attractors and environmental disorder indicators, to best identify the situational predictors of hot spot street segments relative to empirical controls in Indianapolis for several different crime types. Hot spot and control units will be compared based on the presence of spatially joined crime generators and attractors and environmental disorder indicators recorded via remote systematic social observation using Google Street View. In addition to uncovering the strongest environmental predictors significantly more likely to predict hot spots, this dissertation will also determine the level of spatial overlap of hot spots across different crime types and statistically assess the consistency of the influence of environmental predictors across each of the separate crime types. The findings will provide new information regarding the locations and composition of different types of crime hot spots at highly localized spatial extents. Also, this dissertation stands to make several methodological contributions by using remote systematic social observation to measure disorder and an innovative case-control research design that empirically matches hot spot and control units within a predefined spatial parameter while holding several key covariates constant",
+      "summary_text": {
+        "full_reference": "Connealy, N. T. (2021). Exploring the Overlap, Saliency, and Consistency of Environmental Predictors in Crime Hot Spots: A Remote Systematic Social Observation and Case-Control Examination. City University of New York.",
+        "focus_summary": "This dissertation investigates the environmental predictors of crime hot spots in Indianapolis, integrating various criminology predictors to identify situational factors influencing crime concentrations. It aims to assess the overlap and consistency of these predictors across different crime types.",
+        "methodology": "The research employs remote systematic social observation using Google Street View to record environmental disorder indicators and compares hot spot and control units based on spatially joined crime generators and attractors. A case-control research design is utilized to match hot spot and control units while controlling for key covariates.",
+        "findings": "The study identifies the strongest environmental predictors significantly associated with crime hot spots and evaluates the spatial overlap of these hot spots across different crime types. It also assesses the consistency of environmental predictors' influence on various crime types, providing new insights into localized crime patterns.",
+        "themes": "Environmental Criminology; Crime Hot Spots; Spatial Analysis; Systematic Social Observation; Case-Control Research Design",
+        "critical_appraisal": "The dissertation contributes methodologically by utilizing innovative observational techniques and a robust case-control design. However, the generalizability of findings may be limited to the specific context of Indianapolis and the crime types studied.",
+        "notes": "The use of Google Street View for data collection represents a novel approach in criminology research, potentially paving the way for future studies to adopt similar methodologies."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/428372552"
+      ]
+    },
+    {
+      "s_no": 3,
+      "url": "https://core.ac.uk/download/362959616.pdf",
+      "type": "pdf",
+      "title": "Project 7708 understanding heritage crime in Kent and Medway \u2013 a data analytical approach",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Bryant, R.",
+        "Bryant, R.",
+        "Hills, J.",
+        "Hills, J.",
+        "Kent, A.",
+        "Kent, A."
+      ],
+      "publication_year": 2020,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Our research was concerned with the geographical areas of Kent and Medway and involved the spatial and temporal analysis of \u2018heritage-specific offences\u2019, \u2018targeted heritage crime\u2019 and \u2018crime within, at or close to heritage sites\u2019. \nThe crime data consisted of offence type and location details for the 1,122,180 crimes recorded by Kent Police during the period under study.\nThe geographical data we utilised included locations of Conservation Areas, Listed Buildings, Scheduled Monuments, Registered Parks and Gardens, Registered Battlefields, World Heritage Sites, Protected Wreck Sites and \u2018Heritage at Risk\u2019 sites in Kent and Medway.\nOur best estimates suggest that currently approximately one in five Listed Buildings and one in four Places of Worship in Kent and Medway experience some form of crime each year. About one in ten Scheduled Monuments suffer crime, or it occurs nearby. Just over one half of Registered Parks or Gardens have one or more crimes a year within them. For Conservation Areas the proportion is (not unexpectedly) much larger, at closer to four in five.\nWe utilised local Moran\u2019s I to identify spatial clusters at a regional level using LSOA-level crime data. This revealed several LSOAs on the fringes of areas of high levels of crime that could be particularly vulnerable to the spread of crime and therefore heritage-specific locations within these areas could be managed to halt the \u2018spread\u2019 of crime towards the periphery of the town. \n In Kent and Medway Places of Worship (mostly Christian churches) are experiencing increasing numbers of crimes, and this has been particularly the case since around summer 2016. The rate of increase appears higher than that of all other crimes in the same period, both in general and at other heritage locations. \nThere is clear statistical evidence that metal thefts from churches have also been increasing markedly since around summer 2016. The rate of increase appears higher than that of most other crimes. There is statistically significant correlation between metal thefts from churches in Kent and Medway with both the price of lead and mixed brass.\nFinally, we discovered that machine learning as a method of heritage crime prevention shows promise",
+      "summary_text": {
+        "full_reference": "Bryant, R., Kent, A., & Hills, J. (Year). Project 7708 understanding heritage crime in Kent and Medway \u2013 a data analytical approach. Canterbury Christ Church University.",
+        "focus_summary": "The study aims to analyze heritage crime in Kent and Medway through spatial and temporal data analysis. It focuses on understanding the nature and frequency of heritage-specific offences and their impact on various heritage sites.",
+        "methodology": "The research employed a combination of spatial analysis using local Moran\u2019s I to identify crime clusters and machine learning techniques for forecasting heritage crime. Data was collected from Kent Police, encompassing over a million recorded crimes and various heritage site locations.",
+        "findings": "Approximately one in five Listed Buildings and one in four Places of Worship in Kent and Medway experience crime annually. The study found a significant increase in metal thefts from churches since summer 2016, correlating with the prices of lead and brass. Additionally, machine learning methods showed promise in predicting heritage crime.",
+        "themes": "Heritage Crime; Spatial Analysis; Temporal Analysis; Machine Learning; Crime Prevention",
+        "critical_appraisal": "The study provides valuable insights into the patterns of heritage crime and highlights the increasing vulnerability of heritage sites. However, it is limited to Kent and Medway, which may not fully represent broader national trends. The use of machine learning for crime prevention is a notable contribution.",
+        "notes": "The research aligns with Historic England's agenda and could serve as a model for similar studies elsewhere in the UK. Acknowledgments were made to contributors and funding sources, emphasizing collaboration in the research."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/362959616"
+      ]
+    },
+    {
+      "s_no": 4,
+      "url": "https://core.ac.uk/download/617768377.pdf",
+      "type": "pdf",
+      "title": "Addressing the scale issues in spatial-temporal analysis of crime : an integrative framework and empirical findings",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Alazawi, Mohammed Abdulrazak"
+      ],
+      "publication_year": 2022,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Based on a critical review of existing literature in the spatial-temporal analysis of crime, three challenges have been identified: spatial-temporal scaling, theorizing spatial patterns for different types of crime, and the micro interaction between space and time. The spatial-temporal scaling issue is related to choosing the appropriate geographic unit of analysis. The theoretical issue concerns the lack of an integrative approach that can integrate the benefits of each theoretical perspective and identify broader processes to explain the resulting spatial patterns for different types of crime. Also, examining and explaining the variation of the micro space-time interactions for different types of crime and their stability over time have received little attention. Therefore, this dissertation aims to 1) minimize the identified analytical issues resulting from the current practice of selecting the geographic unit of analysis, and 2) maximize/ complement the current theoretical and practical advantages for each theoretical perspective and practical policy. To achieve these two aims, this dissertation has threefold objectives: 1) to develop an analytical and empirical framework that facilities determine a reasonable spatial and temporal scale of analysis in crime, 2) to develop a theoretical framework that can explain the variation of spatial clustering and spatial scale in the first objective through an integrative theoretical approach of crime processes, and 3) to assess and explain the extent to which the micro space-time interactions and the temporal stability of the elevated risk for future crime vary across different types of crime. The results of the dissertation can inform criminological research on the spatial pattern of crime and the processes behind those patterns, and contribute to the development of more effective policies for crime control. Moreover, the empirical findings of the dissertation can reveal further practical implications by providing a systematic basis to demarcate the area to be searched in order to find an offender. Further analytical, theoretical, and practical implications of the findings are discussed",
+      "summary_text": {
+        "full_reference": "Alazawi, Mohammed Abdulrazak. (2022). Addressing the scale issues in spatial-temporal analysis of crime: an integrative framework and empirical findings. University at Albany, State University of New York.",
+        "focus_summary": "This dissertation addresses critical challenges in the spatial-temporal analysis of crime, specifically focusing on spatial-temporal scaling, the theorization of spatial patterns for various crime types, and micro interactions between space and time. The aim is to develop frameworks that enhance analytical precision and theoretical integration in criminology.",
+        "methodology": "The research employs an analytical and empirical framework to determine appropriate spatial and temporal scales for crime analysis. It also integrates various theoretical perspectives to explain spatial clustering and interactions over time.",
+        "findings": "The dissertation reveals significant insights into the variation of spatial clustering and the stability of crime risk over time across different crime types. It highlights the importance of selecting appropriate geographic units for analysis and the implications for crime control policies. The empirical findings provide a systematic basis for identifying areas to search for offenders.",
+        "themes": "Spatial-temporal analysis; Crime patterns; Theoretical integration; Micro space-time interactions; Policy implications",
+        "critical_appraisal": "The study effectively identifies and addresses key analytical issues in crime research, contributing to a deeper understanding of spatial patterns and their implications for policy. However, the complexity of integrating multiple theoretical perspectives may pose challenges for practical application.",
+        "notes": "Further research could explore the application of the developed frameworks in real-world crime analysis scenarios to validate their effectiveness."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/617768377"
+      ]
+    },
+    {
+      "s_no": 5,
+      "url": "https://core.ac.uk/download/29149106.pdf",
+      "type": "pdf",
+      "title": "Spatio-temporal modelling for issues in crime and security",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Davies, TP"
+      ],
+      "publication_year": 2015,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "The distribution of incidents in time and space is a central issue in the study of crime, for both theoretical and practical reasons. It is also a context in which quantitative analysis and modelling has significant potential value: such research represents a means by which the implications of theory can be examined rigorously, and can also provide tools which support both policing and policy-making. The nature of the field, however, presents a number of challenges, particularly with regard to the incorporation of complex environmental factors and the modelling of individual-level behaviour. In this thesis, the techniques of complexity science are used to overcome these issues, and the approach is demonstrated using a number of examples from a range of crime types. The thesis begins by presenting a network-based framework for the analysis of spatio-temporal clustering. It is demonstrated that signature `motifs' can be identified in patterns of offending for burglary and maritime piracy, and that the technique provides a more nuanced characterisation of clustering than existing approaches. Analysis is then presented of the relationship between street network structure and the distribution of urban crime. It is shown that burglary risk is predicted by the graph-theoretic properties of street segments; in particular, those which correspond to levels of street usage. It is further demonstrated that the `near-repeat' phenomenon in burglary displays a form of directionality, which can be reconciled with a novel street network metric. These results are then used to inform a mathematical model of burglary, which is situated on a network and which may be used for prediction. This model is analysed and its behaviour characterised in terms of urban form. Finally, a model is presented for a contrasting crime problem, the London riots of 2011, and used to examine a number of policy questions",
+      "summary_text": {
+        "full_reference": "Davies, Toby Peter. (Year). Spatio-temporal modelling for issues in crime and security. Doctoral thesis, University College London.",
+        "focus_summary": "This thesis explores the distribution of crime incidents in time and space, emphasizing the importance of quantitative analysis and modeling for both theoretical and practical applications in crime studies. It aims to address challenges in incorporating environmental factors and individual behavior in crime analysis.",
+        "methodology": "The research employs techniques from complexity science to develop a network-based framework for analyzing spatio-temporal clustering of crime incidents. It includes mathematical modeling to predict burglary risks based on street network structures and examines the London riots of 2011 to inform policy questions.",
+        "findings": "The study identifies signature motifs in crime patterns, particularly for burglary and maritime piracy, providing a nuanced understanding of clustering. It demonstrates that the risk of burglary can be predicted by the graph-theoretic properties of street segments, revealing a directional aspect to the near-repeat phenomenon. Additionally, the developed mathematical model situates burglary within a network context, enhancing predictive capabilities.",
+        "themes": "Spatio-temporal analysis; Complexity science in crime studies; Network theory and crime; Predictive modeling in policing",
+        "critical_appraisal": "The thesis effectively integrates complexity science with crime analysis, offering innovative methodologies and insights into crime patterns. However, the reliance on specific case studies may limit the generalizability of the findings across different contexts.",
+        "notes": "The research highlights the potential for using advanced analytical techniques in crime prevention and policy-making, suggesting avenues for future research in urban crime dynamics."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/29149106"
+      ]
+    },
+    {
+      "s_no": 6,
+      "url": "https://core.ac.uk/download/637040892.pdf",
+      "type": "pdf",
+      "title": "Problem solving violent crime: a guide for analysts",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Agar, I",
+        "Brennan, I",
+        "Chainey, S.",
+        "Sidebottom, A"
+      ],
+      "publication_year": 2024,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": null,
+      "summary_text": {
+        "full_reference": "College of Policing Limited. (2024). Problem solving violent crime: a guide for analysts. College of Policing.",
+        "focus_summary": "The guide aims to provide analysts with a comprehensive framework for problem-solving violent crime. It emphasizes the importance of data analysis and strategic approaches in identifying and addressing violent crime effectively.",
+        "methodology": "The guide organizes its content into various units that cover different aspects of data analysis, including police data, health data, and open-source intelligence. It employs theoretical frameworks and practical tools to assist analysts in prioritizing and evaluating crime problems.",
+        "findings": "The guide outlines several analytical techniques such as geographic profiling, social network analysis, and crime script analysis. It emphasizes the need for a systematic approach to identify patterns of violence, repeat offending, and victimization. Furthermore, it introduces the EMMIE framework for evaluating the impact of interventions.",
+        "themes": "Data Analysis; Violent Crime; Problem Solving; Crime Patterns; Intervention Strategies",
+        "critical_appraisal": "The guide is a valuable resource for analysts, providing structured methodologies and practical insights. However, it may benefit from case studies or real-world applications to illustrate the effectiveness of the proposed strategies.",
+        "notes": "The document is designed to be accessible to a wide audience, including those with disabilities, and offers contact information for further inquiries."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/637040892"
+      ]
+    },
+    {
+      "s_no": 7,
+      "url": "https://core.ac.uk/download/79566667.pdf",
+      "type": "pdf",
+      "title": "Police Innovation: Enhancing Research and Analysis Capacity through Smart Policing",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [],
+      "publication_year": 2013,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "abstract: There has been a tremendous amount of innovation in policing over the last 40 years, from community and problem-oriented policing to hot spots and intelligence-led policing. Many of these innovations have been subjected to empirical testing, with mixed results on effectiveness. The latest innovation in policing is the Bureau of Justice Assistance's Smart Policing Initiative (2009). Created in 2009, the SPI provides funding to law enforcement agencies to develop and test evidence-based practices to address crime and disorder. Researchers have not yet tested the impact of the SPI on the funded agencies, particularly with regard to core principles of the Initiative. The most notable of these is the collaboration between law enforcement agencies and their research partners. The current study surveyed SPI agencies and their research partners on key aspects of their Initiative. The current study uses mean score comparisons and qualitative responses to evaluate this partnership to determine the extent of its value and effect. It also seeks to determine the areas of police agency crime analysis and research units that are most in need of enhancement. Findings indicate that the research partners are actively involved in a range of aspects involved in problem solving under the Smart Policing Initiative, and that they have positively influenced police agencies' research and crime analysis functions, and to a lesser extent, have positively impacted police agencies' tactical operations. Additionally, personnel, technology, and training were found to be the main areas of the crime analysis and research units that still need to be enhanced. The thesis concludes with a discussion of the implications of these findings for police policy and practice.Dissertation/ThesisM.S. Criminology and Criminal Justice 201",
+      "summary_text": {
+        "full_reference": "Martin-Roethele, C. (2013). Police Innovation: Enhancing Research and Analysis Capacity through Smart Policing. Master's Thesis, Arizona State University.",
+        "focus_summary": "The study investigates the impact of the Bureau of Justice Assistance's Smart Policing Initiative (SPI) on law enforcement agencies and their collaboration with research partners. It aims to evaluate the effectiveness of these partnerships in enhancing crime analysis and research capacities within police agencies.",
+        "methodology": "The research employed surveys directed at SPI agencies and their research partners to gather data on key aspects of the Initiative. It utilized mean score comparisons and qualitative responses to assess the value and effects of the collaboration.",
+        "findings": "The study found that research partners significantly contributed to the problem-solving efforts under the SPI, positively influencing police agencies' research and crime analysis functions. However, their impact on tactical operations was less pronounced. The research also identified personnel, technology, and training as critical areas needing enhancement within crime analysis and research units.",
+        "themes": "Police Innovation; Smart Policing Initiative; Collaboration between Law Enforcement and Research; Crime Analysis and Research Capacity; Evidence-Based Practices",
+        "critical_appraisal": "The study effectively highlights the importance of collaboration between police agencies and research partners, showcasing its positive effects on crime analysis. However, it may benefit from a broader examination of the long-term impacts of the SPI and additional empirical testing across more diverse law enforcement contexts.",
+        "notes": "The findings have significant implications for police policy and practice, suggesting that enhanced partnerships and investment in training and technology are essential for improving policing outcomes."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/79566667"
+      ]
+    },
+    {
+      "s_no": 8,
+      "url": "https://core.ac.uk/download/201295674.pdf",
+      "type": "pdf",
+      "title": "PREDICTIVE POLICING: A Machine Learning Approach to Predict and Control Crimes in Metropolitan Cities",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Farhan Ahmed Siddiqui, Dr",
+        "Jibran Rasheed Khan",
+        "Muhammad Saeed, Dr",
+        "Nadeem Mahmood, Dr",
+        "Qamar Ul Arifeen, Dr"
+      ],
+      "publication_year": 2019,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Security is the one of the basic need of human\u2019s life and biggest challenge of history that cannot be diminished at least in metropolitan cities like Karachi. It can only be controlled by efficient resources allocation and effective strategies with forthcoming insight of criminal moves. Big data analytics with the support of machine learning algorithms makes it possible to deals with huge amount of data, extract hidden inter-connection, pattern and meaningful information. This paper, proposed the model for the predictive policing system and built test model using k-means and na\u00efve Bayes methodologies for street crime in Karachi region. The model is then run under R and WEKA environment which produced accuracy around 70%",
+      "summary_text": {
+        "full_reference": "Khan, J. R., Siddiqui, F. A., Mahmood, N., Saeed, M., & Arifeen, Q. (2019). PREDICTIVE POLICING: A Machine Learning Approach to Predict and Control Crimes in Metropolitan Cities. University of Sindh Journal of Information and Communication Technology, 3(1).",
+        "focus_summary": "The study addresses the challenge of crime control in metropolitan cities, specifically Karachi, by proposing a predictive policing model. It emphasizes the importance of utilizing big data analytics and machine learning to gain insights into criminal activities and enhance resource allocation.",
+        "methodology": "The researchers developed a predictive policing model using k-means clustering and na\u00efve Bayes methodologies. The model was implemented and tested in R and WEKA environments, allowing for the analysis of street crime data in the Karachi region.",
+        "findings": "The predictive policing model achieved an accuracy of approximately 70% in predicting street crimes. The study highlights the potential of machine learning algorithms to uncover hidden patterns and interconnections in crime data, which can aid law enforcement in preemptively addressing criminal activities.",
+        "themes": "Predictive Policing; Machine Learning; Crime Prediction; Data Analytics; Resource Allocation",
+        "critical_appraisal": "The study effectively demonstrates the application of machine learning in crime prediction, showcasing a practical approach to enhancing public safety. However, the accuracy of 70% indicates room for improvement, suggesting that further refinement of the model and methodologies may be necessary for more reliable predictions.",
+        "notes": "The research underscores the importance of integrating technology in crime prevention strategies, particularly in regions facing significant security challenges. Future studies could explore the incorporation of additional data sources and advanced machine learning techniques to improve predictive accuracy."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/201295674"
+      ]
+    },
+    {
+      "s_no": 9,
+      "url": "https://core.ac.uk/download/84690250.pdf",
+      "type": "pdf",
+      "title": "Spatial Crime Forecasting: Application of Risk Terrain Modeling in a Metropolitan County",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Clubb, Audrey"
+      ],
+      "publication_year": 2017,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "The present study utilizes a novel approach to spatial crime analysis known as Risk Terrain Modeling (RTM) to assess the applicability of this technique in the prediction of predatory violent crime (homicide, aggravated assault, and pedestrian robbery). RTM provides a methodology for analyzing potential correlates of crime in a spatial context to identify specific locations at the highest risk for crime in the future. The intent of this process is to allow police and other community agencies to identify places at the highest risk for crime to allocate additional resources to stave off potential crime problems. The present study applies this technique to a metropolitan county near Atlanta, Georgia. RTM models were generated for each year from 2010 through 2014 based on several area characteristics including physical and social disorder, criminal elements, risky places, socioeconomic conditions, and area economic health. These models are then tested for their predictive validity and discrimination capabilities. The results indicate that the RTM methodology was successful in identifying many areas of risk for future crime, but was limited in the ability to accurately pinpoint areas at the highest risk of crime. The explained variance in the distribution of crime relative to risk was minimal and the RTM models incorrectly identified many places as high risk that were not subject to future crime while not identifying many areas that did experience crime. While this methodology shows promise on principle, more research is needed to improve performance of the RTM model prior to its use as a potential tool for crime prediction and intervention",
+      "summary_text": {
+        "full_reference": "Clubb, Audrey C. (2017). Spatial Crime Forecasting: Application of Risk Terrain Modeling in a Metropolitan County. Dissertation, Georgia State University.",
+        "focus_summary": "The study investigates the application of Risk Terrain Modeling (RTM) for predicting predatory violent crimes such as homicide, aggravated assault, and pedestrian robbery in a metropolitan county near Atlanta, Georgia. The aim is to identify high-risk locations for future crimes to assist law enforcement and community agencies in resource allocation.",
+        "methodology": "The research employs Risk Terrain Modeling to analyze various area characteristics from 2010 to 2014, including physical and social disorder, criminal elements, and socioeconomic conditions. The models generated are tested for their predictive validity and discrimination capabilities.",
+        "findings": "The results indicate that RTM successfully identified many areas at risk for future crime; however, it struggled to accurately pinpoint the highest risk locations. The explained variance in crime distribution relative to risk was minimal, with many areas incorrectly identified as high risk that did not experience future crime. Conversely, some areas that did experience crime were not flagged as high risk.",
+        "themes": "Spatial Crime Analysis; Risk Terrain Modeling; Predictive Validity; Resource Allocation in Law Enforcement; Community Safety",
+        "critical_appraisal": "The study demonstrates the potential of RTM as a tool for crime prediction but highlights significant limitations in its accuracy and reliability. Further research is necessary to enhance the model's performance before it can be effectively utilized for crime prevention and intervention.",
+        "notes": "The findings suggest a need for continued exploration of RTM methodologies and their application in various contexts to improve predictive capabilities."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/214056998",
+        "https://api.core.ac.uk/v3/outputs/84690250"
+      ]
+    },
+    {
+      "s_no": 10,
+      "url": "https://core.ac.uk/download/344937770.pdf",
+      "type": "pdf",
+      "title": "Show Me St. Louis: Risk Assessment Through an 80-20 Framework",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Steinman, Hannah K."
+      ],
+      "publication_year": 2020,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Researchers of crime and place have long explored the uneven distribution of crime within the built environment and repeatedly identified where crime is concentrated. The longstanding question pertaining to crime at the micro-level, is why crime concentrates. This study operates within environmental criminology, through an 80-20 framework, to explore the spatial distribution of crime across streets with crime generators and attractors in St. Louis, Missouri to fill this gap in the literature. A conjunctive analysis of case configurations is used to identify unique high and low-crime street profiles. Crime data from 2018 \u2013 2019 are used from the St. Louis Metropolitan Police Department to explore crime\u2019s distribution, along with crime generators and attractors\u2019 unique combinations, across streets. The findings of this study support literature on the 80-20 rule and law of crime concentration with implications for environmental criminology, policing, practitioners, and future studies.\nKeywords: crime and place, 80-20, conjunctive analysis of case configuratio",
+      "summary_text": {
+        "full_reference": "Steinman, H. K. (2020). Show Me St. Louis: Risk Assessment Through an 80-20 Framework. Theses and Dissertations. Retrieved from https://scholarworks.uark.edu/etd/3663",
+        "focus_summary": "This study investigates the spatial distribution of crime in St. Louis, Missouri, through the lens of environmental criminology using an 80-20 framework. It aims to understand why crime concentrates in specific areas by analyzing crime generators and attractors.",
+        "methodology": "The research employs a conjunctive analysis of case configurations to identify distinct high and low-crime street profiles. It utilizes crime data from the St. Louis Metropolitan Police Department covering the years 2018 to 2019.",
+        "findings": "The study's findings corroborate existing literature on the 80-20 rule and the law of crime concentration, indicating that a small number of streets account for a large proportion of crime. It also highlights the unique combinations of crime generators and attractors that contribute to this distribution. The results have implications for environmental criminology, policing strategies, and future research directions.",
+        "themes": "Environmental Criminology; Crime Concentration; 80-20 Rule; Crime Generators and Attractors; Spatial Distribution of Crime",
+        "critical_appraisal": "The study effectively fills a gap in the literature by applying the 80-20 framework to crime analysis in a specific urban context. However, the reliance on data from a single city may limit the generalizability of the findings. Overall, it contributes valuable insights for practitioners and researchers in criminology.",
+        "notes": "The thesis is part of the author's Master's degree requirements and includes acknowledgments of guidance from committee members. It is accessible through the University of Arkansas ScholarWorks platform."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/578566987",
+        "https://api.core.ac.uk/v3/outputs/344937770"
+      ]
+    },
+    {
+      "s_no": 11,
+      "url": "https://core.ac.uk/download/540443630.pdf",
+      "type": "pdf",
+      "title": "New Spatio-temporal Hawkes Process Models For Social Good",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Chiang, Wen-Hao"
+      ],
+      "publication_year": 2022,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Indiana University-Purdue University Indianapolis (IUPUI)As more and more datasets with self-exciting properties become available, the demand for robust models that capture contagion across events is also getting stronger. Hawkes processes stand out given their ability to capture a wide range of contagion and self-excitation patterns, including the transmission of infectious disease, earthquake aftershock distributions, near-repeat crime patterns, and overdose clusters. The Hawkes process is flexible in modeling these various applications through parametric and non-parametric kernels that model event dependencies in space, time and on networks.\r\nIn this thesis, we develop new frameworks that integrate Hawkes Process models with multi-armed bandit algorithms, high dimensional marks, and high-dimensional auxiliary data to solve problems in search and rescue, forecasting infectious disease, and early detection of overdose spikes.\r\nIn Chapter 3, we develop a method applications to the crisis of increasing overdose mortality over the last decade.  We first encode the molecular substructures found in a drug overdose toxicology report. We then cluster these overdose encodings into different overdose categories and model these categories with spatio-temporal multivariate Hawkes processes. Our results demonstrate that the proposed methodology can improve estimation of the magnitude of an overdose spike based on the substances found in an initial overdose. \r\nIn Chapter 4, we build a framework for multi-armed bandit problems arising in event detection where the underlying process is self-exciting. We derive the expected number of events for Hawkes processes given a parametric model for the intensity and then analyze the regret bound of a Hawkes process UCB-normal algorithm. By introducing the Hawkes Processes modeling into the upper confidence bound construction, our models can detect more events of interest under the multi-armed bandit problem setting. We apply the Hawkes bandit model to spatio-temporal data on crime events and earthquake aftershocks. We show that the model can quickly learn to detect hotspot regions, when events are unobserved, while striking a balance between exploitation and exploration. \r\nIn Chapter 5, we present a new spatio-temporal framework for integrating Hawkes processes with multi-armed bandit algorithms. Compared to the methods proposed in Chapter 4, the upper confidence bound is constructed through Bayesian estimation of a spatial Hawkes process to balance the trade-off between exploiting and exploring geographic regions. The model is validated through simulated datasets and real-world datasets such as flooding events and improvised explosive devices (IEDs) attack records. The experimental results show that our model outperforms baseline spatial MAB algorithms through rewards and ranking metrics.\r\nIn Chapter 6, we demonstrate that the Hawkes process is a powerful tool to model the infectious disease transmission. We develop models using Hawkes processes with spatial-temporal covariates to forecast COVID-19 transmission at the county level. In the proposed framework, we show how to estimate the dynamic reproduction number of the virus within an EM algorithm through a regression on Google mobility indices. We also include demographic covariates as spatial information to enhance the accuracy. Such an approach is tested on both short-term and long-term forecasting tasks. The results show that the Hawkes process outperforms several benchmark models published in a public forecast repository. The model also provides insights on important covariates and mobility that impact COVID-19 transmission in the U.S.\r\nFinally, in chapter 7, we discuss implications of the research and future research directions",
+      "summary_text": {
+        "full_reference": "Chiang, Wen-Hao. (2022). New Spatio-temporal Hawkes Process Models For Social Good. Purdue University.",
+        "focus_summary": "This dissertation focuses on developing new frameworks that integrate Hawkes Process models with multi-armed bandit algorithms to address various social issues, including overdose mortality, event detection, and infectious disease forecasting. The study aims to enhance the understanding and modeling of contagion effects across different applications.",
+        "methodology": "The research employs a combination of spatio-temporal multivariate Hawkes processes, multi-armed bandit frameworks, and Bayesian estimation techniques. It includes the encoding of molecular substructures in drug overdose reports and the analysis of spatial and temporal data related to crime and disease transmission.",
+        "findings": "The proposed methodologies demonstrate improved estimation of overdose spikes and effective detection of event hotspots in crime and earthquake data. The models outperform baseline algorithms in various applications, including forecasting COVID-19 transmission, where they provide insights into the impact of mobility and demographic factors. The research highlights the flexibility and applicability of Hawkes processes in addressing real-world challenges.",
+        "themes": "Hawkes Processes; Multi-armed Bandit Algorithms; Spatio-temporal Modeling; Infectious Disease Forecasting; Event Detection; Social Good Applications",
+        "critical_appraisal": "The dissertation presents a comprehensive approach to modeling complex event dynamics, showcasing the versatility of Hawkes processes in various domains. However, the reliance on specific datasets may limit the generalizability of the findings. Overall, the contributions to both theoretical and practical aspects of event modeling are significant.",
+        "notes": "Future research directions include exploring further applications of the developed models in other social contexts and improving the scalability of the algorithms for larger datasets."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/540443630",
+        "https://api.core.ac.uk/v3/outputs/590236221",
+        "https://api.core.ac.uk/v3/outputs/614399701"
+      ]
+    },
+    {
+      "s_no": 12,
+      "url": "https://core.ac.uk/download/185609869.pdf",
+      "type": "pdf",
+      "title": "A Penalized Likelihood Method for Balancing Accuracy and Fairness in Predictive Policing",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Brantingham, P. Jeffrey",
+        "Carter, Jeremy",
+        "Mohler, George",
+        "Raje, Rajeev",
+        "Valasik, Matthew"
+      ],
+      "publication_year": 2018,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Racial bias of predictive policing algorithms has been the focus of recent research and, in the case of Hawkes processes, feedback loops are possible where biased arrests are amplified through self-excitation, leading to hotspot formation and further arrests of minority populations. In this article we develop a penalized likelihood approach for introducing fairness into point process models of crime. In particular, we add a penalty term to the likelihood function that encourages the amount of police patrol received by each of several demographic groups to be proportional to the representation of that group in the total population. We apply our model to historical crime incident data in Indianapolis and measure the fairness and accuracy of the two approaches across several crime categories. We show that fairness can be introduced into point process models of crime so that patrol levels proportionally match demographics, though at a cost of reduced accuracy of the algorithms",
+      "summary_text": {
+        "full_reference": "Mohler, G., Raje, R., Valasik, M., Carter, J., & Brantingham, P. J. (2023). A Penalized Likelihood Method for Balancing Accuracy and Fairness in Predictive Policing. Journal of Computer and Information Science, Indiana University - Purdue University Indianapolis.",
+        "focus_summary": "The study addresses the racial bias present in predictive policing algorithms, particularly in the context of Hawkes processes, which can create feedback loops leading to biased arrests and hotspot formations. The objective is to develop a penalized likelihood approach that introduces fairness into point process models of crime.",
+        "methodology": "The researchers implemented a penalized likelihood method that adds a penalty term to the likelihood function, promoting proportional police patrols based on demographic representation. The model was applied to historical crime incident data from Indianapolis, allowing for a comparative analysis of fairness and accuracy across various crime categories.",
+        "findings": "The study found that it is possible to introduce fairness into point process models of crime, aligning police patrol levels with demographic proportions. However, this approach comes at the expense of reduced accuracy in the predictive algorithms. The trade-off between fairness and accuracy was highlighted, indicating that while demographic parity can be achieved, it may lead to lower overall crime rate reductions.",
+        "themes": "Predictive Policing; Fairness in Algorithms; Racial Bias; Hawkes Process; Demographic Parity",
+        "critical_appraisal": "The study effectively highlights the complexities of balancing fairness and accuracy in predictive policing, contributing valuable insights into the implications of algorithmic bias. However, it does not differentiate between the types of biases affecting suspects versus victims, which could limit the comprehensiveness of the findings.",
+        "notes": "Further research could explore the implications of implementing fairness algorithms in various contexts and their potential unintended consequences on crime rates in different demographic areas."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/185609869",
+        "https://api.core.ac.uk/v3/outputs/614403935"
+      ]
+    },
+    {
+      "s_no": 13,
+      "url": "https://core.ac.uk/download/275751352.pdf",
+      "type": "pdf",
+      "title": "CDASH: Community Data Analytics for Social Harm Prevention",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Carter, Jeremy",
+        "Chowdhury, Nahida",
+        "Mohler, George",
+        "Pandey, Saurabh",
+        "Patil, Milan",
+        "Raje, Rajeev R.",
+        "Shreyas, C. S."
+      ],
+      "publication_year": 2018,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Communities are adversely affected by heterogeneous social harm events (e.g., crime, traffic crashes, medical emergencies, drug use) and police, fire, health and social service departments are tasked with mitigating social harm through various types of interventions. Smart cities of the future will need to leverage IoT, data analytics, and government and community human resources to most effectively reduce social harm. Currently, methods for collection, analysis, and modeling of heterogeneous social harm data to identify government actions to improve quality of life are needed. In this paper we propose a system, CDASH, for synthesizing heterogeneous social harm data from multiples sources, identifying social harm risks in space and time, and communicating the risk to the relevant community resources best equipped to intervene. We discuss the design, architecture, and performance of CDASH. CDASH allows users to report live social harm events using mobile hand-held devices and web browsers and flags high risk areas for law enforcement and first responders. To validate the methodology, we run simulations on historical social harm event data in Indianapolis illustrating the advantages of CDASH over recently introduced social harm indices and existing point process methods used for predictive policing",
+      "summary_text": {
+        "full_reference": "Pandey, S., Chowdhury, N., Patil, M., Raje, R. R., Mohler, G., & Carter, J. (2018). CDASH: Community Data Analytics for Social Harm Prevention. 2018 IEEE International Smart Cities Conference (ISC2), 1\u20138.",
+        "focus_summary": "The study introduces CDASH, a system designed to synthesize heterogeneous social harm data from various sources to identify risks and communicate them to community resources. It aims to improve the effectiveness of interventions by leveraging IoT and data analytics in smart cities.",
+        "methodology": "The authors propose a system architecture for CDASH and validate its methodology through simulations using historical social harm event data from Indianapolis. The system allows for real-time reporting of social harm events and integrates data from multiple agencies.",
+        "findings": "Simulations demonstrate that CDASH outperforms existing social harm indices and point process methods used in predictive policing. The system effectively flags high-risk areas for law enforcement and first responders, enhancing resource allocation and intervention strategies.",
+        "themes": "Social harm prevention; Data analytics; Smart cities; Inter-agency collaboration; Predictive policing",
+        "critical_appraisal": "The strengths of the study lie in its innovative approach to integrating diverse data sources for social harm prevention. However, the reliance on historical data for simulations may limit the generalizability of the findings. Overall, CDASH represents a significant contribution to the field of community safety and data-driven policing.",
+        "notes": "Future research could explore the implementation challenges of CDASH in real-world settings and its impact on community trust and engagement."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/614396968",
+        "https://api.core.ac.uk/v3/outputs/469534344",
+        "https://api.core.ac.uk/v3/outputs/275751352"
+      ]
+    },
+    {
+      "s_no": 14,
+      "url": "http://arxiv.org/abs/1811.06321",
+      "type": "academic_paper",
+      "title": "Multivariate Spatiotemporal Hawkes Processes and Network Reconstruction",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Bertozzi, Andrea L.",
+        "Brantingham, P. Jeffrey",
+        "Li, Hao",
+        "Porter, Mason A.",
+        "Yuan, Baichuan"
+      ],
+      "publication_year": 2018,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "There is often latent network structure in spatial and temporal data and the\ntools of network analysis can yield fascinating insights into such data. In\nthis paper, we develop a nonparametric method for network reconstruction from\nspatiotemporal data sets using multivariate Hawkes processes. In contrast to\nprior work on network reconstruction with point-process models, which has often\nfocused on exclusively temporal information, our approach uses both temporal\nand spatial information and does not assume a specific parametric form of\nnetwork dynamics. This leads to an effective way of recovering an underlying\nnetwork. We illustrate our approach using both synthetic networks and networks\nconstructed from real-world data sets (a location-based social media network, a\nnarrative of crime events, and violent gang crimes). Our results demonstrate\nthat, in comparison to using only temporal data, our spatiotemporal approach\nyields improved network reconstruction, providing a basis for meaningful\nsubsequent analysis --- such as community structure and motif analysis --- of\nthe reconstructed networks",
+      "summary_text": {
+        "full_reference": "Yuan, B., Li, H., Bertozzi, A. L., Brantingham, P. J., & Porter, M. A. (2018). Multivariate Spatiotemporal Hawkes Processes and Network Reconstruction. arXiv:1811.06321.",
+        "focus_summary": "The study focuses on developing a nonparametric method for reconstructing networks from spatiotemporal data using multivariate Hawkes processes. It aims to leverage both temporal and spatial information to uncover latent network structures in various data sets.",
+        "methodology": "The authors propose a nonparametric approach that does not rely on a specific parametric form of network dynamics, allowing for effective recovery of underlying networks. They validate their method using synthetic networks and real-world data sets, including social media and crime event narratives.",
+        "findings": "The results indicate that incorporating spatiotemporal data significantly enhances network reconstruction compared to using only temporal data. This improved reconstruction facilitates meaningful subsequent analyses, such as community structure and motif analysis, of the reconstructed networks. The study demonstrates the method's applicability across different types of networks.",
+        "themes": "Multivariate Hawkes processes; Network reconstruction; Spatiotemporal data analysis; Community structure; Motif analysis",
+        "critical_appraisal": "The study presents a novel approach that effectively combines spatial and temporal data for network reconstruction, addressing limitations in previous methodologies. However, the nonparametric nature may introduce challenges in scalability and computational efficiency for very large datasets.",
+        "notes": "The research highlights the importance of integrating diverse data types in network analysis and opens avenues for further exploration in computational social science and related fields."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/484115200",
+        "https://api.core.ac.uk/v3/outputs/484203269"
+      ]
+    },
+    {
+      "s_no": 15,
+      "url": "https://core.ac.uk/download/540444795.pdf",
+      "type": "pdf",
+      "title": "Temporal Event Modeling of Social Harm with High Dimensional and Latent Covariates",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Liu, Xueying"
+      ],
+      "publication_year": 2022,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Indiana University-Purdue University Indianapolis (IUPUI)The counting process is the fundamental of many real-world problems with event data. Poisson process, used as the background intensity of Hawkes process, is the most commonly used point process. The Hawkes process, a self-exciting point process fits to temporal event data, spatial-temporal event data, and event data with covariates. We study the Hawkes process that fits to heterogeneous drug overdose data via a novel semi-parametric approach. The counting process is also related to survival data based on the fact that they both study the occurrences of events over time. We fit a Cox model to temporal event data with a large corpus that is processed into high dimensional covariates. We study the significant features that influence the intensity of events",
+      "summary_text": {
+        "full_reference": "Liu, X. (2022). Temporal Event Modeling of Social Harm with High Dimensional and Latent Covariates. Dissertation, Purdue University.",
+        "focus_summary": "This study focuses on modeling temporal event data related to social harm, specifically drug overdoses, using a semi-parametric approach to the Hawkes process. The aim is to understand the influence of heterogeneous covariates on the intensity of these events.",
+        "methodology": "The research employs a Hawkes process, a self-exciting point process, to analyze drug overdose data. Additionally, a Cox model is fitted to temporal event data processed into high dimensional covariates to identify significant features affecting event intensity.",
+        "findings": "The study reveals that the Hawkes process effectively captures the dynamics of drug overdose events, demonstrating the importance of various covariates in influencing event intensity. Significant features were identified that impact the occurrence of these events, contributing to a better understanding of social harm. The findings suggest that both temporal and covariate information are crucial for accurate modeling.",
+        "themes": "Temporal Event Modeling; Hawkes Process; Drug Overdose Analysis; High Dimensional Covariates; Social Harm",
+        "critical_appraisal": "The dissertation presents a robust methodological framework for analyzing complex event data, showcasing the applicability of the Hawkes process in social science research. However, the reliance on high dimensional covariates may introduce challenges in interpretation and model complexity.",
+        "notes": "The study emphasizes the relevance of temporal dynamics in understanding social harm, providing insights that could inform public health strategies and interventions."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/540444795",
+        "https://api.core.ac.uk/v3/outputs/590236173",
+        "https://api.core.ac.uk/v3/outputs/614424005",
+        "https://api.core.ac.uk/v3/outputs/533177895"
+      ]
+    },
+    {
+      "s_no": 16,
+      "url": "https://core.ac.uk/download/520502512.pdf",
+      "type": "pdf",
+      "title": "Challenges of contemporary predictive policing",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Kuk, Kristijan",
+        "Popovi\u0107, Brankica",
+        "Vukovi\u0107, Igor",
+        "\u010cisar, Petar"
+      ],
+      "publication_year": 2021,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Big data algorithms developed for predictive policing are increasingly present in the everyday work of law enforcement. There are various applications of such technologies to pre-dict crimes, potential crime scenes, profiles of perpetrators, and more. In this way, police officers are  provided  with  appropriate  assistance  in  their  work,  increasing  their  efficiency  or  entirely  replacing them in specific tasks. Although technologically advanced, police use force and arrest, so  prediction  algorithms  can  have  significantly  different,  more  drastic  consequences  as  com-pared to those that similar technologies would produce in agriculture, industry, or health. For further development of predictive policing, it is necessary to have a clear picture of the problems it can cause. This paper discusses modern predictive policing from the perspective of challenges that negatively affect its application",
+      "summary_text": {
+        "full_reference": "Vukovi\u0107, I., \u010cisar, P., Kuk, K., & Popovi\u0107, B. (Year). Challenges of contemporary predictive policing. Journal Name, Volume(Issue), Pages.",
+        "focus_summary": "The study examines the challenges associated with the implementation of predictive policing technologies in law enforcement. It highlights the complexities and potential negative consequences of using big data algorithms for crime prediction and prevention.",
+        "methodology": "The paper discusses the theoretical framework of predictive policing, incorporating insights from criminology, information technology, and predictive algorithms. It analyzes existing literature and case studies to identify the challenges faced by law enforcement agencies in applying these technologies.",
+        "findings": "The findings indicate that while predictive policing can enhance efficiency and resource management, it also raises ethical concerns related to biases in data and the implications of preemptive policing. The study emphasizes the need for a comprehensive understanding of the potential issues that predictive policing can cause, particularly regarding discrimination and civil liberties.",
+        "themes": "Predictive policing; Big data algorithms; Ethics in law enforcement; Bias and discrimination; Crime prevention strategies",
+        "critical_appraisal": "The strengths of the study lie in its thorough exploration of the ethical implications of predictive policing and its call for a clearer understanding of the associated challenges. However, it may benefit from empirical data to support its claims about the effectiveness and consequences of these technologies.",
+        "notes": "Further research is needed to evaluate the long-term impacts of predictive policing on community relations and public trust in law enforcement."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/520502512"
+      ]
+    },
+    {
+      "s_no": 17,
+      "url": "https://core.ac.uk/download/288432767.pdf",
+      "type": "pdf",
+      "title": "Large-scale and Deep Spatiotemporal Point-Process Models",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Yuan, Baichuan"
+      ],
+      "publication_year": 2020,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Many accurate spatiotemporal data sets have recently become available for research. Real-world applications create strong demands for a better multivariate point-process modeling. In this thesis, we develop new multivariate models with generalization ability and scalability. \tThe first two chapters provide a research background, real-world problems and a mathematical introduction to point-process models.\tIn chapter 3, we develop a nonparametric method for multivariate spatiotemporal Hawkes processes with applications on network reconstruction. In contrast to prior work, which has often focused on exclusively temporal information, our approach uses spatiotemporal information and does not assume a specific parametric form. Our results demonstrate that, in comparison to using only temporal data, our approach yields improved network reconstruction, providing a basis for meaningful subsequent analysis---such as examinations of community structure and motifs---of the reconstructed networks.\tIn chapter 4, we present a fast and accurate estimation method for multivariate Hawkes processes. Our method, with guaranteed consistency, combines two estimation approaches. Extensive numerical experiments, with synthetic data and real-world social network data, show that our method improves the accuracy, scalability and computational efficiency of prevailing estimation approaches. Moreover, it greatly boosts the performance of Hawkes process-based models on social network reconstruction and helps to understand the spatiotemporal triggering dynamics over social media.In chapter 5, we focus on multivariate spatial point processes, which can describe heterotopic data over space. However, highly multivariate intensities are computationally challenging due to the curse of dimensionality. To bridge this gap, we introduce a declustering-based hidden-variable model that leads to an efficient inference via a variational autoencoder (VAE). We also prove that this model is a generalization of the VAE-based model for collaborative filtering. This leads to an interesting application of spatial point-process models to recommender systems. Experimental results show the method's utility on both synthetic data and real-world data.\tFinally, in chapter 6, we show how multivariate point processes can be applied to opioid overdose events and real-time prediction of the hourly crime rate. In chapter 7, we discuss future directions and conclude the thesis",
+      "summary_text": {
+        "full_reference": "Yuan, Baichuan. (2020). Large-scale and Deep Spatiotemporal Point-Process Models. Doctoral dissertation, University of California, Los Angeles.",
+        "focus_summary": "This dissertation addresses the need for improved multivariate point-process modeling in light of the availability of accurate spatiotemporal datasets. It develops scalable and generalizable models to enhance network reconstruction and analysis in various real-world applications.",
+        "methodology": "The research employs a nonparametric method for multivariate spatiotemporal Hawkes processes, along with a fast estimation method that combines two approaches. Additionally, a declustering-based hidden-variable model is introduced, utilizing variational autoencoders for efficient inference.",
+        "findings": "The study demonstrates that incorporating spatiotemporal information significantly improves network reconstruction compared to using only temporal data. The proposed estimation method enhances accuracy and computational efficiency, particularly in social network analysis. Furthermore, the hidden-variable model shows promise in applying spatial point-process models to recommender systems and real-time crime rate predictions.",
+        "themes": "Spatiotemporal Data Analysis; Multivariate Point-Process Models; Network Reconstruction; Social Media Dynamics; Recommender Systems",
+        "critical_appraisal": "The dissertation effectively addresses complex challenges in modeling spatiotemporal data, showcasing innovative methodologies that improve existing approaches. However, the reliance on synthetic data for some experiments may limit the generalizability of findings to all real-world scenarios.",
+        "notes": "Future research directions include further exploration of multivariate point processes in diverse applications, such as public health and urban planning."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/484236739"
+      ]
+    },
+    {
+      "s_no": 18,
+      "url": "https://core.ac.uk/download/635585939.pdf",
+      "type": "pdf",
+      "title": "AGENT-BASED MODEL SIMULATION FOR POLICE DEPLOYMENT DECISION-MAKING IN PATROL OPERATIONS",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Ghasemi, Yasaman"
+      ],
+      "publication_year": 2021,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Police patrolling plays a key role in responding to 911 calls and reducing crimes. The effectiveness of patrol operations heavily depends on the deployment of police officers \u2013 e.g., the number of officers assigned to specific policing districts or beats. The complex nature of the policing system \u2013 dynamic and stochastic criminal behavior, compounded with limited policing resources, render current (traditional) police operations, which are often managed in a reactive and stationary manner \u2013 often makes it very challenging to manage and control. This study develops an agent-based simulation framework to address the dynamically changing environment in police operations and provide a platform to study alternate police patrolling strategies. Moreover, this model is implemented to investigate the police patrol operation and improve its performance. A real-world case study was conducted to illustrate how this framework is used in dynamic patrol deployment planning. The findings of this research model can provide useful information to support policing decision-makers in developing more effective police deployment decision analytics and improves the dynamic patrol operational performance",
+      "summary_text": {
+        "full_reference": "Ghasemi, Yasaman. (2021). AGENT-BASED MODEL SIMULATION FOR POLICE DEPLOYMENT DECISION-MAKING IN PATROL OPERATIONS. University of Texas at Arlington.",
+        "focus_summary": "This study focuses on enhancing police patrol operations through an agent-based simulation framework. It aims to address the complexities of police deployment decision-making in response to dynamic and stochastic criminal behaviors.",
+        "methodology": "The research employs an agent-based modeling approach to simulate police patrol operations. A real-world case study is conducted to demonstrate the application of the developed framework in dynamic patrol deployment planning.",
+        "findings": "The study reveals that the agent-based simulation framework can significantly improve the effectiveness of police deployment strategies. It provides valuable insights for decision-makers to develop more effective analytics for police operations. The findings suggest that dynamic patrol planning can lead to better resource allocation and crime reduction.",
+        "themes": "Agent-based modeling; Police patrol operations; Dynamic policing; Resource allocation; Crime reduction strategies",
+        "critical_appraisal": "The study presents a robust framework that addresses the limitations of traditional policing methods. However, the reliance on simulations may not fully capture real-world complexities. Overall, it contributes valuable insights for improving police operational performance.",
+        "notes": "The collaboration with the Arlington Police Department adds practical relevance to the research. Future studies could explore the integration of real-time data into the simulation framework."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/635585939"
+      ]
+    },
+    {
+      "s_no": 19,
+      "url": "https://core.ac.uk/download/556164613.pdf",
+      "type": "pdf",
+      "title": "Mathematical Analysis on Spatio-Temporal Criminal Patterns",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Park, Jongo"
+      ],
+      "publication_year": 2023,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Department of Mathematical SciencesMathematics has been used in many areas, and in particular to analyze numerous social phenomena in the world in great detail. Mathematical modeling has been used to model certain crimes and/or their phenomena. In addition, crime data analyses have been performed and used for crime prevention and control. In this study, we initially modeled crimes based on the concept of ???population biology.??? We cat-egorized crimes as felonies or misdemeanors and modified the changes in the population of each crime according to the characteristics of each offender, length of detention, recidivism rate, and arrest rate. We aimed to parameterize their characteristics and analyze the dynamics of the changes. In particular, we aimed to reflect the criminology theories of the ???broken window effect??? and ???crime school effect??? in our model. Through this modeling, we identified the equilibrium point and analyzed the stability of the equilibrium point when each effect was present. Then, we analyzed the phenomena according to the changes in the parameters related to the crimes and compared them with what was reflected in the real world using a bifurcation analysis. We then collected the criminal temporal and spatio-temporal data and used dynamic mode decomposition (DMD) to analyze the important factors of each data type. Furthermore, we calculated the key factors through DMD, compared the characteristics obtained from the temporal and spatio-temporal data with those from the original data, and analyzed the relationships obtained from each characteristic.\n\nBased on the results of the crime dynamics, we concluded that misdemeanors must be considered to reduce the number of felonies from the perspective of police resources, as the aforementioned broken window effect and crime school effect are related to the dynamics of moving in and out of prison. We also analyzed the temporal and spatio-temporal criminal data using DMD. For the temporal data, we verified the predictions of the future states using DMD and the decay, growth, or oscillation of each type of crime. Moreover, we connected the DMD mode to crime hotspots and analyzed the environmental characteristics of the spatial factors.ope",
+      "summary_text": {
+        "full_reference": "Jongo Park. (2023). Mathematical Analysis on Spatio-Temporal Criminal Patterns. Ulsan National Institute of Science and Technology.",
+        "focus_summary": "This study focuses on the mathematical modeling of crime dynamics, categorizing crimes into felonies and misdemeanors. It aims to analyze the effects of various criminological theories on crime rates and the stability of crime populations.",
+        "methodology": "The research employs mathematical modeling based on population biology concepts, utilizing dynamic mode decomposition (DMD) to analyze temporal and spatio-temporal crime data. Bifurcation analysis is also conducted to compare model predictions with real-world crime phenomena.",
+        "findings": "The study concludes that addressing misdemeanors is crucial for reducing felony rates, linking this to the broken window and crime school effects. Predictions of future crime states were verified using DMD, revealing patterns of decay, growth, and oscillation in crime types. The analysis also connected DMD modes to crime hotspots, highlighting environmental factors.",
+        "themes": "Mathematical modeling; Crime dynamics; Criminology theories; Dynamic mode decomposition; Spatio-temporal analysis",
+        "critical_appraisal": "The study effectively integrates mathematical modeling with criminological theories, providing valuable insights into crime prevention strategies. However, the complexity of the models may limit their practical applicability in real-world scenarios.",
+        "notes": "Further research could explore the integration of additional social factors into the models to enhance their predictive capabilities and applicability in crime prevention."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/556164613"
+      ]
+    },
+    {
+      "s_no": 20,
+      "url": "http://arxiv.org/abs/1706.09847",
+      "type": "academic_paper",
+      "title": "Runaway Feedback Loops in Predictive Policing",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Ensign, Danielle",
+        "Friedler, Sorelle A.",
+        "Neville, Scott",
+        "Scheidegger, Carlos",
+        "Venkatasubramanian, Suresh"
+      ],
+      "publication_year": 2017,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Predictive policing systems are increasingly used to determine how to\nallocate police across a city in order to best prevent crime. Discovered crime\ndata (e.g., arrest counts) are used to help update the model, and the process\nis repeated. Such systems have been empirically shown to be susceptible to\nrunaway feedback loops, where police are repeatedly sent back to the same\nneighborhoods regardless of the true crime rate.\n  In response, we develop a mathematical model of predictive policing that\nproves why this feedback loop occurs, show empirically that this model exhibits\nsuch problems, and demonstrate how to change the inputs to a predictive\npolicing system (in a black-box manner) so the runaway feedback loop does not\noccur, allowing the true crime rate to be learned. Our results are\nquantitative: we can establish a link (in our model) between the degree to\nwhich runaway feedback causes problems and the disparity in crime rates between\nareas. Moreover, we can also demonstrate the way in which \\emph{reported}\nincidents of crime (those reported by residents) and \\emph{discovered}\nincidents of crime (i.e. those directly observed by police officers dispatched\nas a result of the predictive policing algorithm) interact: in brief, while\nreported incidents can attenuate the degree of runaway feedback, they cannot\nentirely remove it without the interventions we suggest.Comment: Extended version accepted to the 1st Conference on Fairness,\n  Accountability and Transparency, 2018. Adds further treatment of reported as\n  well as discovered incident",
+      "summary_text": {
+        "full_reference": "Ensign, D., Friedler, S. A., Neville, S., Scheidegger, C., & Venkatasubramanian, S. (2018). Runaway Feedback Loops in Predictive Policing. Proceedings of Machine Learning Research, 81, 1\u201312.",
+        "focus_summary": "The study investigates the phenomenon of runaway feedback loops in predictive policing systems, which can lead to biased police deployment based on flawed crime data. It aims to develop a mathematical model to explain these feedback loops and propose interventions to mitigate their effects.",
+        "methodology": "The researchers developed a mathematical model of predictive policing to demonstrate the occurrence of runaway feedback loops. They also conducted empirical analyses to validate the model and suggested modifications to the input data used in predictive policing systems to prevent these loops.",
+        "findings": "The study found that predictive policing systems are prone to runaway feedback loops, which result in police being repeatedly sent to the same neighborhoods regardless of actual crime rates. It established a quantitative link between the severity of these feedback loops and disparities in crime rates across different areas. Additionally, while reported crime incidents can reduce the impact of runaway feedback, they cannot eliminate it without the proposed interventions.",
+        "themes": "Predictive Policing; Feedback Loops; Crime Data Analysis; Machine Learning in Law Enforcement; Bias in Policing",
+        "critical_appraisal": "The study effectively combines theoretical modeling with empirical evidence to address a significant issue in predictive policing. However, the complexity of real-world policing dynamics may limit the generalizability of the findings. The contributions to understanding feedback mechanisms in machine learning applications are valuable for future research and policy-making.",
+        "notes": "This research was funded in part by the NSF under multiple grants, and the code for the simulations used in the study is publicly available on GitHub."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/479014365"
+      ]
+    },
+    {
+      "s_no": 21,
+      "url": "https://core.ac.uk/download/604510619.pdf",
+      "type": "pdf",
+      "title": "Predictive policing in an Australian context: assessing viability and utility",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Birks, D.",
+        "Hart, T.",
+        "Townsley, M."
+      ],
+      "publication_year": 2023,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Studies in the United States and Europe have demonstrated that burglary and vehicle crime exhibit consistent patterns, supporting the application of crime prediction techniques to proactively deploy police resources to reduce incidents of crime. Research into whether these techniques are applicable in an Australian context is currently limited.\n\n\n\nUsing crime data from the Queensland Police Service, this study assessed the presence of spatio-temporal patterns in burglary, theft of motor vehicle and theft from motor vehicle offences in three distinct local government areas. After establishing the presence of spatiotemporal clustering, the forecasting performance of two predictive algorithms and a retrospective crime mapping technique was evaluated.\n\n\n\nForecasting performance varied across study regions; however, the prediction algorithms performed as well as or better than the retrospective method, while using less data. The next step in evaluating predictive policing within Australia is to consider and design effective tactical responses to prevent crime based on the forecast locations and identified patterns",
+      "summary_text": {
+        "full_reference": "Birks, D., Townsley, M., & Hart, T. (2023). Predictive policing in an Australian context: assessing viability and utility. Trends and Issues in Crime and Criminal Justice, 666.",
+        "focus_summary": "This study investigates the applicability of predictive policing techniques in Australia, specifically focusing on burglary and vehicle crime patterns. It aims to assess the presence of spatio-temporal patterns in crime data from Queensland to evaluate the effectiveness of predictive algorithms.",
+        "methodology": "The research utilized crime data from the Queensland Police Service to identify spatio-temporal patterns in burglary and vehicle theft across three local government areas. The study compared the forecasting performance of two predictive algorithms against a retrospective crime mapping technique.",
+        "findings": "The study found that spatio-temporal clustering was present in the analyzed crime types. The predictive algorithms demonstrated comparable or superior performance to the retrospective method, while requiring less data. This suggests that predictive policing techniques can be effectively utilized in the Australian context.",
+        "themes": "Predictive Policing; Crime Patterns; Spatio-Temporal Analysis; Resource Allocation",
+        "critical_appraisal": "The study contributes valuable insights into the viability of predictive policing in Australia, highlighting the potential for improved resource deployment. However, the variability in forecasting performance across regions suggests that further research is needed to refine these techniques for broader application.",
+        "notes": "The findings indicate a promising direction for future tactical responses in crime prevention based on identified patterns, emphasizing the need for ongoing evaluation and adaptation of predictive policing strategies."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/604510619"
+      ]
+    },
+    {
+      "s_no": 22,
+      "url": "https://core.ac.uk/download/613832210.pdf",
+      "type": "pdf",
+      "title": "Suraksha: Spatio-Temporal Crime Forecasting and Micro-Location Analysis",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Jayawardana, Hiranya",
+        "Pathmaperuma, Madushi Hasara"
+      ],
+      "publication_year": 2024,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Suraksha, a spatiotemporal crime prediction system, designed to elevate crime prevention with precise insights, empowering law enforcement for a safer tomorrow. Utilizing vast datasets, machine learning, and GIS, it forecasts crime hotspots by incorporating Chicago's extensive crime statistics. Addressing both precision and ethical considerations, Suraksha achieves RMSE values of 0.0874 (latitude) and 0.0602 (longitude), marking a leap in predictive policing. This pioneering approach aims to transform public safety by proactively combating crime, ensuring community well-being through innovative data-driven strategies",
+      "summary_text": {
+        "full_reference": "Jayawardana, Hiranya and Pathmaperuma, Madushi Hasara (2024) Suraksha: Spatio-Temporal Crime Forecasting and Micro-Location Analysis. Journal of Electrical Systems (JES), 20 (9). pp. 1635-1641.",
+        "focus_summary": "The study presents Suraksha, a spatiotemporal crime prediction system aimed at enhancing crime prevention through precise insights. It leverages extensive datasets, machine learning, and GIS to forecast crime hotspots, particularly using Chicago's crime statistics.",
+        "methodology": "The research employs machine learning algorithms and Geographic Information Systems (GIS) to analyze historical crime data, incorporating geographic and temporal variables. The study focuses on developing a predictive framework that identifies areas at high risk of criminal activity.",
+        "findings": "Suraksha achieves remarkable predictive accuracy with RMSE values of 0.0874 for latitude and 0.0602 for longitude. The system effectively forecasts crime hotspots, demonstrating a significant advancement in predictive policing. This innovative approach aims to proactively combat crime and enhance community safety.",
+        "themes": "Crime Prediction; Machine Learning; Geographic Information Systems (GIS); Public Safety; Data-Driven Strategies",
+        "critical_appraisal": "The study showcases a significant contribution to predictive policing by integrating advanced analytics with crime data. However, ethical considerations in data usage and potential biases in machine learning models need further exploration. Overall, Suraksha represents a promising tool for law enforcement.",
+        "notes": "The article emphasizes the importance of addressing both precision and ethical implications in crime forecasting. Future research could explore the application of Suraksha in diverse urban settings beyond Chicago."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/613832210"
+      ]
+    },
+    {
+      "s_no": 23,
+      "url": "http://arxiv.org/abs/2303.16310",
+      "type": "academic_paper",
+      "title": "Crime Prediction Using Machine Learning and Deep Learning: A Systematic\n  Review and Future Directions",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Elluri, Lavanya",
+        "Mandalapu, Varun",
+        "Roy, Nirmalya",
+        "Vyas, Piyush"
+      ],
+      "publication_year": 2023,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Predicting crime using machine learning and deep learning techniques has\ngained considerable attention from researchers in recent years, focusing on\nidentifying patterns and trends in crime occurrences. This review paper\nexamines over 150 articles to explore the various machine learning and deep\nlearning algorithms applied to predict crime. The study provides access to the\ndatasets used for crime prediction by researchers and analyzes prominent\napproaches applied in machine learning and deep learning algorithms to predict\ncrime, offering insights into different trends and factors related to criminal\nactivities. Additionally, the paper highlights potential gaps and future\ndirections that can enhance the accuracy of crime prediction. Finally, the\ncomprehensive overview of research discussed in this paper on crime prediction\nusing machine learning and deep learning approaches serves as a valuable\nreference for researchers in this field. By gaining a deeper understanding of\ncrime prediction techniques, law enforcement agencies can develop strategies to\nprevent and respond to criminal activities more effectively.Comment: 35 Pages, 6 tables and 11 figures. Consists of Dataset links used for\n  crime prediction. Review Pape",
+      "summary_text": {
+        "full_reference": "Mandalapu, V., Elluri, L., Vyas, P., & Roy, N. (2023). Crime Prediction Using Machine Learning and Deep Learning: A Systematic Review and Future Directions. arXiv:2303.16310v1.",
+        "focus_summary": "This systematic review focuses on the application of machine learning and deep learning techniques for crime prediction. It aims to identify patterns and trends in crime occurrences by analyzing over 150 research articles.",
+        "methodology": "The study employs a systematic review methodology to examine various machine learning and deep learning algorithms used in crime prediction. It also provides access to datasets utilized in this research area and analyzes the prominent approaches in the field.",
+        "findings": "The review highlights significant trends and factors related to criminal activities, showcasing the effectiveness of different algorithms in predicting crime. It identifies gaps in current research and suggests future directions to enhance prediction accuracy. The insights gathered can assist law enforcement agencies in developing more effective crime prevention strategies.",
+        "themes": "Machine Learning Algorithms; Deep Learning Techniques; Crime Prediction; Predictive Policing; Data Analysis; Crime Trends and Patterns",
+        "critical_appraisal": "The paper provides a comprehensive overview of the current state of crime prediction research, making it a valuable resource for future studies. However, it may benefit from a more in-depth analysis of specific case studies to illustrate the practical applications of the discussed algorithms.",
+        "notes": "The article includes links to datasets used for crime prediction, which can be a useful resource for researchers looking to replicate or build upon the findings."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/560406814"
+      ]
+    },
+    {
+      "s_no": 24,
+      "url": "https://core.ac.uk/download/395138170.pdf",
+      "type": "pdf",
+      "title": "Policing the future, disrupting urban policy today. Predictive policing, smart city and urban policy in Memphis (TN)",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Iapaolo, Fabio",
+        "Tulumello, Simone"
+      ],
+      "publication_year": 2021,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Significant resources and efforts have been devoted, especially in the U.S.A., to develop predictive policing programs. Predictive policing is, at the same time, one of the drivers of the birth, and the ultimate material enactment of, the anticipatory logics that are central to the smart city discourse. Quite surprisingly, however, critical analyses of the smart city have remained divorced from critical criminology and police studies. To fill this gap, this article sets out the first critical, in-depth empirical discussion of Blue CRUSH, a predictive policing program developed in Memphis (TN, U.S.A.), where its implementation intersects long-term austerity for urban policy. The article, first, shows that there is no evidence of Blue CRUSH\u2019s capacity to prevent crime, thus adding empirical material to skepticism over the role of predictive policing as a policy solution in the first place. And, second, it argues that, rather than making crime a matter of technological solutions, predictive policing shifts the politics therein\u2014in short, it contributes to the expansion of policing into the field of urban policy at the same time as it disrupts present police work. These takeaways allow to further the critique of the salvific promises implicit in the smart city discourse.info:eu-repo/semantics/publishedVersio",
+      "summary_text": {
+        "full_reference": "Tulumello, S., & Iapaolo, F. (2021). Policing the future, disrupting urban policy today. Predictive policing, smart city and urban policy in Memphis (TN). Urban Geography. doi:10.1080/02723638.2021.1887634.",
+        "focus_summary": "This article critically examines the Blue CRUSH predictive policing program in Memphis, TN, highlighting its intersection with urban policy and austerity measures. It aims to bridge the gap between critical analyses of smart cities and criminology, questioning the efficacy of predictive policing as a crime prevention strategy.",
+        "methodology": "The research employs an empirical analysis of the Blue CRUSH program, utilizing critical criminology and urban studies frameworks. It assesses the program's implementation and its implications for urban policy and policing practices.",
+        "findings": "The study finds no evidence supporting the effectiveness of Blue CRUSH in preventing crime, reinforcing skepticism about predictive policing as a viable policy solution. Additionally, it argues that predictive policing alters the political landscape of crime management, expanding policing into urban policy while disrupting traditional police work.",
+        "themes": "Predictive policing; Smart city discourse; Urban policy; Crime prevention; Algorithmic governance; Critical urban studies",
+        "critical_appraisal": "The article effectively highlights the disconnect between smart city initiatives and critical criminology, providing valuable insights into the implications of predictive policing. However, it may benefit from a broader exploration of alternative crime prevention strategies beyond technological solutions.",
+        "notes": "This research contributes to the ongoing discourse on the implications of technology in urban governance and policing, emphasizing the need for critical scrutiny of the promises made by smart city narratives."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/524604535",
+        "https://api.core.ac.uk/v3/outputs/644790222"
+      ]
+    },
+    {
+      "s_no": 25,
+      "url": "https://core.ac.uk/download/344698063.pdf",
+      "type": "pdf",
+      "title": "Spatio-temporal methods for the analysis of crime and traffic safety data",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Briz Red\u00f3n, \u00c1lvaro"
+      ],
+      "publication_year": 2020,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Desde que John Snow analizara espacialmente los casos de c\u00f3lera de la epidemia de Londres de 1854, han sido muchas las disciplinas que se han beneficiado de la existencia de m\u00e9todos estad\u00edsticos espacio-temporales: agricultura, astronom\u00eda, biolog\u00eda, epidemiolog\u00eda, geolog\u00eda, hidrolog\u00eda, meteorolog\u00eda y teledetecci\u00f3n, entre otras. Esta tesis se centra en el desarrollo y aplicaci\u00f3n de estos m\u00e9todos en el contexto de dos disciplinas: la seguridad vial y la criminolog\u00eda. En particular, un objetivo capital ha sido el de detectar lagunas de investigaci\u00f3n en la literatura actualmente disponible. As\u00ed pues, la investigaci\u00f3n de diversos problemas que surgen de forma habitual en estas dos \u00e1reas, los cuales requieren de un tratamiento estad\u00edstico concreto, ha llevado a estructurar la tesis de la forma siguiente.\n\nEn primer lugar, tras un cap\u00edtulo introductorio, se exponen dos estudios sobre seguridad vial sobre una estructura de tipo red. As\u00ed pues, el Cap\u00edtulo 2 contiene un an\u00e1lisis multivariante a nivel de calle en el que se distingue entre zonas de intersecci\u00f3n y de no intersecci\u00f3n. Seguidamente, en el Cap\u00edtulo 3 se presenta un m\u00e9todo para la detecci\u00f3n de \u201chotspots\u201d de riesgo diferencial sobre una red.\n\nEl Cap\u00edtulo 4 incluye un an\u00e1lisis espacio-temporal de un conjunto de datos de robos a vivienda centrado en el fen\u00f3meno de casi-repetici\u00f3n, el cual es capital en criminolog\u00eda. La versi\u00f3n cl\u00e1sica del test de Knox es adaptada para contemplar la existencia de heterogeneidad espacio-temporal en el riesgo de robo, lo que permite obtener una visi\u00f3n m\u00e1s precisa de la magnitud del fen\u00f3meno. En concreto, se propone un ajuste adecuado en un contexto de ausencia de variaci\u00f3n espacio-temporal tanto en la variable exposici\u00f3n como en las covariables.\n\nEl Cap\u00edtulo 5 incluye un estudio detallado del problema de la unidad de \u00e1rea modificable (MAUP) en el contexto del an\u00e1lisis de la seguridad vial. Como novedad frente a estudios previos, la escala y la zonificaci\u00f3n de las estructuras espaciales son controladas de forma expl\u00edcita. Adem\u00e1s, el an\u00e1lisis no solo se centra en las consecuencias finales en t\u00e9rminos de estimaci\u00f3n y precisi\u00f3n de los modelos, sino en las alteraciones que sufren las variables.\n\nEl Cap\u00edtulo 6 se dedica a la comparaci\u00f3n de varias metodolog\u00edas que permiten analizar c\u00f3mo la proximidad a ciertos lugares influye en la incidencia de un evento de inter\u00e9s. En concreto, esta comparaci\u00f3n se realiza para valorar la relaci\u00f3n existente entre los accidentes de tr\u00e1fico y la localizaci\u00f3n de centros educativos. \n\nEl Cap\u00edtulo 7 se centra en analizar una cuesti\u00f3n a la que se ha dado gran importancia en criminolog\u00eda cuantitativa: la p\u00e9rdida de fiabilidad de un an\u00e1lisis como consecuencia de la presencia de eventos no geocodificados. Se ha estimado que alcanzar un 85% en la tasa de geocodificaci\u00f3n es lo suficientemente aceptable como para analizar los datos. En esta tesis se reestima este porcentaje teniendo en cuenta algunos factores y m\u00e9todos no tenidos en cuenta en la estimaci\u00f3n inicial. Se concluye que geocodificar el 85% de los eventos puede no ser suficiente bajo ciertas condiciones.\n\nFinalmente, el Cap\u00edtulo 8 incluye la descripci\u00f3n de dos paquetes de R que han sido desarrollados durante esta tesis: SpNetPrep, que permite el preprocesado y depuraci\u00f3n de una estructura de tipo red, y DRHotNet, que implementa el procedimiento de detecci\u00f3n de \u201chotspots\u201d descrito en el Cap\u00edtulo 3.Since physician John Snow analyzed the spatial distribution of cholera cases detected in the 1854 epidemic in London, many disciplines have benefited from the existence of spatio-temporal statistical methods: agriculture, astronomy, biology, epidemiology, geology, hydrology, meteorology, and remote sensing, among others. This thesis therefore focuses on the development and application of spatio-temporal methods in the context of two disciplines: traffic safety analysis and criminology. In particular, a capital objective has been to detect research gaps in the currently available literature. Thus, the investigation of several types of problems that usually arise in these two fields, which require a specific statistical approach, has led to the structuring of this thesis as follows.\n\nFirstly, after an introductory chapter, two studies in the context of traffic safety analysis where the use of a linear network structure is fundamental are shown. The first one contains a street-level multivariate analysis of the occurrence of traffic accidents accounting for the presence of intersection and non-intersection segments. Next, in Chapter 3, a method is presented and employed for the detection of differential risk \"hotspots\" along a network.\n\nChapter 4 includes a spatio-temporal analysis of a burglary dataset focused on the phenomenon of near-repetition, which is capital in the field of criminology. The classic version of the Knox test is adapted to account for spatio-temporal burglary risk heterogeneity, which provides a more accurate representation of the magnitude of the phenomenon. Specifically, an adjustment is proposed that is suitable in a context of absence of spatial-temporal variation in both the exposure variable and the covariates.\n\nChapter 5 includes a detailed study of the modifiable area unit problem (MAUP) in the context of traffic safety analysis. As a novelty compared to previous studies, the scale and zoning of the spatial structures considered are explicitly controlled. Furthermore, the analysis does not only focus on the final consequences in terms of estimation and precision of the models, but also on the alterations that occur in the different variables involved.\n\nChapter 6 is dedicated to the comparison of several methodologies that can be selected to analyze how the proximity to certain places influences the incidence of an event of interest. Specifically, this comparison is made to assess the relationship between traffic accidents and the location of educational centers. \n\nChapter 7 focuses on analyzing an issue that has been given great importance in quantitative criminology: the loss of reliability of analyses as a result of the presence of non-geocoded events. It has been estimated that reaching 85% geocoding success rate is enough to carry out further analysis of the data. In this thesis, this percentage is reestimated taking into account some factors and methods not taken into account in the initial estimation. It is concluded that reaching 85% success rate in the geocoding process may not be sufficient under certain conditions.\n\nFinally, Chapter 8 includes the description of two R packages that have been developed during this thesis: SpNetPrep, which allows the preprocessing and curation of a linear network, and DRHotNet, which implements the \"hotspot\" detection procedure described in Chapter 3",
+      "summary_text": {
+        "full_reference": "Briz Red\u00f3n, \u00c1. (2020). Spatio-temporal methods for the analysis of crime and traffic safety data. Universitat de Val\u00e8ncia.",
+        "focus_summary": "This thesis focuses on the development and application of spatio-temporal statistical methods in the fields of traffic safety analysis and criminology. A significant objective is to identify research gaps in the existing literature related to these disciplines.",
+        "methodology": "The research employs various statistical methods, including multivariate analysis, hotspot detection, and adaptations of the Knox test to account for spatio-temporal heterogeneity. It also addresses the modifiable area unit problem (MAUP) and compares methodologies for analyzing the influence of proximity to certain locations on event incidence.",
+        "findings": "Key findings include the identification of differential risk hotspots in traffic accidents and a more accurate representation of burglary risk through adapted statistical tests. The study also reveals that achieving an 85% geocoding success rate may not be sufficient for reliable analyses under certain conditions. Additionally, the thesis introduces two R packages for data preprocessing and hotspot detection.",
+        "themes": "Spatio-temporal analysis; Traffic safety; Criminology; Statistical methods; Geocoding reliability; Hotspot detection",
+        "critical_appraisal": "The thesis effectively addresses significant gaps in the literature and provides innovative methodologies for both traffic safety and criminological analysis. However, the complexity of the statistical methods may pose challenges for practitioners without a strong statistical background.",
+        "notes": "The development of R packages SpNetPrep and DRHotNet represents a valuable contribution to the field, facilitating further research and application of the methods discussed."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/344698063"
+      ]
+    },
+    {
+      "s_no": 26,
+      "url": "https://core.ac.uk/download/630991575.pdf",
+      "type": "pdf",
+      "title": "Spatio-Temporal Crime Predictions by Leveraging Artificial Intelligence for Citizens Security in Smart Cities",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Ali, Mubashir"
+      ],
+      "publication_year": 2021,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Smart city infrastructure has a significant impact on improving the quality of humans life. However, a substantial increase in the urban population from the last few years poses challenges related to resource management, safety, and security. To ensure the safety and security in the smart city environment, this paper presents a novel approach by empowering the authorities to better visualize the threats, by identifying and predicting the highly-reported crime zones in the smart city. To this end, it first investigates the Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN) to detect the hot-spots that have a higher risk of crime occurrence. Second, for crime prediction, Seasonal Auto-Regressive Integrated Moving Average (SARIMA) is exploited in each dense crime region to predict the number of crime incidents in the future with spatial and temporal information. The proposed HDBSCAN and SARIMA based crime prediction model is evaluated on ten years of crime data (2008-2017) for New York City (NYC). The accuracy of the model is measured by considering different time scenarios such as the year-wise, (i.e., for each year), and for the total considered duration of ten years using an 80:20 ratio. The 80% of data was used for training and 20% for testing. The proposed approach outperforms with an average Mean Absolute Error (MAE) of 11.47 as compared to the highest scoring DBSCAN based method with MAE 27.03",
+      "summary_text": {
+        "full_reference": "Butt, U. M., Letchmunan, S., Hassan, F. H., Ali, M., Baqir, A., Koh, T. W., & Sherazi, H. H. R. (2021). Spatio-Temporal Crime Predictions by Leveraging Artificial Intelligence for Citizens Security in Smart Cities. IEEE Access, 9, 47516-47530. DOI: 10.1109/ACCESS.2021.3068306",
+        "focus_summary": "The study aims to enhance citizen security in smart cities by predicting crime occurrences through advanced artificial intelligence techniques. It addresses the challenges posed by increasing urban populations and aims to empower authorities to visualize and mitigate crime risks effectively.",
+        "methodology": "The research employs a two-step approach utilizing Hierarchical Density-Based Spatial Clustering of Applications with Noise (HDBSCAN) for hotspot detection and Seasonal Auto-Regressive Integrated Moving Average (SARIMA) for crime prediction. The model is evaluated using ten years of crime data from New York City, applying an 80:20 training-testing data split.",
+        "findings": "The proposed crime prediction model demonstrates a significant improvement in accuracy, achieving an average Mean Absolute Error (MAE) of 11.47 compared to 27.03 for the best-performing DBSCAN method. The results indicate that the model effectively identifies high-risk crime zones and predicts future crime incidents with spatial and temporal precision. This approach provides a valuable tool for law enforcement agencies in resource allocation and crime prevention strategies.",
+        "themes": "Smart Cities; Crime Prediction; Artificial Intelligence; Public Safety; Data Analysis",
+        "critical_appraisal": "The study presents a robust methodology that integrates advanced clustering and predictive modeling techniques, showcasing its effectiveness in real-world applications. However, the reliance on historical data may limit the model's adaptability to unforeseen crime patterns. Overall, it contributes significantly to the field of urban safety and crime prevention.",
+        "notes": "Future research could explore the integration of real-time data sources and machine learning techniques to enhance the model's predictive capabilities further. Additionally, expanding the study to include other urban areas could validate the generalizability of the findings."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/630991575"
+      ]
+    },
+    {
+      "s_no": 27,
+      "url": "https://core.ac.uk/download/552977740.pdf",
+      "type": "pdf",
+      "title": "Policing the poor through space: The fil rouge from criminal cartography to geospatial predictive policing",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Gatti Carlo"
+      ],
+      "publication_year": 2022,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Recent years have witnessed an explosion of interest in predictive policing, with a clear opposition emerging between supporters and critics of its implementation. While critical accounts conventionally centre on opacities and operational asymmetries of the algorithmic construct (biased training, feedback loop, etc.), I argue that a different critique is first needed. Focussing on place-based techniques, I maintain that contemporary predictive mapping basically perpetuates the political and epistemic dictates which have historically framed the conceptualisation of crime in relation to space. Through a review of sources spanning from the Cartographic School to current predictive policing literature, I identify two main conceptual axes which operationalise this heritage: first, an explanatory framework of crime that has never detached from the socio-economic deficit archetype; and secondly, an ontologisation of crime alternative to biologicist positivism, nonetheless integral to the etiologic paradigm. Therefore, without first disputing these ideological bottlenecks, no initiative towards a transparent use of predictive policing is plausible, neither does a sharp distinction between place-based and person-based predictions seem tenable.</p",
+      "summary_text": {
+        "full_reference": "Gatti, Carlo. (2022). Policing the poor through space: The fil rouge from criminal cartography to geospatial predictive policing. O\u00f1ati Socio-Legal Series, 12(6), 1733\u20131758. DOI: https://doi.org/10.35295/OSLS.IISL/0000-0000-0000-1360",
+        "focus_summary": "This study examines the implications of predictive policing, particularly how it perpetuates historical conceptualizations of crime related to space. The author argues for a critique that goes beyond algorithmic biases to address the socio-political frameworks that shape crime mapping.",
+        "methodology": "The research employs a literature review, drawing from historical sources such as the Cartographic School and contemporary predictive policing literature. This approach allows for the identification of conceptual axes that inform the ongoing discourse around crime and space.",
+        "findings": "The study identifies two main conceptual axes: one is the socio-economic deficit archetype that continues to frame crime explanations, and the other is an ontological perspective on crime that, while alternative to biologicist positivism, remains part of the etiological paradigm. The author concludes that without addressing these ideological constraints, transparent predictive policing initiatives are unlikely to succeed.",
+        "themes": "Predictive policing; Crime mapping; Social control; Critical criminology; Socio-economic factors",
+        "critical_appraisal": "The article provides a compelling critique of predictive policing by situating it within a historical context, highlighting the need for a deeper understanding of the ideological underpinnings of crime mapping. However, it may benefit from empirical case studies to illustrate the theoretical claims made.",
+        "notes": "The author is a PhD candidate at Turku University, focusing on predictive policing in Europe, which adds credibility to the research. The paper also acknowledges contributions from peers and reviewers, indicating a collaborative approach to the research process."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/552977740",
+        "https://api.core.ac.uk/v3/outputs/601040838"
+      ]
+    },
+    {
+      "s_no": 28,
+      "url": "https://core.ac.uk/download/389505089.pdf",
+      "type": "pdf",
+      "title": "Quantifying the Simultaneous Effect of Socio-Economic Predictors and Build Environment on Spatial Crime Trends",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [
+        "Ek, Alfieri Daniel"
+      ],
+      "publication_year": 2020,
+      "journal_name": null,
+      "volume": null,
+      "publisher": null,
+      "location": null,
+      "country": null,
+      "citation_count": 0,
+      "abstract": "Proper allocation of law enforcement agencies falls under the umbrella of risk terrainmodeling (Caplan et al., 2011, 2015; Drawve, 2016) that primarily focuses on crime prediction and prevention by spatially aggregating response and predictor variables of interest. Although mental health incidents demand resource allocation from law enforcement agencies and the city, relatively less emphasis has been placed on building spatial models for mental health incidents events. Analyzing spatial mental health events in Little Rock, AR over 2015 to 2018, we found evidence of spatial heterogeneity via Moran\u2019s I statistic. A spatial modeling framework is then built using generalized linear models, spatial regression models and a tree based method, in particular, Poisson regression, spatial Durbin error model, Manski model and Random Forest. The insights obtained from these different models are presented here along with their relative predictive performances. These inferential tools have the potential to aid both law enforcement agencies and the city in properly allocating resources required for such events",
+      "summary_text": {
+        "full_reference": "Ek, A. D. (2020). Quantifying the Simultaneous Effect of Socio-Economic Predictors and Build Environment on Spatial Crime Trends. Graduate Theses and Dissertations. University of Arkansas.",
+        "focus_summary": "The study aims to enhance the allocation of law enforcement resources by modeling the spatial trends of mental health incidents in Little Rock, AR, from 2015 to 2018. It emphasizes the need for spatial models to address mental health events, which have been underrepresented in crime prediction frameworks.",
+        "methodology": "The research employs a spatial modeling framework that includes generalized linear models, spatial regression models, and tree-based methods such as Poisson regression, spatial Durbin error model, Manski model, and Random Forest. The analysis utilizes Moran\u2019s I statistic to assess spatial heterogeneity in mental health incidents.",
+        "findings": "The study reveals significant spatial heterogeneity in mental health incidents, indicating that these events are not uniformly distributed across the area. The comparative analysis of different models demonstrates varying predictive performances, providing valuable insights for law enforcement and city resource allocation. The findings suggest that tailored approaches are necessary for effective intervention in mental health-related incidents.",
+        "themes": "Risk Terrain Modeling; Spatial Crime Prediction; Mental Health Incidents; Resource Allocation; Predictive Policing",
+        "critical_appraisal": "The study effectively highlights the importance of integrating mental health incident data into crime prediction models, which is often overlooked. However, the reliance on specific statistical methods may limit the generalizability of the findings. Overall, it contributes significantly to the discourse on resource allocation in law enforcement.",
+        "notes": "The research underscores the potential of advanced statistical methods in improving public safety strategies, particularly in addressing mental health crises. Future studies could expand on this work by exploring additional socio-economic factors and their interactions with spatial crime trends."
+      },
+      "source_fulltext_urls": [
+        "https://api.core.ac.uk/v3/outputs/578568670",
+        "https://api.core.ac.uk/v3/outputs/389505089"
+      ]
+    }
+  ]
+}

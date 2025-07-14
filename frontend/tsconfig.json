@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "target": "es2015",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./*"]
+    },
+    "typeRoots": ["./node_modules/@types", "./@types"],
+    "types": ["uuid", "node", "react", "react-dom"]
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    "app/api/checkout_sessions/route.ts"
+, "scripts/seed.ts", "pages/documentation/_meta.jsx", "app/dashboard/tutor/_components/VoiceCard.jsx", "app/dashboard/class/_components/WhiteBoard.tsx", "components/chatbot/VoiceButton.jsx", "app/api/fastapi/personalizationDisplay.ts"  ],
+  "exclude": ["node_modules"]
+}

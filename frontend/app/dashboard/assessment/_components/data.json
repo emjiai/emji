@@ -1,0 +1,315 @@
+{
+  "status": "success",
+  "content": {
+    "quizzes": [
+      {
+        "id": "q1",
+        "title": "EHR System Website Development Proposal Quiz",
+        "description": "This quiz tests your understanding of the Pricing Proposal for the development of an EHR System landing page website.",
+        "timeLimit": 15,
+        "difficulty": "medium",
+        "category": "Computer Science",
+        "questions": [
+          {
+            "id": "q1_1",
+            "type": "multiple_choice",
+            "text": "What is the primary purpose of the EHR System website as outlined in the proposal?",
+            "options": [
+              { "id": "a", "text": "To serve as a user portal for navigating EHR functionalities" },
+              { "id": "b", "text": "To serve as an online store for medical equipment" },
+              { "id": "c", "text": "To act as a social media platform for healthcare professionals" },
+              { "id": "d", "text": "To provide detailed EHR system backend integration" }
+            ],
+            "correct_answer": "a",
+            "explanation": "The proposal highlights that the website will serve as the primary portal for users to navigate EHR functionalities."
+          },
+          {
+            "id": "q1_2",
+            "type": "multiple_choice",
+            "text": "Which pages are included in the primary structure of the website?",
+            "options": [
+              { "id": "a", "text": "Home, About Us, Our Services" },
+              { "id": "b", "text": "Home, Pricing, FAQ" },
+              { "id": "c", "text": "Contact Us, Blog, Pricing Page" },
+              { "id": "d", "text": "Home, Services, Contact Us" }
+            ],
+            "correct_answer": "a",
+            "explanation": "The primary pages listed in the proposal are Home, About Us, and Our Services."
+          },
+          {
+            "id": "q1_3",
+            "type": "true_false",
+            "text": "The total initial development cost in Nigerian Naira (NGN) is 450,000.",
+            "options": [
+              { "id": "a", "text": "True" },
+              { "id": "b", "text": "False" }
+            ],
+            "correct_answer": "a",
+            "explanation": "The proposal specifies that the total initial development cost is NGN 450,000."
+          },
+          {
+            "id": "q1_4",
+            "type": "multiple_choice",
+            "text": "What percentage of the development costs is invoiced upon completion and website launch?",
+            "options": [
+              { "id": "a", "text": "50%" },
+              { "id": "b", "text": "20%" },
+              { "id": "c", "text": "30%" },
+              { "id": "d", "text": "100%" }
+            ],
+            "correct_answer": "b",
+            "explanation": "The payment terms specify that 20% of the development costs are invoiced upon completion and website launch."
+          },
+          {
+            "id": "q1_5",
+            "type": "true_false",
+            "text": "The proposal includes deep integration with back-end EHRS systems.",
+            "options": [
+              { "id": "a", "text": "True" },
+              { "id": "b", "text": "False" }
+            ],
+            "correct_answer": "b",
+            "explanation": "The proposal clearly states that it does not include deep integration with back-end EHRS systems."
+          }
+        ]
+      },
+      {
+        "id": "q2",
+        "title": "Mathematics: Algebra Fundamentals",
+        "description": "Test your understanding of basic algebraic concepts and problem-solving.",
+        "timeLimit": 20,
+        "difficulty": "easy",
+        "category": "Mathematics",
+        "questions": [
+          {
+            "id": "q2_1",
+            "type": "multiple_choice",
+            "text": "Solve for x: 3x + 5 = 14",
+            "options": [
+              { "id": "a", "text": "x = 2" },
+              { "id": "b", "text": "x = 3" },
+              { "id": "c", "text": "x = 4" },
+              { "id": "d", "text": "x = 5" }
+            ],
+            "correct_answer": "b",
+            "explanation": "3x + 5 = 14\n3x = 14 - 5\n3x = 9\nx = 3"
+          },
+          {
+            "id": "q2_2",
+            "type": "short_answer",
+            "text": "If a triangle has sides of length 3, 4, and 5 units, what is its area?",
+            "correct_answer": "6",
+            "explanation": "Using Heron's formula: Area = √(s(s-a)(s-b)(s-c)) where s = (a+b+c)/2. Here s = (3+4+5)/2 = 6, so Area = √(6(6-3)(6-4)(6-5)) = √(6×3×2×1) = √36 = 6 square units."
+          },
+          {
+            "id": "q2_3",
+            "type": "fill_in_the_blanks",
+            "text": "The sum of the angles in a triangle always equals ____ degrees.",
+            "correct_answer": "180",
+            "explanation": "In Euclidean geometry, the sum of the interior angles of any triangle is always 180 degrees."
+          }
+        ]
+      },
+      {
+        "id": "q3",
+        "title": "Introduction to World History",
+        "description": "Test your knowledge of major historical events and figures.",
+        "timeLimit": 25,
+        "difficulty": "medium",
+        "category": "History",
+        "questions": [
+          {
+            "id": "q3_1",
+            "type": "multiple_choice",
+            "text": "Which event is considered the beginning of World War I?",
+            "options": [
+              { "id": "a", "text": "Assassination of Archduke Franz Ferdinand" },
+              { "id": "b", "text": "German invasion of Poland" },
+              { "id": "c", "text": "Battle of the Somme" },
+              { "id": "d", "text": "Russian Revolution" }
+            ],
+            "correct_answer": "a",
+            "explanation": "The assassination of Archduke Franz Ferdinand of Austria on June 28, 1914, is considered the event that triggered World War I."
+          },
+          {
+            "id": "q3_2",
+            "type": "essay",
+            "text": "Explain how the Industrial Revolution changed society in the 19th century. Include at least three major impacts.",
+            "evaluation_criteria": [
+              "Identification of at least three major impacts",
+              "Use of specific historical examples",
+              "Clear explanation of cause and effect",
+              "Organization and coherence"
+            ],
+            "sample_answer": "The Industrial Revolution fundamentally transformed society in the 19th century through technological, economic, and social changes. First, it revolutionized production methods through mechanization, shifting from hand production to machine manufacturing and creating factory systems that dramatically increased output. Second, it catalyzed urbanization as people migrated from rural areas to cities for factory jobs, leading to the rapid growth of urban areas and associated challenges like overcrowding and pollution. Third, it created new social classes, particularly an industrial working class (proletariat) and a wealthy industrial class (bourgeoisie), intensifying class divisions and laying the groundwork for labor movements. Additional impacts included transportation revolutions through railways and steamships, environmental deterioration from unchecked industrial pollution, and eventual improvements in living standards despite initial hardships for workers."
+          }
+        ]
+      }
+    ],
+    "formativeAssessments": [
+      {
+        "id": "f1",
+        "title": "Essay Analysis on Literary Themes",
+        "description": "Upload your essay for analysis and feedback on your literary analysis skills.",
+        "category": "English Literature",
+        "instructions": "Please upload your essay that analyzes the themes of justice and morality in classic literature. Your essay should be between 800-1000 words and include textual evidence to support your analysis.",
+        "rubric": [
+          {
+            "criterion": "Thesis Statement",
+            "description": "Clear, specific thesis that addresses the prompt",
+            "points": 10
+          },
+          {
+            "criterion": "Textual Evidence",
+            "description": "Relevant quotes and examples from the text that support the thesis",
+            "points": 15
+          },
+          {
+            "criterion": "Analysis",
+            "description": "Thoughtful interpretation of evidence that connects to the thesis",
+            "points": 20
+          },
+          {
+            "criterion": "Organization",
+            "description": "Logical flow with clear introduction, body, and conclusion",
+            "points": 10
+          },
+          {
+            "criterion": "Grammar & Mechanics",
+            "description": "Few to no errors in grammar, spelling, and punctuation",
+            "points": 5
+          }
+        ],
+        "sampleFeedback": {
+          "strengths": [
+            "Strong thesis that clearly identifies the moral themes in the novel",
+            "Excellent use of quotes to support your arguments",
+            "Thoughtful connections between characters' actions and broader themes"
+          ],
+          "areasForImprovement": [
+            "Consider delving deeper into how the narrator's perspective influences the reader's understanding of justice",
+            "Some paragraphs could benefit from stronger topic sentences",
+            "Be careful of tense shifts throughout the essay"
+          ],
+          "overallFeedback": "This is a solid analysis that demonstrates good understanding of the novel's themes. Continue developing your analytical skills by exploring how literary devices contribute to theme development.",
+          "score": 45,
+          "totalPoints": 60
+        }
+      },
+      {
+        "id": "f2",
+        "title": "Physics Lab Report Evaluation",
+        "description": "Get feedback on your physics lab methodology and analysis.",
+        "category": "Science",
+        "instructions": "Upload your lab report on the experiment we conducted in class. Your report should include your hypothesis, methodology, data collection, analysis, and conclusions.",
+        "rubric": [
+          {
+            "criterion": "Hypothesis",
+            "description": "Clear, testable hypothesis based on scientific principles",
+            "points": 10
+          },
+          {
+            "criterion": "Methodology",
+            "description": "Detailed, replicable experimental procedure",
+            "points": 15
+          },
+          {
+            "criterion": "Data Analysis",
+            "description": "Accurate data processing with appropriate graphs and calculations",
+            "points": 20
+          },
+          {
+            "criterion": "Error Analysis",
+            "description": "Identification and quantification of experimental uncertainties",
+            "points": 10
+          },
+          {
+            "criterion": "Conclusions",
+            "description": "Logical conclusions based on data that address the hypothesis",
+            "points": 15
+          }
+        ],
+        "sampleFeedback": {
+          "strengths": [
+            "Well-designed experiment with clear methodology",
+            "Excellent data visualization through graphs",
+            "Thorough error analysis that identifies all major sources of uncertainty"
+          ],
+          "areasForImprovement": [
+            "The hypothesis could be more specific and clearly linked to the relevant physical principles",
+            "Consider including error bars on your graphs",
+            "The conclusion should more explicitly address whether the hypothesis was supported"
+          ],
+          "overallFeedback": "This is a strong lab report that demonstrates good experimental technique and data analysis. To improve further, focus on connecting your experimental results more explicitly to the theoretical principles discussed in class.",
+          "score": 58,
+          "totalPoints": 70
+        }
+      }
+    ],
+    "summativeAssessments": [
+      {
+        "id": "s1",
+        "title": "End of Unit Physics Assessment",
+        "description": "Comprehensive assessment covering mechanics, energy, and thermodynamics.",
+        "category": "Science",
+        "components": [
+          {
+            "type": "quiz",
+            "weight": 40,
+            "description": "Multiple choice and short answer questions testing core concepts",
+            "questionCount": 20
+          },
+          {
+            "type": "problem_solving",
+            "weight": 30,
+            "description": "Numerical problems applying physics principles",
+            "problemCount": 5
+          },
+          {
+            "type": "lab_report",
+            "weight": 30,
+            "description": "Analysis of experimental data and conclusions"
+          }
+        ],
+        "learningObjectives": [
+          "Demonstrate understanding of Newton's Laws of Motion",
+          "Apply conservation of energy principles to mechanical systems",
+          "Analyze thermodynamic processes using appropriate laws",
+          "Interpret experimental data to validate physical models"
+        ],
+        "passingScore": 70
+      },
+      {
+        "id": "s2",
+        "title": "Final Literature Portfolio",
+        "description": "Comprehensive evaluation of literary analysis skills through multiple components.",
+        "category": "English Literature",
+        "components": [
+          {
+            "type": "essay",
+            "weight": 40,
+            "description": "Literary analysis essay comparing themes across multiple works"
+          },
+          {
+            "type": "creative_response",
+            "weight": 30,
+            "description": "Creative writing piece that demonstrates understanding of literary techniques"
+          },
+          {
+            "type": "reflection",
+            "weight": 30,
+            "description": "Reflective analysis of your growth as a reader and writer"
+          }
+        ],
+        "learningObjectives": [
+          "Analyze literary works through close reading and textual evidence",
+          "Compare and contrast themes across different texts and contexts",
+          "Apply literary theory to enhance textual interpretation",
+          "Demonstrate creative application of literary techniques"
+        ],
+        "passingScore": 75
+      }
+    ]
+  },
+  "source_document_url": "https://soosimage.s3.amazonaws.com/quiz_sources/Pricing Proposal for EHR System_20250404141846.pdf"
+}

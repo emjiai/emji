@@ -1,0 +1,59 @@
+{
+  "custom_sources": [
+    {
+      "s_no": 1,
+      "url": "",
+      "type": "",
+      "title": "",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [],
+      "publication_year": "",
+      "journal_name": "",
+      "volume": "",
+      "publisher": "",
+      "location": "",
+      "country": "",
+      "citation_count": "",
+      "abstract": "",
+      "summary_text": {
+        "full_reference": "",
+        "focus_summary": "",
+        "methodology": "",
+        "findings": "",
+        "themes": "",
+        "critical_appraisal": "",
+        "notes": ""
+      },
+      "source_fulltext_urls": [],
+      "doi": ""
+    },
+    {
+      "s_no": 2,
+      "url": "https://perplexity.ai/search?q=Decision+Making+and+Task+Performance+in+Predictive+Policing+-+Context:+Extend+the+PNAS+model+by+integrating+predictive+mechanisms+for+self-exciting+crime+triggers+and+spatial+diffusion,+and+develop+an+AI-driven+resource+optimization+framework+under+operational+constraints,+addressing+limitations+of+the+original+approach+which+overlooked+crime+clustering+(Hawkes,+1971),+spatial+diffusion+,+and+environmental+drivers+for+predictive+policing.+Focus+on+articles+related+to+predictive+policing",
+      "type": "web_search",
+      "title": "Perplexity Search Result 1: Decision Making and Task Performance in Predictive Policing - Context: Extend the PNAS model by integrating predictive mechanisms for self-exciting crime triggers and spatial diffusion, and develop an AI-driven resource optimization framework under operational constraints, addressing limitations of the original approach which overlooked crime clustering (Hawkes, 1971), spatial diffusion , and environmental drivers for predictive policing. Focus on articles related to predictive policing",
+      "importance": 4,
+      "peer_reviewed": false,
+      "authors": [],
+      "publication_year": "",
+      "journal_name": "",
+      "volume": "",
+      "publisher": "Perplexity AI",
+      "location": "",
+      "country": "",
+      "citation_count": 0,
+      "abstract": "## Decision Making and Task Performance in Predictive Policing\n\n### Introduction\n\nPredictive policing is a data-driven approach to crime prevention and law enforcement, aiming to identify high-risk areas and individuals before crimes occur. The original PNAS model, as discussed in Hawkes (1971), has been widely used but has several limitations, including the oversight of crime clustering, spatial diffusion, and environmental drivers. To address these limitations, this research aims to extend the...",
+      "summary_text": {
+        "full_reference": "Perplexity AI Search. (2025). Search results for: Decision Making and Task Performance in Predictive Policing - Context: Extend the PNAS model by integrating predictive mechanisms for self-exciting crime triggers and spatial diffusion, and develop an AI-driven resource optimization framework under operational constraints, addressing limitations of the original approach which overlooked crime clustering (Hawkes, 1971), spatial diffusion , and environmental drivers for predictive policing. Focus on articles related to predictive policing.",
+        "focus_summary": "Web search results addressing: Decision Making and Task Performance in Predictive Policing - Context: Extend the PNAS model by integrating predictive mechanisms for self-exciting crime triggers and spatial diffusion, and develop an AI-driven resource optimization framework under operational constraints, addressing limitations of the original approach which overlooked crime clustering (Hawkes, 1971), spatial diffusion , and environmental drivers for predictive policing. Focus on articles related to predictive policing",
+        "methodology": "Web search and information aggregation via Perplexity AI",
+        "findings": "## Decision Making and Task Performance in Predictive Policing\n\n### Introduction\n\nPredictive policing is a data-driven approach to crime prevention and law enforcement, aiming to identify high-risk areas and individuals before crimes occur. The original PNAS model, as discussed in Hawkes (1971), has been widely used but has several limitations, including the oversight of crime clustering, spatial diffusion, and environmental drivers. To address these limitations, this research aims to extend the PNAS model by integrating predictive mechanisms for self-exciting crime triggers and spatial diffusion. Additionally, an AI-driven resource optimization framework will be developed under operational constraints.\n\n### Extending the PNAS Model\n\n#### Self-Exciting Crime Triggers\n\nSelf-exciting point processes, such as the Hawkes process, are commonly used in predictive policing to model the occurrence of crimes over time. These processes account for the clustering of crimes and the triggering effect where one event increases the likelihood of subsequent events (Hawkes, 1971; Breslow, 1982). To extend the PNAS model, we can incorporate a self-exciting mechanism that captures the temporal dependencies between crimes.\n\n#### Spatial Diffusion\n\nSpatial diffusion refers to the spread of crime activity across different geographic locations. This phenomenon is crucial in predictive policing as it helps in identifying hotspots and predicting future crime locations. By integrating spatial diffusion into the extended PNAS model, we can better understand how crime activity moves through space and time (Brantingham & Brantingham, 1981).\n\n#### Environmental Drivers\n\nEnvironmental factors such as weather, economic conditions, and social demographics significantly influence crime rates. Incorporating these drivers into the predictive model can enhance its accuracy by providing a more comprehensive understanding of crime dynamics (Bernasco & Nieuwbeerta, 2005).\n\n### AI-Driven Resource Optimization Framework\n\n#### Operational Constraints\n\nOperational constraints in policing include limited resources such as personnel, budget, and equipment. An AI-driven resource optimization framework aims to allocate these resources efficiently based on predictive policing outputs. This framework should consider factors like response times, patrol routes, and officer deployment to maximize the effectiveness of policing efforts (Braga et al., 2019).\n\n#### Optimization Algorithms\n\nSeveral optimization algorithms can be employed to develop this framework. For instance, linear programming or mixed-integer programming can be used to allocate resources under various constraints (Bertsimas & Tsitsiklis, 1997). Additionally, machine learning techniques such as reinforcement learning can be applied to optimize resource allocation in real-time based on dynamic crime patterns (Sutton & Barto, 2018).\n\n### Conclusion\n\nExtending the PNAS model by integrating predictive mechanisms for self-exciting crime triggers and spatial diffusion, and developing an AI-driven resource optimization framework under operational constraints, addresses the limitations of the original approach. This approach not only improves the accuracy of predictive policing but also ensures that resources are utilized efficiently to maximize task performance.\n\n### References\n\n- Breslow, N. E. (1982). Generalized linear models for life studies. *Annals of Statistics*, 10(2), 437-443.\n- Brantingham, P. J., & Brantingham, P. L. (1981). Notes on the geometry of crime. *Crime and Justice*, 2, 27-54.\n- Braga, A. A., Papachristos, A. V., & Hureau, D. M. (2019). The effects of focused deterrence strategies on crime. *Annual Review of Criminology*, 2, 141-164.\n- Bernasco, W., & Nieuwbeerta, P. (2005). The distance between imputed and actual crime locations: Implications for spatial analysis. *Journal of Quantitative Criminology*, 21(2), 147-169.\n- Bertsimas, D., & Tsitsiklis, J. N. (1997). *Introduction to Linear Optimization*. Athena Scientific.\n- Hawkes, A. G. (1971). Spectra of some self-exciting and mutually exciting point processes. *Biometrika*, 58(1), 83-93.\n- Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction*. MIT Press.\n\n## Tags:\n- **Predictive Policing**: A data-driven approach to crime prevention and law enforcement.\n- **PNAS Model**: A widely used model in predictive policing that overlooks crime clustering, spatial diffusion, and environmental drivers.\n- **Self-Exciting Crime Triggers**: Mechanisms that capture the temporal dependencies between crimes.\n- **Spatial Diffusion**: The spread of crime activity across different geographic locations.\n- **Environmental Drivers**: Factors such as weather, economic conditions, and social demographics that influence crime rates.\n- **AI-Driven Resource Optimization Framework**: A framework aimed at allocating resources efficiently based on predictive policing outputs under operational constraints.\n- **Optimization Algorithms**: Techniques like linear programming or mixed-integer programming used to allocate resources under various constraints.\n- **Machine Learning Techniques**: Methods such as reinforcement learning applied to optimize resource allocation in real-time based on dynamic crime patterns.",
+        "themes": "Web-based information gathering and synthesis",
+        "critical_appraisal": "Real-time web search results with current information",
+        "notes": "Search conducted on 2025-06-03 22:46:53"
+      },
+      "source_fulltext_urls": []
+    }
+  ]
+}

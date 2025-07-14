@@ -1,0 +1,896 @@
+{
+  "multiple-choice": {
+    "id": "quiz-mc-123",
+    "title": "Generative AI in the Workplace: Multiple Choice Assessment",
+    "description": "Test your knowledge of generative AI applications, benefits, and challenges in modern workplaces.",
+    "difficulty": "Intermediate",
+    "totalQuestions": 5,
+    "timeLimit": 600,
+    "questions": [
+      {
+        "id": "q1",
+        "text": "What is the primary advantage of using generative AI tools like ChatGPT or Claude in workplace content creation?",
+        "type": "multiple-choice",
+        "options": [
+          { "id": "q1_a", "text": "They completely replace human creativity" },
+          { "id": "q1_b", "text": "They accelerate ideation and provide starting points for human refinement" },
+          { "id": "q1_c", "text": "They eliminate the need for subject matter expertise" },
+          { "id": "q1_d", "text": "They guarantee error-free content" }
+        ],
+        "correctOptionId": "q1_b",
+        "explanation": "Generative AI excels at accelerating ideation and providing starting points that humans can then refine, improve, and customize. It augments rather than replaces human creativity and expertise."
+      },
+      {
+        "id": "q2",
+        "text": "Which workplace function is LEAST likely to benefit from current generative AI capabilities?",
+        "type": "multiple-choice",
+        "options": [
+          { "id": "q2_a", "text": "Customer service chatbots" },
+          { "id": "q2_b", "text": "Code documentation and comments" },
+          { "id": "q2_c", "text": "Physical manufacturing assembly" },
+          { "id": "q2_d", "text": "Marketing copy generation" }
+        ],
+        "correctOptionId": "q2_c",
+        "explanation": "Physical manufacturing assembly requires physical manipulation and real-world interaction, which current generative AI cannot directly perform. The other options involve text or conversation generation where AI excels."
+      },
+      {
+        "id": "q3",
+        "text": "What is a key ethical consideration when implementing generative AI in hiring and recruitment processes?",
+        "type": "multiple-choice",
+        "options": [
+          { "id": "q3_a", "text": "AI will make hiring completely objective" },
+          { "id": "q3_b", "text": "Potential bias amplification from training data" },
+          { "id": "q3_c", "text": "AI cannot process resume information" },
+          { "id": "q3_d", "text": "Legal requirements prohibit AI in hiring" }
+        ],
+        "correctOptionId": "q3_b",
+        "explanation": "Generative AI can amplify biases present in training data, potentially leading to discriminatory hiring practices. Organizations must carefully audit and monitor AI systems for bias."
+      },
+      {
+        "id": "q4",
+        "text": "Which strategy is most effective for managing employee concerns about AI replacing their jobs?",
+        "type": "multiple-choice",
+        "options": [
+          { "id": "q4_a", "text": "Avoid discussing AI implementation plans" },
+          { "id": "q4_b", "text": "Implement AI secretly to avoid panic" },
+          { "id": "q4_c", "text": "Provide transparent communication and reskilling opportunities" },
+          { "id": "q4_d", "text": "Guarantee no job changes will occur" }
+        ],
+        "correctOptionId": "q4_c",
+        "explanation": "Transparent communication about AI implementation plans, combined with reskilling and upskilling opportunities, helps employees adapt and find new ways to add value alongside AI tools."
+      },
+      {
+        "id": "q5",
+        "text": "What is the most important factor when selecting generative AI tools for enterprise use?",
+        "type": "multiple-choice",
+        "options": [
+          { "id": "q5_a", "text": "Choosing the most expensive option" },
+          { "id": "q5_b", "text": "Selecting tools with the largest number of features" },
+          { "id": "q5_c", "text": "Alignment with specific business needs and data security requirements" },
+          { "id": "q5_d", "text": "Using only open-source solutions" }
+        ],
+        "correctOptionId": "q5_c",
+        "explanation": "Enterprise AI tool selection should prioritize alignment with specific business needs, data security requirements, compliance standards, and integration capabilities rather than cost or feature count alone."
+      }
+    ]
+  },
+  "true-false": {
+    "id": "quiz-tf-123",
+    "title": "Generative AI in the Workplace: True or False",
+    "description": "Evaluate statements about generative AI implementation and impact in professional environments.",
+    "difficulty": "Intermediate",
+    "totalQuestions": 5,
+    "timeLimit": 300,
+    "questions": [
+      {
+        "id": "tf1",
+        "text": "Generative AI can completely replace human oversight in content creation and decision-making processes.",
+        "type": "true-false",
+        "options": [
+          { "id": "tf1_a", "text": "True" },
+          { "id": "tf1_b", "text": "False" }
+        ],
+        "correctOptionId": "tf1_b",
+        "explanation": "False. Generative AI requires human oversight for quality control, fact-checking, ethical considerations, and strategic decision-making. AI should augment, not replace, human judgment."
+      },
+      {
+        "id": "tf2",
+        "text": "Companies using generative AI tools must consider data privacy and intellectual property protection.",
+        "type": "true-false",
+        "options": [
+          { "id": "tf2_a", "text": "True" },
+          { "id": "tf2_b", "text": "False" }
+        ],
+        "correctOptionId": "tf2_a",
+        "explanation": "True. Organizations must carefully consider data privacy, intellectual property protection, and compliance requirements when implementing generative AI, especially when using external AI services."
+      },
+      {
+        "id": "tf3",
+        "text": "Generative AI productivity gains are immediately realized without any employee training or process changes.",
+        "type": "true-false",
+        "options": [
+          { "id": "tf3_a", "text": "True" },
+          { "id": "tf3_b", "text": "False" }
+        ],
+        "correctOptionId": "tf3_b",
+        "explanation": "False. Realizing productivity gains from generative AI requires employee training, process redesign, change management, and time for teams to learn effective prompting and integration techniques."
+      },
+      {
+        "id": "tf4",
+        "text": "Generative AI models can generate completely accurate factual information without verification.",
+        "type": "true-false",
+        "options": [
+          { "id": "tf4_a", "text": "True" },
+          { "id": "tf4_b", "text": "False" }
+        ],
+        "correctOptionId": "tf4_b",
+        "explanation": "False. Generative AI models can produce hallucinations or inaccurate information. All AI-generated content should be fact-checked and verified by humans, especially for critical business decisions."
+      },
+      {
+        "id": "tf5",
+        "text": "Small and medium businesses can benefit from generative AI tools just as much as large enterprises.",
+        "type": "true-false",
+        "options": [
+          { "id": "tf5_a", "text": "True" },
+          { "id": "tf5_b", "text": "False" }
+        ],
+        "correctOptionId": "tf5_a",
+        "explanation": "True. Many generative AI tools are accessible and affordable for SMBs, offering opportunities to level the playing field in areas like content creation, customer service, and automation."
+      }
+    ]
+  },
+  "short-answer": {
+    "id": "quiz-sa-123",
+    "title": "Generative AI in the Workplace: Short Answer Assessment",
+    "description": "Provide concise answers about key concepts in workplace AI implementation.",
+    "difficulty": "Advanced",
+    "totalQuestions": 5,
+    "timeLimit": 900,
+    "questions": [
+      {
+        "id": "sa1",
+        "text": "Name the practice of providing specific instructions to AI models to get desired outputs.",
+        "type": "short-answer",
+        "options": [{ "id": "sa1_a", "text": "Prompt Engineering" }],
+        "correctOptionId": "sa1_a",
+        "explanation": "Prompt engineering is the practice of crafting specific, clear instructions to guide AI models toward producing desired outputs, and it's a crucial skill for effective workplace AI adoption."
+      },
+      {
+        "id": "sa2",
+        "text": "What is the term for AI-generated false or misleading information that appears credible?",
+        "type": "short-answer",
+        "options": [{ "id": "sa2_a", "text": "Hallucination" }],
+        "correctOptionId": "sa2_a",
+        "explanation": "AI hallucination refers to when generative AI models produce false, misleading, or fabricated information while presenting it confidently as factual, requiring human verification."
+      },
+      {
+        "id": "sa3",
+        "text": "What approach combines human intelligence with AI capabilities for optimal results?",
+        "type": "short-answer",
+        "options": [{ "id": "sa3_a", "text": "Human-in-the-loop" }],
+        "correctOptionId": "sa3_a",
+        "explanation": "Human-in-the-loop (HITL) is an approach that combines human oversight, decision-making, and expertise with AI capabilities to achieve better results than either could alone."
+      },
+      {
+        "id": "sa4",
+        "text": "What is the primary security concern when employees use external AI tools with company data?",
+        "type": "short-answer",
+        "options": [{ "id": "sa4_a", "text": "Data leakage" }],
+        "correctOptionId": "sa4_a",
+        "explanation": "Data leakage is the primary concern when employees input sensitive company information into external AI tools, potentially exposing confidential data to third parties."
+      },
+      {
+        "id": "sa5",
+        "text": "What is the process of customizing AI models with organization-specific data called?",
+        "type": "short-answer",
+        "options": [{ "id": "sa5_a", "text": "Fine-tuning" }],
+        "correctOptionId": "sa5_a",
+        "explanation": "Fine-tuning is the process of training a pre-existing AI model on organization-specific data to improve performance for particular use cases or domains."
+      }
+    ]
+  },
+"flash-card": {
+  "id": "quiz-fc-123",
+  "title": "Generative AI in the Workplace: Key Concepts",
+  "description": "Review essential generative AI workplace terminology and concepts. Try to define each term before flipping the card to see the answer.",
+  "difficulty": "Beginner",
+  "totalQuestions": 5,
+  "timeLimit": 600,
+  "questions": [
+    {
+      "id": "fc1",
+      "text": "What is a Large Language Model (LLM)?",
+      "type": "flash-card",
+      "term": "Large Language Model (LLM)",
+      "definition": "AI models trained on vast amounts of text data to understand and generate human-like language for various workplace applications",
+      "hint": "Think about AI models that work with text and language",
+      "options": [{ "id": "fc1_a", "text": "AI models trained on vast amounts of text data to understand and generate human-like language for various workplace applications" }],
+      "correctOptionId": "fc1_a",
+      "explanation": "LLMs are the foundation of many generative AI tools used in workplaces for content creation, analysis, and automation."
+    },
+    {
+      "id": "fc2",
+      "text": "What does AI Ethics refer to in the workplace?",
+      "type": "flash-card",
+      "term": "AI Ethics",
+      "definition": "Principles and guidelines for responsible AI development and deployment, including fairness, transparency, accountability, and privacy protection",
+      "hint": "Consider the moral and responsible aspects of AI implementation",
+      "options": [{ "id": "fc2_a", "text": "Principles and guidelines for responsible AI development and deployment, including fairness, transparency, accountability, and privacy protection" }],
+      "correctOptionId": "fc2_a",
+      "explanation": "AI ethics ensures that workplace AI implementations consider moral implications and societal impact."
+    },
+    {
+      "id": "fc3",
+      "text": "What is Natural Language Processing (NLP)?",
+      "type": "flash-card",
+      "term": "Natural Language Processing (NLP)",
+      "definition": "AI technology that enables computers to understand, interpret, and generate human language in workplace communications and documents",
+      "hint": "Think about how computers process and understand human language",
+      "options": [{ "id": "fc3_a", "text": "AI technology that enables computers to understand, interpret, and generate human language in workplace communications and documents" }],
+      "correctOptionId": "fc3_a",
+      "explanation": "NLP powers many workplace AI applications including chatbots, document analysis, and automated writing assistance."
+    },
+    {
+      "id": "fc4",
+      "text": "What is AI Governance?",
+      "type": "flash-card",
+      "term": "AI Governance",
+      "definition": "Organizational frameworks, policies, and procedures for managing AI implementation, usage, and compliance in the workplace",
+      "hint": "Consider how organizations manage and oversee AI implementation",
+      "options": [{ "id": "fc4_a", "text": "Organizational frameworks, policies, and procedures for managing AI implementation, usage, and compliance in the workplace" }],
+      "correctOptionId": "fc4_a",
+      "explanation": "AI governance ensures responsible and effective use of AI tools while managing risks and maintaining compliance."
+    },
+    {
+      "id": "fc5",
+      "text": "What is Multimodal AI?",
+      "type": "flash-card",
+      "term": "Multimodal AI",
+      "definition": "AI systems that can process and generate multiple types of content including text, images, audio, and video for diverse workplace needs",
+      "hint": "Think about AI that works with multiple types of media and content",
+      "options": [{ "id": "fc5_a", "text": "AI systems that can process and generate multiple types of content including text, images, audio, and video for diverse workplace needs" }],
+      "correctOptionId": "fc5_a",
+      "explanation": "Multimodal AI expands workplace possibilities beyond text to include visual design, video creation, and multimedia content generation."
+    }
+  ]
+},
+
+  "matching": {
+    "id": "quiz-m-123",
+    "title": "Generative AI in the Workplace: Matching Exercise",
+    "description": "Drag and arrange the cards to match each AI action with its corresponding result.",
+    "difficulty": "Intermediate",
+    "totalQuestions": 1,
+    "timeLimit": 450,
+    "questions": [
+      {
+        "id": "m1",
+        "type": "matching",
+        "matchingTitle": "Match AI Actions with Results",
+        "matchingDescription": "Drag the action and result cards to arrange them side by side in correct pairs.",
+        "matchingMode": "card-pairing",
+        "matchingPairs": [
+          {
+            "id": "pair1",
+            "action": {
+              "id": "action1",
+              "content": "Use GitHub Copilot",
+              "type": "action"
+            },
+            "result": {
+              "id": "result1",
+              "content": "Get AI-powered code suggestions",
+              "type": "result"
+            }
+          },
+          {
+            "id": "pair2",
+            "action": {
+              "id": "action2",
+              "content": "Deploy Content Moderation AI",
+              "type": "action"
+            },
+            "result": {
+              "id": "result2",
+              "content": "Automatically filter harmful content",
+              "type": "result"
+            }
+          },
+          {
+            "id": "pair3",
+            "action": {
+              "id": "action3",
+              "content": "Run Sentiment Analysis",
+              "type": "action"
+            },
+            "result": {
+              "id": "result3",
+              "content": "Understand customer emotions",
+              "type": "result"
+            }
+          },
+          {
+            "id": "pair4",
+            "action": {
+              "id": "action4",
+              "content": "Enable Automated Documentation",
+              "type": "action"
+            },
+            "result": {
+              "id": "result4",
+              "content": "Generate technical manuals",
+              "type": "result"
+            }
+          },
+          {
+            "id": "pair5",
+            "action": {
+              "id": "action5",
+              "content": "Apply Predictive Analytics",
+              "type": "action"
+            },
+            "result": {
+              "id": "result5",
+              "content": "Forecast business trends",
+              "type": "result"
+            }
+          }
+        ],
+        "explanation": "Understanding the cause-and-effect relationship between AI actions and their results helps in making informed decisions about AI implementation in the workplace."
+      }
+    ]
+  
+},
+  "step-ordering": {
+    "id": "quiz-so-123",
+    "title": "Generative AI in the Workplace: Implementation Sequence",
+    "description": "Put the steps for implementing generative AI in the workplace in the correct order.",
+    "difficulty": "Advanced",
+    "totalQuestions": 5,
+    "timeLimit": 600,
+    "questions": [
+      {
+        "id": "so1",
+        "text": "Order the following steps for responsibly implementing generative AI in a workplace environment:",
+        "type": "step-ordering",
+        "items": [
+          {
+            "id": "step1",
+            "content": "Assess organizational needs and identify potential AI use cases"
+          },
+          {
+            "id": "step2",
+            "content": "Develop governance policies and ethical guidelines"
+          },
+          {
+            "id": "step3",
+            "content": "Select appropriate AI tools and platforms"
+          },
+          {
+            "id": "step4",
+            "content": "Pilot implementation with select teams"
+          },
+          {
+            "id": "step5",
+            "content": "Provide comprehensive training to employees"
+          },
+          {
+            "id": "step6",
+            "content": "Scale implementation with monitoring systems"
+          },
+          {
+            "id": "step7",
+            "content": "Continuously evaluate outcomes and refine approach"
+          }
+        ],
+        "correctOrder": ["step1", "step2", "step3", "step5", "step4", "step6", "step7"],
+        "explanation": "A responsible AI implementation typically starts with needs assessment, followed by establishing governance, selecting tools, training employees, piloting, scaling, and continuous evaluation. Note that training should occur before piloting to ensure proper usage."
+      },
+      {
+        "id": "so2",
+        "text": "Order the stages of AI model training for workplace applications:",
+        "type": "step-ordering",
+        "items": [
+          {
+            "id": "step1",
+            "content": "Data collection"
+          },
+          {
+            "id": "step2",
+            "content": "Pre-processing"
+          },
+          {
+            "id": "step3",
+            "content": "Model training"
+          },
+          {
+            "id": "step4",
+            "content": "Evaluation and deployment"
+          }
+        ],
+        "correctOrder": ["step1", "step2", "step3", "step4"],
+        "explanation": "Correct order: Data collection gathers relevant training data, pre-processing cleans and prepares the data, model training builds the AI system, and evaluation/deployment tests and implements the model."
+      },
+      {
+        "id": "so3",
+        "text": "Order the employee onboarding steps for AI tools:",
+        "type": "step-ordering",
+        "items": [
+          {
+            "id": "step1",
+            "content": "Policy review"
+          },
+          {
+            "id": "step2",
+            "content": "AI awareness training"
+          },
+          {
+            "id": "step3",
+            "content": "Hands-on practice"
+          },
+          {
+            "id": "step4",
+            "content": "Performance monitoring"
+          }
+        ],
+        "correctOrder": ["step1", "step2", "step3", "step4"],
+        "explanation": "Correct order: Start with policy review to establish guidelines, provide AI awareness training to build understanding, offer hands-on practice for skill development, then monitor performance for improvement."
+      },
+      {
+        "id": "so4",
+        "text": "Order the risk assessment process for workplace AI:",
+        "type": "step-ordering",
+        "items": [
+          {
+            "id": "step1",
+            "content": "Risk identification"
+          },
+          {
+            "id": "step2",
+            "content": "Impact analysis"
+          },
+          {
+            "id": "step3",
+            "content": "Mitigation planning"
+          },
+          {
+            "id": "step4",
+            "content": "Monitoring and review"
+          }
+        ],
+        "correctOrder": ["step1", "step2", "step3", "step4"],
+        "explanation": "Correct order: Identify potential risks, analyze their impact on the organization, develop mitigation strategies, then establish ongoing monitoring and review processes."
+      },
+      {
+        "id": "so5",
+        "text": "Order the content creation workflow with generative AI:",
+        "type": "step-ordering",
+        "items": [
+          {
+            "id": "step1",
+            "content": "Define objectives"
+          },
+          {
+            "id": "step2",
+            "content": "AI generation"
+          },
+          {
+            "id": "step3",
+            "content": "Human review"
+          },
+          {
+            "id": "step4",
+            "content": "Final approval"
+          }
+        ],
+        "correctOrder": ["step1", "step2", "step3", "step4"],
+        "explanation": "Correct workflow: Define clear objectives and requirements, use AI to generate initial content, have humans review and refine the output, then obtain final approval before publication."
+      }
+    ]
+  },
+  "multiple-answer": {
+    "id": "quiz-ma-123",
+    "title": "Generative AI in the Workplace: Multiple Answer Assessment",
+    "description": "Select all correct answers for comprehensive questions about workplace AI implementation.",
+    "difficulty": "Advanced",
+    "totalQuestions": 5,
+    "timeLimit": 750,
+    "questions": [
+      {
+        "id": "ma1",
+        "text": "Which departments typically benefit most from generative AI implementation? (Select all that apply)",
+        "type": "multiple-answer",
+        "options": [
+          { "id": "ma1_a", "text": "Marketing and Communications" },
+          { "id": "ma1_b", "text": "Software Development" },
+          { "id": "ma1_c", "text": "Customer Service" },
+          { "id": "ma1_d", "text": "Physical Security" },
+          { "id": "ma1_e", "text": "Human Resources" }
+        ],
+        "correctOptionId": ["ma1_a", "ma1_b", "ma1_c", "ma1_e"],
+        "explanation": "Marketing, Software Development, Customer Service, and HR benefit significantly from AI for content creation, coding assistance, automated responses, and document processing. Physical Security relies more on surveillance technology than generative AI."
+      },
+      {
+        "id": "ma2",
+        "text": "What are essential components of an AI governance framework? (Select all that apply)",
+        "type": "multiple-answer",
+        "options": [
+          { "id": "ma2_a", "text": "Data privacy policies" },
+          { "id": "ma2_b", "text": "Bias monitoring procedures" },
+          { "id": "ma2_c", "text": "Employee replacement plans" },
+          { "id": "ma2_d", "text": "Ethical use guidelines" },
+          { "id": "ma2_e", "text": "Audit and compliance measures" }
+        ],
+        "correctOptionId": ["ma2_a", "ma2_b", "ma2_d", "ma2_e"],
+        "explanation": "AI governance should include data privacy policies, bias monitoring, ethical guidelines, and audit measures. Employee replacement plans are not part of responsible AI governance, which focuses on augmentation rather than replacement."
+      },
+      {
+        "id": "ma3",
+        "text": "Which risks should organizations consider when implementing generative AI? (Select all that apply)",
+        "type": "multiple-answer",
+        "options": [
+          { "id": "ma3_a", "text": "Data security breaches" },
+          { "id": "ma3_b", "text": "AI-generated misinformation" },
+          { "id": "ma3_c", "text": "Increased creativity" },
+          { "id": "ma3_d", "text": "Regulatory compliance issues" },
+          { "id": "ma3_e", "text": "Intellectual property concerns" }
+        ],
+        "correctOptionId": ["ma3_a", "ma3_b", "ma3_d", "ma3_e"],
+        "explanation": "Organizations must consider data security, misinformation risks, compliance issues, and IP concerns. Increased creativity is a benefit, not a risk."
+      },
+      {
+        "id": "ma4",
+        "text": "What skills should employees develop for effective AI collaboration? (Select all that apply)",
+        "type": "multiple-answer",
+        "options": [
+          { "id": "ma4_a", "text": "Prompt engineering" },
+          { "id": "ma4_b", "text": "Critical thinking and fact-checking" },
+          { "id": "ma4_c", "text": "Manual data entry" },
+          { "id": "ma4_d", "text": "AI output evaluation" },
+          { "id": "ma4_e", "text": "Cross-functional collaboration" }
+        ],
+        "correctOptionId": ["ma4_a", "ma4_b", "ma4_d", "ma4_e"],
+        "explanation": "Employees should develop prompt engineering, critical thinking, AI evaluation skills, and collaboration abilities. Manual data entry is less relevant as AI can automate this task."
+      },
+      {
+        "id": "ma5",
+        "text": "Which factors influence successful AI adoption in the workplace? (Select all that apply)",
+        "type": "multiple-answer",
+        "options": [
+          { "id": "ma5_a", "text": "Leadership support and vision" },
+          { "id": "ma5_b", "text": "Employee training and change management" },
+          { "id": "ma5_c", "text": "Resistance to any technological change" },
+          { "id": "ma5_d", "text": "Clear use cases and ROI measurement" },
+          { "id": "ma5_e", "text": "Technical infrastructure readiness" }
+        ],
+        "correctOptionId": ["ma5_a", "ma5_b", "ma5_d", "ma5_e"],
+        "explanation": "Successful AI adoption requires leadership support, employee training, clear use cases with ROI measurement, and technical readiness. Resistance to change hinders rather than helps adoption."
+      }
+    ]
+  },
+  "case-study": {
+    "id": "quiz-cs-123",
+    "title": "Generative AI in the Workplace: Case Study Analysis",
+    "description": "Analyze real-world scenarios and make informed decisions about AI implementation.",
+    "difficulty": "Expert",
+    "totalQuestions": 5,
+    "timeLimit": 1200,
+    "questions": [
+      {
+        "id": "cs1",
+        "type": "case-study",
+        "title": "AI Implementation at TechCorp",
+        "scenario": "TechCorp, a mid-sized software company with 500 employees, recently implemented a generative AI system to assist with customer support, internal documentation, and code generation. Within three months, they noticed several issues: (1) Customer support agents were sending AI-generated responses without review, resulting in some inaccurate information being shared; (2) Some internal documentation contained potentially biased language; (3) Developers became overly reliant on AI-generated code without proper testing; (4) Employees expressed concerns about data privacy and job security.",
+        "image": "https://placehold.co/600x400?text=TechCorp+Case+Study",
+        "caseQuestions": [
+          {
+            "id": "case_q1",
+            "question": "What key governance measures should TechCorp implement immediately?",
+            "expectedAnswer": "TechCorp should implement a human-in-the-loop review process for customer-facing communications, establish clear guidelines for AI usage including mandatory review processes, create an AI ethics committee, implement bias detection tools, establish code review standards for AI-generated code, and develop a transparent communication plan about how AI will affect roles.",
+            "rubric": {
+              "excellent": "Comprehensive solution addressing governance, oversight, bias, quality control, and employee concerns with specific actionable measures.",
+              "good": "Solution that addresses most key issues but may lack specificity or miss 1-2 important elements.",
+              "needsImprovement": "Superficial solution that fails to address the root causes or focuses on only one aspect of the problem."
+            }
+          },
+          {
+            "id": "case_q2",
+            "question": "How should TechCorp balance AI efficiency with quality control?",
+            "expectedAnswer": "TechCorp should implement tiered review processes where routine matters receive lightweight review while complex or sensitive matters receive thorough human review. They should establish clear metrics for both efficiency and accuracy, develop automated quality checks, provide ongoing training, and create feedback loops where errors improve the system.",
+            "rubric": {
+              "excellent": "Balanced approach that leverages AI efficiency while implementing appropriate quality controls, with specific processes and metrics.",
+              "good": "Reasonable balance of efficiency and quality but may lack specific implementation details or metrics.",
+              "needsImprovement": "Approach that heavily favors either efficiency or quality without addressing the necessary balance."
+            }
+          }
+        ],
+        "explanation": "This case study explores common challenges organizations face when implementing generative AI, including governance, quality control, bias, and change management."
+      },
+      {
+        "id": "cs2",
+        "type": "case-study",
+        "title": "Marketing Team AI Adoption",
+        "scenario": "Your marketing team wants to use ChatGPT to create social media content, but you're concerned about brand consistency and potential errors. The team is eager to increase productivity but leadership is worried about reputational risks.",
+        "image": "https://placehold.co/600x400?text=Marketing+AI+Case",
+        "caseQuestions": [
+          {
+            "id": "case_q1",
+            "question": "What's the best approach to balance innovation with risk management?",
+            "expectedAnswer": "Implement AI with human oversight, brand guidelines, and approval workflows. Create templates and style guides for AI use, establish review processes for all external content, and start with low-risk internal content before expanding to customer-facing materials.",
+            "rubric": {
+              "excellent": "Comprehensive approach balancing innovation with appropriate risk controls.",
+              "good": "Solid approach covering key risk management strategies.",
+              "needsImprovement": "Basic approach that doesn't adequately balance innovation and risk."
+            }
+          }
+        ],
+        "explanation": "This case explores the tension between AI innovation and risk management in marketing contexts."
+      },
+      {
+        "id": "cs3",
+        "type": "case-study",
+        "title": "Customer Service AI Implementation",
+        "scenario": "Your customer service team wants to implement an AI chatbot, but customers prefer human interaction. You need to improve efficiency while maintaining customer satisfaction.",
+        "image": "https://placehold.co/600x400?text=Customer+Service+AI",
+        "caseQuestions": [
+          {
+            "id": "case_q1",
+            "question": "What strategy would you recommend?",
+            "expectedAnswer": "Implement a hybrid approach with AI handling routine queries and seamless human escalation. Use AI to assist human agents rather than replace them, provide clear options for customers to reach humans, and continuously monitor satisfaction metrics.",
+            "rubric": {
+              "excellent": "Thoughtful hybrid strategy that respects customer preferences while achieving efficiency gains.",
+              "good": "Reasonable approach but may lack detail on implementation or customer experience.",
+              "needsImprovement": "Approach that doesn't adequately consider customer preferences or efficiency needs."
+            }
+          }
+        ],
+        "explanation": "This case examines how to balance automation with human touch in customer service."
+      },
+      {
+        "id": "cs4",
+        "type": "case-study",
+        "title": "Development Team Productivity vs Quality",
+        "scenario": "Your development team reports 40% productivity gains with AI coding assistants, but code quality concerns have emerged. Some AI-generated code lacks proper error handling and documentation.",
+        "image": "https://placehold.co/600x400?text=Development+AI+Quality",
+        "caseQuestions": [
+          {
+            "id": "case_q1",
+            "question": "How do you maintain productivity while ensuring quality?",
+"expectedAnswer": "Implement enhanced code review processes and AI output validation protocols. Establish coding standards for AI-generated code, provide training on effective AI prompting for better code quality, and create automated testing pipelines.",
+            "rubric": {
+              "excellent": "Comprehensive approach that maintains productivity while ensuring quality through systematic processes.",
+              "good": "Solid approach covering key quality control measures.",
+              "needsImprovement": "Basic approach that doesn't adequately balance productivity and quality concerns."
+            }
+          }
+        ],
+        "explanation": "This case explores the challenge of maintaining code quality while leveraging AI productivity gains."
+      },
+      {
+        "id": "cs5",
+        "type": "case-study",
+        "title": "Leadership Timeline Pressure",
+        "scenario": "Senior leadership wants to implement AI across all departments within 3 months, but you know this timeline is unrealistic. You need to manage expectations while ensuring successful implementation.",
+        "image": "https://placehold.co/600x400?text=Leadership+Timeline+Pressure",
+        "caseQuestions": [
+          {
+            "id": "case_q1",
+            "question": "How do you proceed with unrealistic leadership expectations?",
+            "expectedAnswer": "Propose a phased implementation plan with realistic milestones and pilot programs. Present data on successful AI implementations, highlight risks of rushed deployment, and offer quick wins to demonstrate progress while building towards comprehensive implementation.",
+            "rubric": {
+              "excellent": "Strategic approach that manages expectations while ensuring successful implementation.",
+              "good": "Reasonable approach to managing leadership pressure and implementation timeline.",
+              "needsImprovement": "Approach that either caves to pressure or doesn't provide constructive alternatives."
+            }
+          }
+        ],
+        "explanation": "This case examines how to manage leadership pressure while ensuring responsible AI implementation."
+      }
+    ]
+  },
+  "fill-in-the-blanks": {
+    "id": "quiz-fb-123",
+    "title": "Generative AI in the Workplace: Fill in the Blanks",
+    "description": "Complete these sentences about generative AI concepts and applications in professional settings.",
+    "difficulty": "Intermediate",
+    "totalQuestions": 5,
+    "timeLimit": 450,
+    "questions": [
+      {
+        "id": "fb1",
+        "text": "Generative AI technologies like ChatGPT and DALL-E are based on [gap:1] models, which are trained on [gap:2] amounts of data. When implementing these technologies in the workplace, organizations should establish clear [gap:3] to ensure responsible use.",
+        "type": "fill-in-the-blanks",
+        "gaps": [
+          {
+            "id": "1",
+            "answer": "transformer",
+            "hint": "Neural network architecture"
+          },
+          {
+            "id": "2",
+            "answer": "massive",
+            "hint": "Size of training data"
+          },
+          {
+            "id": "3",
+            "answer": "policies",
+            "hint": "Organizational guidelines"
+          }
+        ],
+        "explanation": "Generative AI technologies like ChatGPT and DALL-E are based on transformer models, which are trained on massive amounts of data. When implementing these technologies in the workplace, organizations should establish clear policies to ensure responsible use."
+      },
+      {
+        "id": "fb2",
+        "text": "The practice of crafting specific instructions to guide AI models toward desired outputs is called [gap:1]. This is crucial for workplace AI use as it helps reduce [gap:2] and improves output quality.",
+        "type": "fill-in-the-blanks",
+        "gaps": [
+          {
+            "id": "1",
+            "answer": "prompt engineering",
+            "hint": "Technique for instructing AI models"
+          },
+          {
+            "id": "2",
+            "answer": "hallucination",
+            "hint": "AI-generated false information"
+          }
+        ],
+        "explanation": "The practice of crafting specific instructions to guide AI models toward desired outputs is called prompt engineering. This is crucial for workplace AI use as it helps reduce hallucination and improves output quality."
+      },
+      {
+        "id": "fb3",
+        "text": "The concept of [gap:1] in AI ethics refers to ensuring that AI systems produce fair outcomes across different [gap:2] groups. In workplace settings, this requires [gap:3] testing and ongoing monitoring.",
+        "type": "fill-in-the-blanks",
+        "gaps": [
+          {
+            "id": "1",
+            "answer": "fairness",
+            "hint": "Ethical principle about equal treatment"
+          },
+          {
+            "id": "2",
+            "answer": "demographic",
+            "hint": "Population categories"
+          },
+          {
+            "id": "3",
+            "answer": "bias",
+            "hint": "Type of testing to detect unfair patterns"
+          }
+        ],
+        "explanation": "The concept of fairness in AI ethics refers to ensuring that AI systems produce fair outcomes across different demographic groups. In workplace settings, this requires bias testing and ongoing monitoring."
+      },
+      {
+        "id": "fb4",
+        "text": "AI models that can process multiple types of data including text, images, and audio are called [gap:1] AI. The approach that combines human oversight with AI capabilities is known as [gap:2] systems.",
+        "type": "fill-in-the-blanks",
+        "gaps": [
+          {
+            "id": "1",
+            "answer": "multimodal",
+            "hint": "Multiple data types"
+          },
+          {
+            "id": "2",
+            "answer": "human-in-the-loop",
+            "hint": "Human oversight approach"
+          }
+        ],
+        "explanation": "AI models that can process multiple types of data including text, images, and audio are called multimodal AI. The approach that combines human oversight with AI capabilities is known as human-in-the-loop systems."
+      },
+      {
+        "id": "fb5",
+        "text": "The process of training an existing AI model on organization-specific data is called [gap:1]. This helps customize AI tools for specific [gap:2] needs and industry terminology.",
+        "type": "fill-in-the-blanks",
+        "gaps": [
+          {
+            "id": "1",
+            "answer": "fine-tuning",
+            "hint": "Model customization process"
+          },
+          {
+            "id": "2",
+            "answer": "business",
+            "hint": "Organizational context"
+          }
+        ],
+        "explanation": "The process of training an existing AI model on organization-specific data is called fine-tuning. This helps customize AI tools for specific business needs and industry terminology."
+      }
+    ]
+  },
+  "viva": {
+    "id": "quiz-v-123",
+    "title": "Generative AI in the Workplace: Voice Interview Simulation",
+    "description": "Record your oral responses to comprehensive questions about generative AI implementation and impact in professional environments.",
+    "difficulty": "Expert",
+    "totalQuestions": 5,
+    "timeLimit": 1800,
+    "questions": [
+      {
+        "id": "v1",
+        "type": "viva",
+        "title": "Generative AI Strategy Interview",
+        "description": "In this exercise, you'll respond to interview-style questions about implementing generative AI in a workplace setting. Record your responses as if you were speaking to an executive team.",
+        "vivaQuestions": [
+          {
+            "id": "viva_q1",
+            "question": "How would you explain the business value of generative AI to a skeptical executive team?",
+            "maxRecordingTime": 240,
+            "guidelines": "Focus on tangible benefits like productivity gains, cost savings, innovation potential, and competitive advantage. Use specific examples and metrics where possible. Discuss both opportunities and realistic limitations.",
+            "sampleAnswer": "Generative AI delivers measurable business value in three key areas: First, productivity—our analysis shows knowledge workers can save 30-40% of their time on tasks like drafting content, summarizing information, and generating initial designs. Second, enhanced decision-making through faster data analysis and pattern recognition. Third, innovation acceleration by enabling rapid prototyping and ideation.",
+            "explanation": "This question assesses your ability to communicate AI value propositions to business stakeholders, balancing enthusiasm with realistic expectations."
+          }
+        ],
+        "explanation": "Viva questions assess deeper understanding and application of generative AI concepts in workplace settings, focusing on strategic communication and change management."
+      },
+      {
+        "id": "v2",
+        "type": "viva",
+        "title": "Change Management in AI Implementation",
+        "description": "Discuss strategies for managing organizational change during AI adoption.",
+        "vivaQuestions": [
+          {
+            "id": "viva_q1",
+            "question": "What approach would you take to manage employee concerns about AI replacing their jobs?",
+            "maxRecordingTime": 200,
+            "guidelines": "Address both the emotional and practical aspects. Discuss reskilling, augmentation vs. replacement, communication strategies, and change management best practices.",
+            "sampleAnswer": "I'd implement a three-pronged approach: First, transparent communication about how AI will augment rather than replace roles, highlighting that history shows technological advancement typically transforms rather than eliminates jobs. Second, a proactive reskilling program to help employees develop complementary skills like prompt engineering, AI output evaluation, and higher-level strategic thinking.",
+            "explanation": "This question evaluates your understanding of change management principles and human-centered approaches to AI implementation."
+          }
+        ],
+        "explanation": "This question focuses on the human aspects of AI implementation and change management strategies."
+      },
+      {
+        "id": "v3",
+        "type": "viva",
+        "title": "AI Governance and Ethics",
+        "description": "Explain the essential components of responsible AI governance in workplace settings.",
+        "vivaQuestions": [
+          {
+            "id": "viva_q1",
+            "question": "Describe the essential components of an effective AI governance framework for enterprise deployment.",
+            "maxRecordingTime": 280,
+            "guidelines": "Cover policy development, risk management, compliance requirements, ethical guidelines, and monitoring procedures. Explain why each component is necessary for responsible AI use and provide specific examples.",
+            "sampleAnswer": "An effective AI governance framework must encompass several critical components: comprehensive usage policies that define appropriate AI applications, robust data privacy and security protections, systematic bias monitoring and mitigation procedures, clear ethical guidelines for responsible use, regulatory compliance mechanisms, and continuous audit and assessment processes.",
+            "explanation": "This question assesses your knowledge of AI governance principles and ability to design comprehensive frameworks for responsible AI use."
+          }
+        ],
+        "explanation": "This question evaluates understanding of AI governance, ethics, and risk management in enterprise environments."
+      },
+      {
+        "id": "v4",
+        "type": "viva",
+        "title": "Departmental AI Applications",
+        "description": "Analyze how different organizational departments can leverage generative AI effectively.",
+        "vivaQuestions": [
+          {
+            "id": "viva_q1",
+            "question": "Analyze how different departments within an organization can leverage generative AI to improve their specific functions.",
+            "maxRecordingTime": 260,
+            "guidelines": "Discuss at least 4-5 different departments (e.g., Marketing, HR, IT, Customer Service, Finance) and provide specific use cases for each. Consider both current applications and future possibilities.",
+            "sampleAnswer": "Different organizational departments can strategically leverage generative AI to transform their specific functions. Marketing teams can utilize AI for content creation, campaign personalization, and social media management. Human Resources can implement AI for recruitment screening, policy documentation, and employee communication. IT departments benefit from AI-powered code generation, automated documentation, and technical support.",
+            "explanation": "This question tests your ability to identify and articulate specific AI applications across various business functions."
+          }
+        ],
+        "explanation": "This question evaluates your understanding of AI applications across different organizational functions and use cases."
+      },
+      {
+        "id": "v5",
+        "type": "viva",
+        "title": "Future Impact and Strategy",
+        "description": "Discuss the long-term implications of generative AI adoption in workplace environments.",
+        "vivaQuestions": [
+          {
+            "id": "viva_q1",
+            "question": "Discuss the critical success factors for organizations planning to implement generative AI solutions at scale.",
+            "maxRecordingTime": 300,
+            "guidelines": "Address leadership commitment, change management, technical infrastructure, data readiness, employee engagement, pilot program strategies, and measurement of success. This is the most comprehensive question - take time to cover multiple aspects thoroughly.",
+            "sampleAnswer": "Critical success factors for large-scale generative AI implementation include unwavering leadership commitment and clear vision, comprehensive change management strategies that address cultural adaptation, robust technical infrastructure capable of supporting AI workloads, high-quality data governance and management systems, extensive employee training and engagement programs, strategic pilot programs that demonstrate value and build confidence.",
+            "explanation": "This comprehensive question assesses your strategic thinking about large-scale AI implementation and organizational transformation."
+          }
+        ],
+        "explanation": "This question evaluates your ability to think strategically about comprehensive AI transformation initiatives."
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{  
+  "custom_sources": [
+    {
+      "s_no": 1,
+      "url": "",
+      "type": "",
+      "title": "",
+      "importance": 3,
+      "peer_reviewed": false,
+      "authors": [],
+      "publication_year": "",
+      "journal_name": "",
+      "volume": "",
+      "publisher": "",
+      "location": "",
+      "country": "",
+      "citation_count": "",
+      "abstract": "",
+      "summary_text": {
+        "full_reference": "",
+        "focus_summary": "",
+        "methodology": "",
+        "findings": "",
+        "themes": "",
+        "critical_appraisal": "",
+        "notes": ""
+      },
+      "source_fulltext_urls": [],
+      "doi": ""
+    }
+  ]
+}

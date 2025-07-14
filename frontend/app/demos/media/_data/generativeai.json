@@ -1,0 +1,1448 @@
+{
+  "podcast": {
+    "title": "Generative AI in the Workplace: A Practical Guide",
+    "description": "Unlock the power of Generative AI in your professional life. This comprehensive audio-visual series defines Generative AI, explores its real-world applications across industries, analyzes its impact on productivity and job roles, and provides essential guidance on navigating ethical challenges and implementing AI responsibly. Prepare for the quiet revolution!",
+    "fullVideoUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_merged/full_podcast/complete_6bc743c5.mp4",
+    "episodes": [
+      {
+        "id": "lesson1",
+        "title": "Lesson 1: Unpacking Generative AI and Its Quiet Revolution",
+        "description": "This foundational lesson introduces Generative AI, distinguishing it from traditional AI, and explores the 'quiet revolution' of its adoption in offices, backed by compelling statistics.",
+        "duration": "14:30",
+        "publishDate": "2025-03-15",
+        "hostName": "Dr. AI Learning Assistant",
+        "audioUrl": "",
+        "imageUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_thumbnails/lesson1_c5fa8228-fef6-4d56-b5da-52514db1c265.png",
+        "topics": [
+          "Generative AI Definition",
+          "Distinction from Traditional AI",
+          "Workplace Adoption Trends",
+          "Productivity Statistics",
+          "Employer Support Gap"
+        ],
+        "learningObjectives": [
+          "Students will define Generative AI and differentiate its core capabilities from traditional AI.",
+          "Students will identify how Generative AI is being informally adopted in workplaces.",
+          "Students will analyze key statistics demonstrating Generative AI's impact on productivity.",
+          "Students will recognize the gap between employee AI use and official organizational support."
+        ],
+        "videoStructure": {
+          "slides": [
+            {
+              "slideId": "slide_1_001",
+              "order": 1,
+              "title": "Introduction to Generative AI",
+              "audioScript": {
+                "text": "Hello, and welcome! I'm your AI Learning Assistant, here to guide you through your document on 'Generative AI in the Workplace: Practical Applications'. This is a fascinating and crucial topic in today's professional world. Our goal is to break down complex ideas into clear, actionable insights, helping you truly understand this quiet revolution. In this first lesson, we'll start with the fundamentals: what exactly is Generative AI, how does it differ from other AI forms, and what does its widespread, albeit often unofficial, adoption look like in offices everywhere? Let's dive in.",
+                "duration": 50,
+                "startTime": 0,
+                "endTime": 50,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson1/slide_1_001_2213e23c.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Generative AI in the Workplace",
+                "content": {
+                  "title": "Unpacking Generative AI",
+                  "subtitle": "Understanding the Fundamentals",
+                  "points": [
+                    "What is Generative AI?",
+                    "Key Differences from Traditional AI",
+                    "The 'Quiet Revolution' in Offices",
+                    "Impact on Productivity & Workforce"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 50,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson1/slide_1_001/introduction_to_generative_ai_20250619_120218_d930a34e.png",
+                "visualFilePath": ""
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_1_002",
+              "order": 2,
+              "title": "Defining Generative AI",
+              "audioScript": {
+                "text": "Let's start with the core definition. Your document explains that 'Generative AI refers to a category of artificial intelligence models designed not just to process data, but to create new content.' Think about that for a moment: it's about creation. This could mean writing text, composing music, drawing images, generating code, or even drafting reports, all based on patterns learned from vast datasets. So, while traditional AI might be great at classifying, recognizing, or predicting based on existing data, Generative AI excels at innovation and producing novel outputs.",
+                "duration": 48,
+                "startTime": 50,
+                "endTime": 98,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson1/slide_1_002_054525a2.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "What is Generative AI?",
+                "content": {
+                  "title": "Generative AI: The Core Definition",
+                  "subtitle": "AI That Creates, Not Just Processes",
+                  "points": [
+                    "Creates NEW content (text, images, code, music)",
+                    "Learns patterns from vast datasets",
+                    "Handles creative & analytical challenges",
+                    "Generates unique, context-aware responses"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 48,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson1/slide_1_002/defining_generative_ai_20250619_120225_0a929958.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson1/slide_1_002_0338b31b.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_1_003",
+              "order": 3,
+              "title": "GenAI vs. Traditional AI",
+              "audioScript": {
+                "text": "The document highlights a crucial distinction: 'Unlike traditional AI systems built for specific, rule-based tasks... generative AI systems can handle a wide range of creative and analytical challenges.' Imagine traditional AI as a highly skilled accountant, excellent at specific, repetitive tasks like scanning invoices or optimizing schedules. Generative AI, on the other hand, is like a creative consultant or a brainstorming partner. You prompt it, and it generates a unique, context-aware response, rather than simply following a predetermined set of rules. This ability to create and respond dynamically is what sets it apart.",
+                "duration": 55,
+                "startTime": 98,
+                "endTime": 153,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson1/slide_1_003_e2f08ffa.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "chart",
+                "chartType": "comparison",
+                "title": "Generative AI vs. Traditional AI",
+                "data": [
+                  {
+                    "category": "Traditional AI",
+                    "value": "Rule-Based",
+                    "description": "Specific, repetitive tasks (e.g., invoice scanning, schedule optimization)",
+                    "icon": "cog"
+                  },
+                  {
+                    "category": "Generative AI",
+                    "value": "Creative & Dynamic",
+                    "description": "Creates new content, handles diverse challenges (e.g., writing, design, code)",
+                    "icon": "lightbulb"
+                  }
+                ],
+                "backgroundStyle": "white",
+                "animationType": "fade-in",
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson1/slide_1_003/genai_vs_traditional_ai_20250619_120234_cb7bfbb2.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson1/slide_1_003_a2e9c0bc.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_1_004",
+              "order": 4,
+              "title": "The Quiet Revolution",
+              "audioScript": {
+                "text": "Now, let's talk about the 'Quiet Revolution Happening in Offices Everywhere.' Your document provides relatable examples: Sarah, a marketing manager, uses ChatGPT to draft client proposals in minutes instead of hours. David in finance automates reconciliation reports using AI-drafted Python scripts. Emma in HR personalizes welcome emails and role-plays tough conversations. The key insight here is that 'None of them announced this change. None of it appears in their company's official tools list. But all three are quietly transforming the way they work.' This highlights the organic, bottom-up adoption of AI, driven by its practical utility.",
+                "duration": 65,
+                "startTime": 153,
+                "endTime": 218,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson1/slide_1_004_8e00ce47.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "The Quiet Revolution",
+                "content": {
+                  "title": "AI's Organic Adoption in the Workplace",
+                  "subtitle": "Transforming Work, One Desk at a Time",
+                  "points": [
+                    "Sarah: Marketing proposals in minutes (vs. hours)",
+                    "David: Finance reports automated (vs. hours)",
+                    "Emma: Personalized HR communications & role-play",
+                    "Often unofficial, but highly effective"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 65,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson1/slide_1_004/the_quiet_revolution_20250619_120242_e83c1810.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson1/slide_1_004_fb5966ec.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_1_005",
+              "order": 5,
+              "title": "The Numbers Tell the Story",
+              "audioScript": {
+                "text": "The numbers behind this revolution are quite compelling. The document highlights that 'Over a third of people in the UK, that's 36%, have now used Generative AI.' And here's the kicker: 'Seven million people have used GenAI for work, representing a staggering 66% increase from just four million a year ago.' This isn't just about individual curiosity; it's about a massive shift in how people approach their jobs. As your document notes, this isn't some distant promise; it's happening right now, in offices around the world. These statistics underscore the rapid, grassroots adoption.",
+                "duration": 60,
+                "startTime": 218,
+                "endTime": 278,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson1/slide_1_005_d3960b0a.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "infographic",
+                "title": "UK Generative AI Adoption",
+                "layout": "stats-grid",
+                "keyStats": [
+                  {
+                    "label": "Overall UK Usage",
+                    "value": "36%",
+                    "icon": "users"
+                  },
+                  {
+                    "label": "Used for Work",
+                    "value": "7 Million",
+                    "icon": "briefcase"
+                  },
+                  {
+                    "label": "Work Use Increase (YoY)",
+                    "value": "66%",
+                    "icon": "trending-up"
+                  }
+                ],
+                "backgroundStyle": "white",
+                "animationType": "fade-in",
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson1/slide_1_005/the_numbers_tell_the_story_20250619_120253_59d5ce72.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson1/slide_1_005_987c5acc.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_1_006",
+              "order": 6,
+              "title": "Usage Patterns & Productivity Boost",
+              "audioScript": {
+                "text": "The usage patterns are also insightful. 'One in 10 use it daily,' indicating a strong cohort of power users. 'One in four use it weekly,' actively experimenting. And 'Two in five use it less than monthly,' just dipping their toes. But the most revealing statistic, as your document states, is that 'Three quarters (74%) of people who have used GenAI for work claim it boosts their productivity.' This is a massive endorsement of its real-world value. However, there's a significant disconnect: 'Yet only one in four (27%) report that their employer actively encourages its use.' This 'massive gap' suggests that employees are finding solutions independently, even without formal institutional backing. It's like the early days of email or smartphones, spreading organically because it genuinely solves problems.",
+                "duration": 90,
+                "startTime": 278,
+                "endTime": 368,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson1/slide_1_006_0949f4ff.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "chart",
+                "chartType": "pie",
+                "title": "Workplace GenAI Use & Productivity",
+                "data": [
+                  {
+                    "category": "Productivity Boost",
+                    "value": 74,
+                    "color": "#4CAF50"
+                  },
+                  {
+                    "category": "Employer Encouragement",
+                    "value": 27,
+                    "color": "#FFC107"
+                  }
+                ],
+                "backgroundStyle": "white",
+                "animationType": "fade-in",
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson1/slide_1_006/usage_patterns_productivity_boost_20250619_120312_37756f70.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson1/slide_1_006_5c641d08.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_1_007",
+              "order": 7,
+              "title": "Lesson 1 Summary",
+              "audioScript": {
+                "text": "To recap our first lesson on Generative AI: We've defined it as an AI that creates new content, distinguishing it from traditional, rule-based AI. We saw that a 'quiet revolution' is underway, with employees like Sarah, David, and Emma organically adopting AI tools to enhance their daily work. The statistics are clear: Generative AI is significantly boosting productivity for the majority of its users in the workplace, even though formal employer encouragement still lags behind. This sets the stage for understanding why and how AI is transforming our professional lives. In our next lesson, we'll dive into specific real-world applications across different business functions. See you then!",
+                "duration": 72,
+                "startTime": 368,
+                "endTime": 440,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson1/slide_1_007_20fc0dbe.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Lesson 1: Key Takeaways",
+                "content": {
+                  "title": "Recap: What We Covered",
+                  "subtitle": "Generative AI Fundamentals",
+                  "points": [
+                    "GenAI creates new content (not just processes)",
+                    "Quietly adopted for daily tasks (e.g., Sarah, David, Emma)",
+                    "Strong productivity boost (74% of users)",
+                    "Significant gap in employer encouragement"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 72,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson1/slide_1_007/lesson_1_summary_20250619_120319_47cddd6b.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson1/slide_1_007_e3f16426.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            }
+          ],
+          "episodeOutput": {
+            "finalVideoUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_merged/episodes/lesson1_54ff7274.mp4",
+            "finalVideoFilePath": "",
+            "totalDuration": 440,
+            "status": "pending",
+            "processingLog": [],
+            "metadata": {
+              "resolution": "1920x1080",
+              "frameRate": 30,
+              "audioCodec": "aac",
+              "videoCodec": "h264",
+              "bitrate": "5000k"
+            }
+          }
+        },
+        "keyTimestamps": [
+          {
+            "time": 0,
+            "title": "Introduction to Generative AI",
+            "description": "Welcome and lesson overview",
+            "slideId": "slide_1_001"
+          },
+          {
+            "time": 50,
+            "title": "Defining Generative AI",
+            "description": "AI that creates new content.",
+            "slideId": "slide_1_002"
+          },
+          {
+            "time": 98,
+            "title": "GenAI vs. Traditional AI",
+            "description": "Understanding the core differences.",
+            "slideId": "slide_1_003"
+          },
+          {
+            "time": 153,
+            "title": "The Quiet Revolution",
+            "description": "Employee-led adoption examples.",
+            "slideId": "slide_1_004"
+          },
+          {
+            "time": 218,
+            "title": "The Numbers Tell the Story",
+            "description": "UK Generative AI usage statistics.",
+            "slideId": "slide_1_005"
+          },
+          {
+            "time": 278,
+            "title": "Usage Patterns & Productivity Boost",
+            "description": "Data on productivity and employer gap.",
+            "slideId": "slide_1_006"
+          },
+          {
+            "time": 368,
+            "title": "Lesson 1 Summary",
+            "description": "Recap of key points.",
+            "slideId": "slide_1_007"
+          }
+        ]
+      },
+      {
+        "id": "lesson2",
+        "title": "Lesson 2: Real-World Applications and the Productivity Shift",
+        "description": "This lesson explores diverse practical applications of Generative AI across HR, customer service, and beyond, analyzing how it revolutionizes productivity and reshapes essential workplace skills.",
+        "duration": "16:45",
+        "publishDate": "2025-03-22",
+        "hostName": "Dr. AI Learning Assistant",
+        "audioUrl": "",
+        "imageUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_thumbnails/lesson2_0740c981-46eb-40f5-933c-0c2d632d949f.png",
+        "topics": [
+          "HR Applications of GenAI",
+          "Customer Service GenAI Success Stories",
+          "Knowledge Worker Productivity",
+          "Essential Skills for AI Era",
+          "Prompt Engineering"
+        ],
+        "learningObjectives": [
+          "Students will identify and explain Generative AI applications in Human Resources.",
+          "Students will analyze how GenAI enhances customer service and operational efficiency.",
+          "Students will understand how GenAI boosts knowledge worker productivity.",
+          "Students will recognize the critical human skills becoming more valuable in an AI-augmented workplace."
+        ],
+        "videoStructure": {
+          "slides": [
+            {
+              "slideId": "slide_2_001",
+              "order": 1,
+              "title": "Real-World AI Applications",
+              "audioScript": {
+                "text": "Welcome back! In our previous lesson, we established what Generative AI is and how it's quietly transforming workplaces. Now, let's move from theory to practice and explore some tangible, real-world applications that are already delivering results across various business functions, as detailed in Module 2 of your document. We'll look at how Generative AI is being used in Human Resources, Customer Service, and even some unexpected sectors. Then, in Module 3, we'll dive into the broader productivity revolution it's sparking and the crucial skills that are becoming paramount in this new era. Let's begin by looking at HR.",
+                "duration": 65,
+                "startTime": 0,
+                "endTime": 65,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson2/slide_2_001_18559e99.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Real-World AI Applications",
+                "content": {
+                  "title": "Generative AI in Action",
+                  "subtitle": "Transforming Business Functions",
+                  "points": [
+                    "Human Resources (Recruitment, Onboarding, Performance)",
+                    "Customer Service (Chatbots, Summarization)",
+                    "Boosting Knowledge Worker Productivity",
+                    "New Essential Skills for the AI Era"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 65,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson2/slide_2_001/real-world_ai_applications_20250619_120329_df428670.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson2/slide_2_001_59cd68c1.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_2_002",
+              "order": 2,
+              "title": "AI in Human Resources",
+              "audioScript": {
+                "text": "Your document provides excellent examples of Generative AI in Human Resources, moving 'Beyond Resume Screening.' Consider Intelligent Recruitment: AI helps HR teams analyze successful past hires and generate appealing, unbiased job postings. One firm even improved response rates by 20% for passive candidates by using GenAI to draft personalized outreach emails. Then there's Personalized Employee Experience: AI can create customized onboarding checklists, training schedules, and dynamic FAQs, making new hires feel supported. And for Performance Management, imagine AI drafting initial performance review summaries based on documented achievements, freeing managers to focus on meaningful conversations rather than administrative tasks. This augments, rather than replaces, the human touch.",
+                "duration": 85,
+                "startTime": 65,
+                "endTime": 150,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson2/slide_2_002_47f97582.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Generative AI in HR",
+                "content": {
+                  "title": "Human Resources: Beyond Screening",
+                  "subtitle": "AI-Powered HR Applications",
+                  "points": [
+                    "Intelligent Recruitment (job descriptions, outreach)",
+                    "Personalized Onboarding (checklists, FAQs)",
+                    "Performance Management (drafting summaries)"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 85,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson2/slide_2_002/ai_in_human_resources_20250619_120339_e334b5d4.png",
+                "visualFilePath": ""
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_2_003",
+              "order": 3,
+              "title": "AI in Customer Service",
+              "audioScript": {
+                "text": "In Customer Service, Generative AI goes 'Beyond Scripted Responses.' The document shares a real success story from a major telecom company. Their GenAI chatbot could understand complex billing inquiries like 'My last bill was higher than expected, and I don't understand the roaming charges.' This chatbot could access account data, summarize charges, and explain them clearly, reducing call center volume for billing issues by 15%. Another impressive implementation was a healthcare provider that reduced 20-minute call wrap-up times to 2-3 minutes. AI integrated voice-to-text with summarization, generating summaries for doctors and in plain language, and automatically populating the CRM system. These examples show AI handling nuanced conversations and complex data.",
+                "duration": 90,
+                "startTime": 150,
+                "endTime": 240,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson2/slide_2_003_f7078644.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Generative AI in Customer Service",
+                "content": {
+                  "title": "Customer Service: Intelligent Interactions",
+                  "subtitle": "Enhanced Capabilities & Efficiency",
+                  "points": [
+                    "Complex Billing Inquiries (Telecom success)",
+                    "Call Summarization (Healthcare, 20min to 2-3min)",
+                    "Personalized Responses (beyond scripts)",
+                    "Automated CRM population"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 90,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson2/slide_2_003/ai_in_customer_service_20250619_120348_2e70db27.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson2/slide_2_003_d2bb3cbf.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_2_004",
+              "order": 4,
+              "title": "Unexpected Applications",
+              "audioScript": {
+                "text": "Generative AI's versatility extends to surprising areas. Your document mentions 'Agriculture Meets AI' with a mushroom farm. They automated categorizing different fungi growing at various rates by feeding images into an AI model, freeing up human experts for more complex analysis. This really demonstrates that AI's ability to learn patterns and generate insights can be applied across virtually any industry, even those you might not immediately associate with advanced technology. It's about automating tedious, visual analysis at scale.",
+                "duration": 55,
+                "startTime": 240,
+                "endTime": 295,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson2/slide_2_004_e9563171.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Unexpected AI Applications",
+                "content": {
+                  "title": "AI Beyond the Office",
+                  "subtitle": "Diverse Industry Adoption",
+                  "points": [
+                    "Mushroom Farming: Automated fungi categorization",
+                    "Applies pattern recognition to visual data",
+                    "Frees experts for complex analysis"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 55,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson2/slide_2_004/unexpected_applications_20250619_120358_8d9c7acb.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson2/slide_2_004_6130c560.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_2_005",
+              "order": 5,
+              "title": "The Productivity Revolution",
+              "audioScript": {
+                "text": "Module 3 delves into 'The Productivity Revolution' for knowledge workers. The statistics show that people use Generative AI primarily to boost productivity, not replace human judgment. How does this look in practice? For Research and Summarization, executives get AI-generated summaries of financial reports, accelerating strategic thinking. For Content Co-creation, marketing teams use AI for initial drafts and variations, but humans still provide strategy and quality control. And for Administrative Efficiency, simple tasks like meeting summaries and email drafts are handled in minutes, freeing professionals for strategic planning and creative problem-solving. This isn't about AI replacing humans; it's about AI augmenting human capabilities, enabling us to focus on higher-value work.",
+                "duration": 85,
+                "startTime": 295,
+                "endTime": 380,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson2/slide_2_005_fea69f93.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "infographic",
+                "title": "AI & Knowledge Worker Productivity",
+                "layout": "stats-grid",
+                "keyStats": [
+                  {
+                    "label": "Research & Summarization",
+                    "value": "Accelerated Insights",
+                    "icon": "brain"
+                  },
+                  {
+                    "label": "Content Co-creation",
+                    "value": "Faster Drafting, Human Oversight",
+                    "icon": "edit"
+                  },
+                  {
+                    "label": "Administrative Efficiency",
+                    "value": "Minutes vs. Hours",
+                    "icon": "clock"
+                  }
+                ],
+                "backgroundStyle": "white",
+                "animationType": "fade-in",
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson2/slide_2_005/the_productivity_revolution_20250619_120407_1bc51d0d.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson2/slide_2_005_c8bea175.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_2_006",
+              "order": 6,
+              "title": "Skills That Matter More Than Ever",
+              "audioScript": {
+                "text": "As AI handles routine tasks, certain human skills become even more valuable, as outlined in your document. First, Prompt Engineering: learning to communicate effectively with AI is crucial. A well-crafted prompt makes the difference between useless and genuinely helpful output. Second, Critical Thinking: AI can 'hallucinate,' presenting false information confidently. The ability to fact-check, verify sources, and apply domain expertise to evaluate AI output is paramount. Third, Ethical Literacy: understanding when and how to use AI responsibly, recognizing potential biases, and ensuring fair outcomes requires human judgment. These skills are essential for navigating the AI-augmented workplace effectively.",
+                "duration": 80,
+                "startTime": 380,
+                "endTime": 460,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson2/slide_2_006_962cd0c2.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "chart",
+                "chartType": "bar",
+                "title": "Essential Skills for the AI Era",
+                "data": [
+                  {
+                    "category": "Prompt Engineering",
+                    "value": 90,
+                    "color": "#2196F3"
+                  },
+                  {
+                    "category": "Critical Thinking",
+                    "value": 95,
+                    "color": "#4CAF50"
+                  },
+                  {
+                    "category": "Ethical Literacy",
+                    "value": 85,
+                    "color": "#FFC107"
+                  }
+                ],
+                "backgroundStyle": "white",
+                "animationType": "fade-in",
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson2/slide_2_006/skills_that_matter_more_than_ever_20250619_120416_e501795f.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson2/slide_2_006_56b8aeef.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_2_007",
+              "order": 7,
+              "title": "Lesson 2 Summary",
+              "audioScript": {
+                "text": "To summarize Lesson 2: We've seen how Generative AI is being effectively applied across various functions, from streamlining HR processes like recruitment and onboarding to revolutionizing customer service with intelligent chatbots and call summarization. We also explored its unexpected uses, like in mushroom farming, showcasing its diverse applicability. Most importantly, we've understood that AI is augmenting human productivity in areas like research, content co-creation, and administrative tasks. This shift highlights the increasing importance of uniquely human skills such as prompt engineering, critical thinking, and ethical literacy. In our next lesson, we'll address the critical challenges and risks associated with AI, and how organizations are building responsible AI practices. Stay tuned!",
+                "duration": 80,
+                "startTime": 460,
+                "endTime": 540,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson2/slide_2_007_5cf2edd7.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Lesson 2: Key Takeaways",
+                "content": {
+                  "title": "Recap: Applications & Productivity",
+                  "subtitle": "AI's Real-World Impact",
+                  "points": [
+                    "AI streamlines HR (recruitment, onboarding)",
+                    "Enhances Customer Service (complex inquiries, summarization)",
+                    "Boosts Knowledge Worker productivity (research, content)",
+                    "Elevates human skills (prompt engineering, critical thinking)"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 80,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson2/slide_2_007/lesson_2_summary_20250619_120427_ae9dfc4b.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson2/slide_2_007_0f663ea9.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            }
+          ],
+          "episodeOutput": {
+            "finalVideoUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_merged/episodes/lesson2_696b7197.mp4",
+            "finalVideoFilePath": "",
+            "totalDuration": 540,
+            "status": "pending",
+            "processingLog": [],
+            "metadata": {
+              "resolution": "1920x1080",
+              "frameRate": 30,
+              "audioCodec": "aac",
+              "videoCodec": "h264",
+              "bitrate": "5000k"
+            }
+          }
+        },
+        "keyTimestamps": [
+          {
+            "time": 0,
+            "title": "Real-World AI Applications",
+            "description": "Introduction to diverse AI uses.",
+            "slideId": "slide_2_001"
+          },
+          {
+            "time": 65,
+            "title": "AI in Human Resources",
+            "description": "Recruitment, onboarding, performance management.",
+            "slideId": "slide_2_002"
+          },
+          {
+            "time": 150,
+            "title": "AI in Customer Service",
+            "description": "Chatbots and call summarization examples.",
+            "slideId": "slide_2_003"
+          },
+          {
+            "time": 240,
+            "title": "Unexpected Applications",
+            "description": "AI in agriculture.",
+            "slideId": "slide_2_004"
+          },
+          {
+            "time": 295,
+            "title": "The Productivity Revolution",
+            "description": "How AI boosts knowledge worker output.",
+            "slideId": "slide_2_005"
+          },
+          {
+            "time": 380,
+            "title": "Skills That Matter More Than Ever",
+            "description": "Prompt engineering, critical thinking, ethical literacy.",
+            "slideId": "slide_2_006"
+          },
+          {
+            "time": 460,
+            "title": "Lesson 2 Summary",
+            "description": "Recap of applications and skills.",
+            "slideId": "slide_2_007"
+          }
+        ]
+      },
+      {
+        "id": "lesson3",
+        "title": "Lesson 3: Navigating AI Challenges and Responsible Implementation",
+        "description": "This lesson uncovers the critical risks of Generative AI, including bias and data privacy, and provides practical steps for organizations to implement AI responsibly, focusing on governance, human oversight, and pilot projects.",
+        "duration": "15:00",
+        "publishDate": "2025-03-29",
+        "hostName": "Dr. AI Learning Assistant",
+        "audioUrl": "",
+        "imageUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_thumbnails/lesson3_c0cf6d70-b8bc-4c8e-b6be-d110d246837c.png",
+        "topics": [
+          "AI Risks and Biases",
+          "Data Privacy ('Free Lunch' Risk)",
+          "Responsible AI Governance",
+          "Human-in-the-Loop Principle",
+          "AI Implementation Strategies",
+          "Technology Landscape"
+        ],
+        "learningObjectives": [
+          "Students will evaluate ethical considerations and governance challenges of Generative AI.",
+          "Students will identify and explain the 'Free Lunch' risk related to data privacy.",
+          "Students will understand key strategies for building responsible AI practices.",
+          "Students will apply practical steps for initiating AI implementation in an organization."
+        ],
+        "videoStructure": {
+          "slides": [
+            {
+              "slideId": "slide_3_001",
+              "order": 1,
+              "title": "Navigating AI Challenges",
+              "audioScript": {
+                "text": "Hello again! In our last lesson, we celebrated the transformative power of Generative AI and its diverse applications. But with great power comes great responsibility. Today, we'll dive into Module 4 of your document, 'Navigating the Challenges,' which means addressing the real risks and ethical considerations associated with Generative AI in the workplace. We'll explore issues like bias and data privacy, including the crucial 'Free Lunch' risk. Then, drawing from Module 5, we'll discuss 'Practical Steps for Implementation,' focusing on how organizations can build responsible AI practices and where to start their AI journey. Let's tackle these vital aspects.",
+                "duration": 65,
+                "startTime": 0,
+                "endTime": 65,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson3/slide_3_001_3668c91c.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Navigating AI Challenges",
+                "content": {
+                  "title": "Responsible AI in the Workplace",
+                  "subtitle": "Risks, Ethics & Implementation",
+                  "points": [
+                    "Understanding AI's Real Risks",
+                    "Data Privacy: The 'Free Lunch' Problem",
+                    "Building Responsible AI Practices",
+                    "Practical Implementation Steps"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 65,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson3/slide_3_001/navigating_ai_challenges_20250619_120437_a4cf08d4.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson3/slide_3_001_73471e5f.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_3_002",
+              "order": 2,
+              "title": "The Real Risks of AI",
+              "audioScript": {
+                "text": "Your document rightly points out that there are 'Real Risks We're Seeing' when AI goes wrong. These aren't theoretical; they're happening now. Examples include 'bias in welfare systems, discriminatory healthcare decisions for minority groups, biased credit decisions, and even hallucinated case law in court papers.' This highlights the crucial 'Data Problem': AI models learn from the data they're trained on. If that data reflects historical biases or isn't representative, the AI will perpetuate and even amplify these problems. As one Google executive's research highlighted, many AI models are created by teams that don't reflect the diverse communities they serve, leading to inherent biases. This underscores the need for careful data curation and diverse development teams.",
+                "duration": 85,
+                "startTime": 65,
+                "endTime": 150,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson3/slide_3_002_5009270c.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Generative AI: The Real Risks",
+                "content": {
+                  "title": "Understanding AI's Downside",
+                  "subtitle": "From Bias to 'Hallucinations'",
+                  "points": [
+                    "Bias in decision-making (welfare, healthcare)",
+                    "AI 'hallucinations' (false information)",
+                    "Data Problem: AI learns from biased/unrepresentative data",
+                    "Lack of diversity in AI development teams"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 85,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson3/slide_3_002/the_real_risks_of_ai_20250619_120451_61f012b4.png",
+                "visualFilePath": ""
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_3_003",
+              "order": 3,
+              "title": "The 'Free Lunch' Risk",
+              "audioScript": {
+                "text": "A significant practical concern is what your document terms 'The Free Lunch Risk.' This refers to employees using free versions of AI tools, which often means 'uploading company data to the public internet.' The document asks provocatively: 'Would you leave your laptop open in a coffee shop? Would you pin documents to a library notice board? Would you share your password with a stranger?' Using free AI tools with sensitive data is equivalent to doing exactly that. A sobering 'Real Consequence' example is given: a social worker uploaded a child's full case file to a free AI tool for a quick summary, inadvertently exposing sensitive information online. This highlights a critical need for awareness and secure alternatives.",
+                "duration": 80,
+                "startTime": 150,
+                "endTime": 230,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson3/slide_3_003_56686cd7.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "infographic",
+                "title": "The 'Free Lunch' Risk",
+                "layout": "stats-grid",
+                "keyStats": [
+                  {
+                    "label": "Risk Factor 1",
+                    "value": "Data Exposure",
+                    "icon": "lock"
+                  },
+                  {
+                    "label": "Risk Factor 2",
+                    "value": "Sensitive Information Uploaded",
+                    "icon": "alert-triangle"
+                  },
+                  {
+                    "label": "Example",
+                    "value": "Social worker case file",
+                    "icon": "users"
+                  }
+                ],
+                "backgroundStyle": "white",
+                "animationType": "fade-in",
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson3/slide_3_003/the_free_lunch_risk_20250619_120502_28f253f1.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson3/slide_3_003_d80b03a8.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_3_004",
+              "order": 4,
+              "title": "Building Responsible AI Practices",
+              "audioScript": {
+                "text": "How do organizations build responsible AI practices? Your document emphasizes starting with 'Governance.' Successful organizations have clear policies, but they use a 'carrot, not the stick' approach. Instead of banning AI, they provide safe, paid-for alternatives and educate employees. This leads to the 'Human-in-the-Loop Principle': even advanced AI needs human oversight, not just for error-checking, but for accountability, ethical judgment, and maintaining human context. Finally, 'Critical Thinking as Standard Practice': Every AI output should be viewed skeptically. Ask: Is this biased? Is it accurate? Does it align with our values? These questions need to become automatic, ensuring responsible and effective AI use.",
+                "duration": 80,
+                "startTime": 230,
+                "endTime": 310,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson3/slide_3_004_e5daba00.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Building Responsible AI",
+                "content": {
+                  "title": "Responsible AI Practices",
+                  "subtitle": "Safety, Ethics & Oversight",
+                  "points": [
+                    "Start with Governance ('carrot, not stick')",
+                    "Human-in-the-Loop Principle (oversight, judgment)",
+                    "Critical Thinking as Standard Practice (skepticism, verification)"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 80,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson3/slide_3_004/building_responsible_ai_practices_20250619_120510_77345f13.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson3/slide_3_004_547349f9.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_3_005",
+              "order": 5,
+              "title": "Practical Implementation Steps",
+              "audioScript": {
+                "text": "Now, let's look at practical steps for implementation, as covered in Module 5. Where to start? First, 'Assessment First': Use a simple, anonymous survey to understand current AI usage. You'll likely find it's higher than expected, given that seven million people in the UK already use AI at work. Second, 'Pilot Projects': Start small with low-risk applications like internal document summaries or meeting notes. Learn what works before expanding. Third, 'Education and Guidelines': Create clear, acceptable use policies, but focus on enabling safe use. Provide access to secure, paid-for tools rather than forcing employees toward risky free alternatives. This structured approach helps manage the transition effectively.",
+                "duration": 80,
+                "startTime": 310,
+                "endTime": 390,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson3/slide_3_005_68406d76.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Practical AI Implementation",
+                "content": {
+                  "title": "Getting Started with AI",
+                  "subtitle": "A Phased Approach for Organizations",
+                  "points": [
+                    "1. Assessment First (survey current usage)",
+                    "2. Pilot Projects (start small, low-risk)",
+                    "3. Education & Guidelines (enable safe use)"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 80,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson3/slide_3_005/practical_implementation_steps_20250619_120520_4a1979f6.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson3/slide_3_005_4ef28777.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_3_006",
+              "order": 6,
+              "title": "The Technology Landscape",
+              "audioScript": {
+                "text": "Regarding 'The Technology Landscape,' your document mentions several options. 'Microsoft Copilot' integrates with existing Office workflows, keeping data within organizational boundaries. 'ChatGPT' offers powerful general-purpose capabilities with paid tiers for business use. Specialized tools also exist for specific industries. When it comes to 'Cost Considerations,' enterprise AI tools are becoming more accessible, even for non-profits and smaller organizations. Crucially, the most successful implementations integrate AI into existing workflows rather than requiring entirely new processes. If your team uses SharePoint and Outlook, Copilot can enhance those tools, not replace them. This minimizes disruption and maximizes adoption. This strategic integration is key.",
+                "duration": 80,
+                "startTime": 390,
+                "endTime": 470,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson3/slide_3_006_82d1ee65.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "AI Technology Landscape",
+                "content": {
+                  "title": "Choosing the Right AI Tools",
+                  "subtitle": "Options, Costs & Integration",
+                  "points": [
+                    "Platform Options (Microsoft Copilot, ChatGPT, specialized tools)",
+                    "Improving Cost Accessibility",
+                    "Integration Strategy (into existing workflows)",
+                    "Enhance, don't replace, current tools"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 80,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson3/slide_3_006/the_technology_landscape_20250619_120540_1b8e665a.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson3/slide_3_006_23d95176.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_3_007",
+              "order": 7,
+              "title": "Lesson 3 Summary",
+              "audioScript": {
+                "text": "In summary of Lesson 3: We've confronted the crucial risks of Generative AI, from bias and 'hallucinations' to the critical data privacy concerns of the 'Free Lunch' risk. We learned that responsible AI practices hinge on clear governance, the 'human-in-the-loop' principle, and ingrained critical thinking. For practical implementation, starting with an assessment of current AI use, running small pilot projects, and providing robust education with secure tools are key. Understanding the technology landscape and integrating AI into existing workflows is also vital for successful adoption. Next, in our final lesson, we'll explore the future outlook of AI, a structured approach to scaling its use, and the enduring importance of the human element. See you there!",
+                "duration": 80,
+                "startTime": 470,
+                "endTime": 550,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson3/slide_3_007_35d0a7d4.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Lesson 3: Key Takeaways",
+                "content": {
+                  "title": "Recap: Challenges & Solutions",
+                  "subtitle": "Responsible AI Implementation",
+                  "points": [
+                    "Address AI bias & 'hallucination' risks",
+                    "Mitigate 'Free Lunch' data privacy risks",
+                    "Implement governance & human oversight",
+                    "Start with assessment, pilots, and education",
+                    "Integrate AI into existing workflows"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 80,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson3/slide_3_007/lesson_3_summary_20250619_120551_754cabe6.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson3/slide_3_007_11cd2775.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            }
+          ],
+          "episodeOutput": {
+            "finalVideoUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_merged/episodes/lesson3_a5aa8317.mp4",
+            "finalVideoFilePath": "",
+            "totalDuration": 550,
+            "status": "pending",
+            "processingLog": [],
+            "metadata": {
+              "resolution": "1920x1080",
+              "frameRate": 30,
+              "audioCodec": "aac",
+              "videoCodec": "h264",
+              "bitrate": "5000k"
+            }
+          }
+        },
+        "keyTimestamps": [
+          {
+            "time": 0,
+            "title": "Navigating AI Challenges",
+            "description": "Introduction to AI risks and responsible use.",
+            "slideId": "slide_3_001"
+          },
+          {
+            "time": 65,
+            "title": "The Real Risks of AI",
+            "description": "Bias, hallucinations, and data problems.",
+            "slideId": "slide_3_002"
+          },
+          {
+            "time": 150,
+            "title": "The 'Free Lunch' Risk",
+            "description": "Data privacy concerns with free AI tools.",
+            "slideId": "slide_3_003"
+          },
+          {
+            "time": 230,
+            "title": "Building Responsible AI Practices",
+            "description": "Governance, human-in-the-loop, critical thinking.",
+            "slideId": "slide_3_004"
+          },
+          {
+            "time": 310,
+            "title": "Practical Implementation Steps",
+            "description": "Assessment, pilot projects, education.",
+            "slideId": "slide_3_005"
+          },
+          {
+            "time": 390,
+            "title": "The Technology Landscape",
+            "description": "Platform options and integration strategy.",
+            "slideId": "slide_3_006"
+          },
+          {
+            "time": 470,
+            "title": "Lesson 3 Summary",
+            "description": "Recap of challenges and solutions.",
+            "slideId": "slide_3_007"
+          }
+        ]
+      },
+      {
+        "id": "lesson4",
+        "title": "Lesson 4: Scaling AI and The Human-AI Future",
+        "description": "Our final lesson explores the future outlook for Generative AI, a structured framework for scaling its use across organizations, and reinforces the irreplaceable role of human judgment, creativity, and ethics in an AI-augmented world.",
+        "duration": "17:15",
+        "publishDate": "2025-04-05",
+        "hostName": "Dr. AI Learning Assistant",
+        "audioUrl": "",
+        "imageUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_thumbnails/lesson4_8803c216-8112-4f96-ac9e-f8735089af1d.png",
+        "topics": [
+          "AI Plateau Effect",
+          "Workforce Preparation for AI",
+          "Three-Step AI Scaling Framework",
+          "Six Use Case Primitives",
+          "Impact/Effort Prioritization",
+          "The Human Element in AI"
+        ],
+        "learningObjectives": [
+          "Students will understand the 'Plateau Effect' in AI adoption and its implications.",
+          "Students will learn how to prepare their workforce for continuous AI integration.",
+          "Students will apply the 'Three-Step Framework' for scaling AI use cases.",
+          "Students will identify the 'Six Use Case Primitives' and the 'Impact/Effort Framework'.",
+          "Students will appreciate the enduring importance of human judgment and creativity in the AI era."
+        ],
+        "videoStructure": {
+          "slides": [
+            {
+              "slideId": "slide_4_001",
+              "order": 1,
+              "title": "Scaling AI for the Future",
+              "audioScript": {
+                "text": "Welcome to our final lesson! We've covered the basics of Generative AI, its real-world applications, and how to navigate its challenges. Now, drawing from Modules 6, 7, and 8 of your document, we'll look forward. We'll explore 'The Plateau Effect' in AI adoption, discuss how to prepare your workforce, and dive into a 'Structured Approach' for scaling AI use cases across your organization. Finally, we'll reaffirm 'The Human Element,' underscoring why human judgment, creativity, and empathy remain irreplaceable. This lesson will equip you with a roadmap for embracing the future of human-AI collaboration. Let's begin.",
+                "duration": 65,
+                "startTime": 0,
+                "endTime": 65,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson4/slide_4_001_dbea0275.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Scaling AI for the Future",
+                "content": {
+                  "title": "The Road Ahead for Generative AI",
+                  "subtitle": "Strategy, Scaling & Human-AI Synergy",
+                  "points": [
+                    "The AI 'Plateau Effect'",
+                    "Preparing Your Workforce",
+                    "Structured Approach to Scaling AI",
+                    "The Irreplaceable Human Element"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 65,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson4/slide_4_001/scaling_ai_for_the_future_20250619_120559_adb5fee7.png",
+                "visualFilePath": ""
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_4_002",
+              "order": 2,
+              "title": "The Plateau Effect & Workforce Prep",
+              "audioScript": {
+                "text": "Module 6 introduces 'The Plateau Effect.' According to Gartner's analysis, while AI capabilities will continue improving, the fundamental use cases we're seeing today will stabilize. This is good news: it means organizations can invest in AI skills and infrastructure without constant disruption. The focus is shifting from 'What can AI do?' to 'How do we do this safely, ethically, and effectively?' Preparing your workforce for this future involves 'Continuous Learning,' focusing on critical thinking and ethical reasoning. It also requires 'Cross-Functional Collaboration,' as AI implementation needs input from all departments. Finally, fostering 'Cultural Change' is key, moving from 'AI will replace us' to 'AI will augment us' by sharing success stories and encouraging experimentation.",
+                "duration": 85,
+                "startTime": 65,
+                "endTime": 150,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson4/slide_4_002_6e3c8211.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "AI Plateau & Workforce Readiness",
+                "content": {
+                  "title": "Future Focus: Stability & Skills",
+                  "subtitle": "Beyond Capability to Safe Implementation",
+                  "points": [
+                    "AI use cases stabilizing (Gartner)",
+                    "Focus: 'How to do this safely & ethically?'",
+                    "Workforce Prep: Continuous Learning",
+                    "Cross-Functional Collaboration",
+                    "Cultural Change: Augmentation, not replacement"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 85,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson4/slide_4_002/the_plateau_effect_workforce_prep_20250619_120608_29685023.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson4/slide_4_002_d92c770f.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_4_003",
+              "order": 3,
+              "title": "Structured Approach to AI Adoption",
+              "audioScript": {
+                "text": "The document highlights that successful AI implementations follow a systematic approach. OpenAI's analysis of over 300 successful deployments shows AI leaders achieve significantly faster revenue growth, higher shareholder returns, and better ROI. Yet, 92% of companies plan to increase AI investment, but only 1% believe their current efforts have reached full maturity. This 'gap represents both the challenge and the opportunity.' To bridge this, the document proposes 'The Three-Step Framework for Scaling AI Use Cases.' This framework provides a clear path for organizations to move from individual experimentation to widespread, impactful AI integration.",
+                "duration": 75,
+                "startTime": 150,
+                "endTime": 225,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson4/slide_4_003_aa60b3cd.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "infographic",
+                "title": "The AI Adoption Gap & Opportunity",
+                "layout": "stats-grid",
+                "keyStats": [
+                  {
+                    "label": "AI Leaders: Revenue Growth",
+                    "value": "1.5x Faster",
+                    "icon": "trending-up"
+                  },
+                  {
+                    "label": "Companies Investing in AI",
+                    "value": "92%",
+                    "icon": "pie-chart"
+                  },
+                  {
+                    "label": "AI Maturity Achieved",
+                    "value": "Only 1%",
+                    "icon": "target"
+                  }
+                ],
+                "backgroundStyle": "white",
+                "animationType": "fade-in",
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson4/slide_4_003/structured_approach_to_ai_adoption_20250619_120617_f07a7b9e.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson4/slide_4_003_6119c17c.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_4_004",
+              "order": 4,
+              "title": "Three-Step Framework: Step 1",
+              "audioScript": {
+                "text": "The first step in the framework is to 'Identify Opportunities Using the Three Key Areas,' thinking of AI as 'super-assistants.' First, target 'Repetitive, Low-Value Tasks.' As Claire Vo, Launch Darkly's CPO, suggests, make an 'Anti To-Do List' of annoying tasks and ask: 'how can I not have to do this again?' Second, address 'Skill Bottlenecks,' where AI can help employees expand into areas like data analysis or coding without waiting for other teams. Third, navigate 'Navigating Ambiguity' by using AI as a catalyst for brainstorming ideas, analyzing raw data, or figuring out next steps when clarity is lacking. These are common pain points where AI can provide immediate value.",
+                "duration": 85,
+                "startTime": 225,
+                "endTime": 310,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson4/slide_4_004_4d969c98.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Step 1: Identify AI Opportunities",
+                "content": {
+                  "title": "AI as Your 'Super-Assistant'",
+                  "subtitle": "Targeting Key Pain Points",
+                  "points": [
+                    "Repetitive, Low-Value Tasks (e.g., 'Anti To-Do List')",
+                    "Skill Bottlenecks (e.g., coding, data analysis support)",
+                    "Navigating Ambiguity (e.g., brainstorming, insights)"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 85,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson4/slide_4_004/three-step_framework_step_1_20250619_120629_9f011478.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson4/slide_4_004_a463c652.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_4_005",
+              "order": 5,
+              "title": "Three-Step Framework: Step 2",
+              "audioScript": {
+                "text": "Step 2 is to 'Teach Your Teams the Six Use Case Primitives.' These are fundamental patterns applicable across departments: First, 'Content Creation' for sales summaries, reports, or blog posts. Second, 'Research' for quick concept learning or multi-step projects. Third, 'Coding' for debugging or generating scripts. Fourth, 'Data Analysis' for harmonizing data and identifying trends. Fifth, 'Ideation and Strategy' for brainstorming and structuring documents. And sixth, 'Automation' for repeatable tasks like weekly updates. These primitives provide a common language and approach for identifying and applying AI solutions, empowering employees to find their own use cases.",
+                "duration": 80,
+                "startTime": 310,
+                "endTime": 390,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson4/slide_4_005_0901eaf8.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "infographic",
+                "title": "The Six AI Use Case Primitives",
+                "layout": "network-diagram",
+                "keyStats": [
+                  {
+                    "label": "Content Creation",
+                    "value": "",
+                    "icon": "edit"
+                  },
+                  {
+                    "label": "Research",
+                    "value": "",
+                    "icon": "search"
+                  },
+                  {
+                    "label": "Coding",
+                    "value": "",
+                    "icon": "code"
+                  },
+                  {
+                    "label": "Data Analysis",
+                    "value": "",
+                    "icon": "bar-chart"
+                  },
+                  {
+                    "label": "Ideation & Strategy",
+                    "value": "",
+                    "icon": "lightbulb"
+                  },
+                  {
+                    "label": "Automation",
+                    "value": "",
+                    "icon": "robot"
+                  }
+                ],
+                "backgroundStyle": "white",
+                "animationType": "fade-in",
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson4/slide_4_005/three-step_framework_step_2_20250619_120642_f811fff7.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson4/slide_4_005_80b4caf2.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_4_006",
+              "order": 6,
+              "title": "Three-Step Framework: Step 3",
+              "audioScript": {
+                "text": "Step 3 is to 'Prioritize Using the Impact/Effort Framework.' Once you have many use cases, this quadrant helps you decide where to focus: 'High ROI Focus' (High Impact/Low Effort) are quick wins that build momentum. 'Self-Service' (Low Impact/Low Effort) tasks are personal assistant tasks valuable across teams. 'Scope and Prioritize' (High Impact/High Effort) are transformational projects requiring more resources. And 'Deprioritize' (Low Impact/High Effort) are those to set aside for later. This framework ensures resources are allocated effectively, focusing on what brings the most value. Advanced users embed AI across entire workflows, as seen in the Estée Lauder example with their systematic GPT Lab approach.",
+                "duration": 80,
+                "startTime": 390,
+                "endTime": 470,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson4/slide_4_006_61967a30.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "Step 3: Prioritize AI Use Cases",
+                "content": {
+                  "title": "Impact/Effort Framework",
+                  "subtitle": "Strategic Prioritization for AI",
+                  "points": [
+                    "High ROI Focus (High Impact/Low Effort)",
+                    "Self-Service (Low Impact/Low Effort)",
+                    "Scope & Prioritize (High Impact/High Effort)",
+                    "Deprioritize (Low Impact/High Effort)"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 80,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson4/slide_4_006/three-step_framework_step_3_20250619_120653_efa79921.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson4/slide_4_006_626ab1d9.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            },
+            {
+              "slideId": "slide_4_007",
+              "order": 7,
+              "title": "The Human Element & Key Takeaways",
+              "audioScript": {
+                "text": "Finally, let's reinforce 'The Human Element.' Your document stresses that 'AI is advancing rapidly, but human judgment, creativity, empathy, and ethical reasoning remain irreplaceable.' As Moderna's CEO Stéphane Bancel puts it: 'We're looking at every business process... and thinking about how to redesign them with AI.' But even Microsoft, after billions in AI investment, emphasizes the need for human intervention. The goal isn't AI doing everything, but humans and AI working together to achieve outcomes neither could accomplish alone. Generative AI is a powerful tool to augment human capabilities. For organizations, it's about clear governance, secure tools, empowering employees, and investing in education. For individuals, it's about experimenting, developing prompt engineering skills, and critically evaluating AI outputs. The future of work is a collaborative one, where human unique qualities are amplified by AI. Thank you for joining me on this journey. Keep learning, keep experimenting, and embrace the collaborative potential of Generative AI!",
+                "duration": 120,
+                "startTime": 470,
+                "endTime": 590,
+                "audioUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_audio/lesson4/slide_4_007_b4998da5.mp3",
+                "audioFilePath": ""
+              },
+              "visualContent": {
+                "type": "slide",
+                "title": "The Human Element in AI",
+                "content": {
+                  "title": "Uniquely Human Qualities",
+                  "subtitle": "Irreplaceable in the AI Era",
+                  "points": [
+                    "Human Judgment, Creativity, Empathy, Ethical Reasoning",
+                    "AI Augments, It Doesn't Replace",
+                    "Collaborative Future: Human + AI",
+                    "Focus on Redesigning Processes with AI"
+                  ],
+                  "backgroundStyle": "white",
+                  "textStyle": "modern-clean"
+                },
+                "duration": 120,
+                "visualUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/infographics/lesson4/slide_4_007/the_human_element_key_takeaways_20250619_120704_2befb276.png",
+                "visualFilePath": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_videos/lesson4/slide_4_007_b665c1c1.mp4"
+              },
+              "output": {
+                "mergedVideoUrl": "",
+                "mergedVideoFilePath": "",
+                "status": "pending"
+              }
+            }
+          ],
+          "episodeOutput": {
+            "finalVideoUrl": "https://soosimage.s3.eu-west-2.amazonaws.com/podcast_merged/episodes/lesson4_851395ed.mp4",
+            "finalVideoFilePath": "",
+            "totalDuration": 590,
+            "status": "pending",
+            "processingLog": [],
+            "metadata": {
+              "resolution": "1920x1080",
+              "frameRate": 30,
+              "audioCodec": "aac",
+              "videoCodec": "h264",
+              "bitrate": "5000k"
+            }
+          }
+        },
+        "keyTimestamps": [
+          {
+            "time": 0,
+            "title": "Scaling AI for the Future",
+            "description": "Introduction to AI's future and human role.",
+            "slideId": "slide_4_001"
+          },
+          {
+            "time": 65,
+            "title": "The Plateau Effect & Workforce Prep",
+            "description": "Stability of use cases and workforce readiness.",
+            "slideId": "slide_4_002"
+          },
+          {
+            "time": 150,
+            "title": "Structured Approach to AI Adoption",
+            "description": "The AI adoption gap and 3-step framework intro.",
+            "slideId": "slide_4_003"
+          },
+          {
+            "time": 225,
+            "title": "Three-Step Framework: Step 1",
+            "description": "Identify opportunities (low-value tasks, bottlenecks, ambiguity).",
+            "slideId": "slide_4_004"
+          },
+          {
+            "time": 310,
+            "title": "Three-Step Framework: Step 2",
+            "description": "Teach the Six Use Case Primitives.",
+            "slideId": "slide_4_005"
+          },
+          {
+            "time": 390,
+            "title": "Three-Step Framework: Step 3",
+            "description": "Prioritize with Impact/Effort Framework.",
+            "slideId": "slide_4_006"
+          },
+          {
+            "time": 470,
+            "title": "The Human Element & Key Takeaways",
+            "description": "Irreplaceable human skills and final action items.",
+            "slideId": "slide_4_007"
+          }
+        ]
+      }
+    ]
+  }
+}
