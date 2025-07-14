@@ -1,5 +1,6 @@
 /** @type {import('next').NextConfig} */
 import nextra from "nextra";
+export const experimental = { middlewareNodeCompat: true };
 
 const withNextra = nextra({
   theme: "nextra-theme-docs",
