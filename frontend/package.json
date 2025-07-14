@@ -14,7 +14,7 @@
     "seed": "ts-node -r tsconfig-paths/register -P tsconfig.scripts.json scripts/seed.ts"
   },
   "dependencies": {
-    "@clerk/nextjs": "^5.2.2",
+    "@clerk/nextjs": "^5.6.2",
     "@dagrejs/dagre": "^1.1.4",
     "@excalidraw/excalidraw": "^0.18.0",
     "@google/generative-ai": "^0.14.1",
